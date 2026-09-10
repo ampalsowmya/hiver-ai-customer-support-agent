@@ -1,0 +1,6 @@
+metric,value
+total_rows,2811774
+inbound_customer_tweets,1537843
+outbound_support_tweets,1273931
+unique_tweet_ids,2811774
+duplicate_tweet_ids,0

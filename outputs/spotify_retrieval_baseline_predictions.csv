@@ -1,0 +1,1001 @@
+annotation_id,query_tweet_id,query_text,query_intent,rank,retrieved_tweet_id,retrieved_text,similarity_score
+1,2841203,<USER> Thnx. Mostly listen on iPhone. You used to be able to do that on the iOS app right? No more? :(,FEATURE_REQUEST,1,1004828,<USER> Thnx,0.3086286833800771
+1,2841203,<USER> Thnx. Mostly listen on iPhone. You used to be able to do that on the iOS app right? No more? :(,FEATURE_REQUEST,2,1381267,<USER> thnx!!,0.3086286833800771
+1,2841203,<USER> Thnx. Mostly listen on iPhone. You used to be able to do that on the iOS app right? No more? :(,FEATURE_REQUEST,3,1601179,<USER> Couldn’t say I mostly listen mobile,0.27219399445520986
+1,2841203,<USER> Thnx. Mostly listen on iPhone. You used to be able to do that on the iOS app right? No more? :(,FEATURE_REQUEST,4,2441993,<USER> thnx i luh u spoofy !,0.23729427645611686
+1,2841203,<USER> Thnx. Mostly listen on iPhone. You used to be able to do that on the iOS app right? No more? :(,FEATURE_REQUEST,5,1244054,"<USER> I’m using the iOS app, version 8.4.22",0.21717820335600063
+2,848550,<USER> <USER> <USER> Thank you!😊Lots of #Roku users really love #Spotify but it's so frustrating that an important feature like playlists is missing atm!😔#RokuUK,PLAYLIST_LIBRARY,1,2972954,<USER> <USER> <USER> <USER> <USER> Thank you 😂,0.285368663644003
+2,848550,<USER> <USER> <USER> Thank you!😊Lots of #Roku users really love #Spotify but it's so frustrating that an important feature like playlists is missing atm!😔#RokuUK,PLAYLIST_LIBRARY,2,1602044,<USER> <USER> thank you ❤️,0.28054906835257704
+2,848550,<USER> <USER> <USER> Thank you!😊Lots of #Roku users really love #Spotify but it's so frustrating that an important feature like playlists is missing atm!😔#RokuUK,PLAYLIST_LIBRARY,3,2910976,<USER> <USER> THANK YOU!,0.28054906835257704
+2,848550,<USER> <USER> <USER> Thank you!😊Lots of #Roku users really love #Spotify but it's so frustrating that an important feature like playlists is missing atm!😔#RokuUK,PLAYLIST_LIBRARY,4,1358965,<USER> <USER> Thank you 😊❤,0.28054906835257704
+2,848550,<USER> <USER> <USER> Thank you!😊Lots of #Roku users really love #Spotify but it's so frustrating that an important feature like playlists is missing atm!😔#RokuUK,PLAYLIST_LIBRARY,5,2910957,<USER> <USER> Thank you!,0.28054906835257704
+3,418520,<USER> Useless.,OTHER,1,310856,<USER> My library is ~35k songs. I see 1749 in the app. In a useless flat list.,0.3252385593226896
+3,418520,<USER> Useless.,OTHER,2,839493,"<USER> Useless. If that was the issue, I wouldn't have the need to contact you.",0.27301217236050246
+3,418520,<USER> Useless.,OTHER,3,700658,"A whole algorithm for a simple function that's existed since Discman days, and it's entirely useless. Amazing. <USER> <URL>",0.2682866013816389
+3,418520,<USER> Useless.,OTHER,4,1940031,<USER> But it’s an album I have locally. Why would you have this “feature” if it’s practically useless?,0.25240688201692013
+3,418520,<USER> Useless.,OTHER,5,1384543,<USER> I already wrote in the link you provided ... your support page is in fact useless,0.2481330154836197
+4,1018201,<USER> Thank you so much. I really appreciated a such beautiful playlist. It was so fantastic and kind from you all. Have a nice week 👌👍,OTHER,1,1219444,<USER> thank you so much! Have a nice day! :),0.4448920852940151
+4,1018201,<USER> Thank you so much. I really appreciated a such beautiful playlist. It was so fantastic and kind from you all. Have a nice week 👌👍,OTHER,2,2942697,<USER> Thank you so much!!,0.410586415630062
+4,1018201,<USER> Thank you so much. I really appreciated a such beautiful playlist. It was so fantastic and kind from you all. Have a nice week 👌👍,OTHER,3,2865508,<USER> Thank you so much!!!!,0.410586415630062
+4,1018201,<USER> Thank you so much. I really appreciated a such beautiful playlist. It was so fantastic and kind from you all. Have a nice week 👌👍,OTHER,4,903711,<USER> thank you so much 😩,0.410586415630062
+4,1018201,<USER> Thank you so much. I really appreciated a such beautiful playlist. It was so fantastic and kind from you all. Have a nice week 👌👍,OTHER,5,1014515,<USER> Thank you so much,0.410586415630062
+5,2317514,<USER> Yes it exibits the same behavior on a second PC running Windows 10 with two monitors @ 1080p. Mine is three @ 1440p. Second computer's version is 1.0.67.582.g19436fa3,APP_TECHNICAL,1,2716524,"<USER> It's a Win7 PC, version is 1.0.67.582.g19436fa3",0.4377987225499847
+5,2317514,<USER> Yes it exibits the same behavior on a second PC running Windows 10 with two monitors @ 1080p. Mine is three @ 1440p. Second computer's version is 1.0.67.582.g19436fa3,APP_TECHNICAL,2,2736535,<USER> I'm on an MSI laptop running Windows 10 and spotify version 1.0.67.582.g19436fa3,0.3804147426037013
+5,2317514,<USER> Yes it exibits the same behavior on a second PC running Windows 10 with two monitors @ 1080p. Mine is three @ 1440p. Second computer's version is 1.0.67.582.g19436fa3,APP_TECHNICAL,3,2674458,"<USER> PC, Win10home, 1.0.67.582.g19436fa3",0.374062362431232
+5,2317514,<USER> Yes it exibits the same behavior on a second PC running Windows 10 with two monitors @ 1080p. Mine is three @ 1440p. Second computer's version is 1.0.67.582.g19436fa3,APP_TECHNICAL,4,2797361,"<USER> Spotify Premium desktop app, Windows 10, 1.0.67.582.g19436fa3",0.3566071403327883
+5,2317514,<USER> Yes it exibits the same behavior on a second PC running Windows 10 with two monitors @ 1080p. Mine is three @ 1440p. Second computer's version is 1.0.67.582.g19436fa3,APP_TECHNICAL,5,131807,<USER> sure it is windows 10 Home and app version is 1.0.67.582.g19436fa3 (Windows Store version),0.3546707206864031
+6,1652626,"<USER> I'm using a 2017 Samsung A5, running Android 7.0, with Spotify 8.4.23.784 armV7",APP_TECHNICAL,1,850024,<USER> Android 7.0 & Spotify 8.4.23.784 armV7,0.6235427291853739
+6,1652626,"<USER> I'm using a 2017 Samsung A5, running Android 7.0, with Spotify 8.4.23.784 armV7",APP_TECHNICAL,2,1304769,"<USER> I'm using OnePlus 5 runnin android 7.1, Spotify 8.4.23.784",0.5167431400036046
+6,1652626,"<USER> I'm using a 2017 Samsung A5, running Android 7.0, with Spotify 8.4.23.784 armV7",APP_TECHNICAL,3,1877947,<USER> 8.4.23.784 armV7 Android V 7.0,0.4890854215591549
+6,1652626,"<USER> I'm using a 2017 Samsung A5, running Android 7.0, with Spotify 8.4.23.784 armV7",APP_TECHNICAL,4,970678,<USER> Android 7.1.2 Spotify 8.4.23.784 armV7. Tried uninstalling and reinstalling,0.47303542824092204
+6,1652626,"<USER> I'm using a 2017 Samsung A5, running Android 7.0, with Spotify 8.4.23.784 armV7",APP_TECHNICAL,5,1553417,"<USER> Xperia M C1905, Android 4.3, Spotify Version 8.4.23.784 armV7",0.465530575272256
+7,426787,"<USER> thanks, but the vote button says ""sorry you can't like this post"" ? and it's under consideration since 10 months back?",FEATURE_REQUEST,1,2211018,<USER> <USER> Nothing happens when I press the vote button.,0.2731813291286176
+7,426787,"<USER> thanks, but the vote button says ""sorry you can't like this post"" ? and it's under consideration since 10 months back?",FEATURE_REQUEST,2,233158,"<USER> I can't seem to vote for that idea, the + vote button is disabled although I'm logged in.",0.24747398745073146
+7,426787,"<USER> thanks, but the vote button says ""sorry you can't like this post"" ? and it's under consideration since 10 months back?",FEATURE_REQUEST,3,2395926,"<USER> Oh, just tried to vote for that idea but it won't let me! (error mssg ""sorry you can't give likes to this post"")...",0.24372139886599403
+7,426787,"<USER> thanks, but the vote button says ""sorry you can't like this post"" ? and it's under consideration since 10 months back?",FEATURE_REQUEST,4,1861113,"<USER> Yeah, the vote button doesn't work. Also last update was 1 year ago.....",0.22615317983381505
+7,426787,"<USER> thanks, but the vote button says ""sorry you can't like this post"" ? and it's under consideration since 10 months back?",FEATURE_REQUEST,5,1550377,"<USER> Hi! Tried both things and didn't work. I just noticed that appears a small message: ""Sorry, you can't give likes to this post."".",0.20554167006493387
+8,2826940,<USER> Sent you guys a DM.,OTHER,1,1146228,<USER> sent you a DM,0.746971411883208
+8,2826940,<USER> Sent you guys a DM.,OTHER,2,1542785,<USER> Sent you a dm.,0.746971411883208
+8,2826940,<USER> Sent you guys a DM.,OTHER,3,969369,<USER> Sent you a DM!,0.746971411883208
+8,2826940,<USER> Sent you guys a DM.,OTHER,4,948373,<USER> Sent you a DM! :),0.746971411883208
+8,2826940,<USER> Sent you guys a DM.,OTHER,5,1053956,<USER> Sent you a DM.,0.746971411883208
+9,2338258,"<USER> okay cool, thank you!",OTHER,1,2774551,<USER> Okay Thank you!,0.6948285319855978
+9,2338258,"<USER> okay cool, thank you!",OTHER,2,1444708,<USER> Okay thank you 🙂,0.6948285319855978
+9,2338258,"<USER> okay cool, thank you!",OTHER,3,2957855,<USER> Okay thank you!!!💖💖💖,0.6948285319855978
+9,2338258,"<USER> okay cool, thank you!",OTHER,4,2110182,"<USER> okay, thank you!",0.6948285319855978
+9,2338258,"<USER> okay cool, thank you!",OTHER,5,2621353,"<USER> Okay, Thank you",0.6948285319855978
+10,2485954,<USER> Haha! Tnx!,OTHER,1,2919373,<USER> HAHA YAAAAASSS! <URL>,0.9392429210110718
+10,2485954,<USER> Haha! Tnx!,OTHER,2,2239783,<USER> Haha will do,0.7527174643487702
+10,2485954,<USER> Haha! Tnx!,OTHER,3,2913868,<USER> Haha thanks 😁,0.7464006099523779
+10,2485954,<USER> Haha! Tnx!,OTHER,4,1167260,<USER> Haha thanks !,0.7464006099523779
+10,2485954,<USER> Haha! Tnx!,OTHER,5,2901237,<USER> haha thank you !! 😏,0.6727338999305068
+11,29607,"<USER> Yep, tried several times, didn't fix :(",APP_TECHNICAL,1,1237224,<USER> It isn't working... Tried several times. <URL>,0.44667145295361466
+11,29607,"<USER> Yep, tried several times, didn't fix :(",APP_TECHNICAL,2,374278,<USER> yep,0.4409066701137495
+11,29607,"<USER> Yep, tried several times, didn't fix :(",APP_TECHNICAL,3,1233073,<USER> Yep!,0.4409066701137495
+11,29607,"<USER> Yep, tried several times, didn't fix :(",APP_TECHNICAL,4,1934137,<USER> Yep,0.4409066701137495
+11,29607,"<USER> Yep, tried several times, didn't fix :(",APP_TECHNICAL,5,418507,<USER> Yep 11.0.2,0.39611545295238704
+12,1115800,"<USER> nop no diff, still ""This song is not available. If you have the file on your computer you can import it.""",CONTENT_AVAILABILITY,1,1769705,"<USER> The message i get is ""This song is not available. If you have the file on your computer, you can import it.""",0.7780813842349805
+12,1115800,"<USER> nop no diff, still ""This song is not available. If you have the file on your computer you can import it.""",CONTENT_AVAILABILITY,2,1916968,"<USER> ""This song is not available. If you have the file on your computer you can import it."" while trying to listen to Eminem. Screenshot coming.",0.7222855006962383
+12,1115800,"<USER> nop no diff, still ""This song is not available. If you have the file on your computer you can import it.""",CONTENT_AVAILABILITY,3,857988,<USER> Thanks yeah it comes up with a blue strip that says 'This song is not available. If you have the file on your computer you can import it.',0.7176036284835081
+12,1115800,"<USER> nop no diff, still ""This song is not available. If you have the file on your computer you can import it.""",CONTENT_AVAILABILITY,4,1945703,"<USER> Hi! I think the version is 1.0.66.478.g1296534d. This song is not available, if you have the file on your computer you can import it.",0.7111153543448181
+12,1115800,"<USER> nop no diff, still ""This song is not available. If you have the file on your computer you can import it.""",CONTENT_AVAILABILITY,5,2055172,"<USER> Still doesn't work on my phone & on my comp it says ""This song is not available. If you have the file on your computer you can import it.""",0.7018798765212992
+13,1104901,<USER> Ive sorted it now but thank you anyway,OTHER,1,1788403,<USER> its connected now but thank you,0.4421796076589335
+13,1104901,<USER> Ive sorted it now but thank you anyway,OTHER,2,2786602,<USER> It said “503. No server to handle request”. I’ve gone with Amazon Music now but thank you anyway 😘,0.3471691169085532
+13,1104901,<USER> Ive sorted it now but thank you anyway,OTHER,3,830565,<USER> That’s okay!! Thank you anyway ☺️,0.3292553162092121
+13,1104901,<USER> Ive sorted it now but thank you anyway,OTHER,4,2025892,<USER> I've sorted it thank you!,0.324419520884196
+13,1104901,<USER> Ive sorted it now but thank you anyway,OTHER,5,1953024,"<USER> It's all ok, and sorted itself out now! Thank you anyway :)",0.3020499507135674
+14,1209198,"<USER> Unfortunately, I'm still on the waiting list🙂 Were is the problem? We are EU country.",CONTENT_AVAILABILITY,1,389441,<USER> Unfortunately all.,0.31397378580599455
+14,1209198,"<USER> Unfortunately, I'm still on the waiting list🙂 Were is the problem? We are EU country.",CONTENT_AVAILABILITY,2,1299580,<USER> Thank you. We are waiting,0.25677448820592796
+14,1209198,"<USER> Unfortunately, I'm still on the waiting list🙂 Were is the problem? We are EU country.",CONTENT_AVAILABILITY,3,176532,<USER> Unfortunately no.,0.2329841372487046
+14,1209198,"<USER> Unfortunately, I'm still on the waiting list🙂 Were is the problem? We are EU country.",CONTENT_AVAILABILITY,4,1847251,<USER> Unfortunately the same problem still occurs.,0.20974949901835022
+14,1209198,"<USER> Unfortunately, I'm still on the waiting list🙂 Were is the problem? We are EU country.",CONTENT_AVAILABILITY,5,2574119,"<USER> Hello. 😀 Thanks, but I'm on your waiting list for 2 years already 😂",0.20043382289199535
+15,283259,"<USER> 8.4.20.535, ios11.0.1 Is there an update coming for spotify to support ios11 properly?",DEVICE_PLATFORM,1,2038564,<USER> 8.4.20.535,0.4784072675795663
+15,283259,"<USER> 8.4.20.535, ios11.0.1 Is there an update coming for spotify to support ios11 properly?",DEVICE_PLATFORM,2,728844,<USER> It’s 8.4.20.535,0.3599612676813362
+15,283259,"<USER> 8.4.20.535, ios11.0.1 Is there an update coming for spotify to support ios11 properly?",DEVICE_PLATFORM,3,374594,<USER> 8.4.20.535 on an iPhone 7 with iOS 11.0.2,0.33029476229883337
+15,283259,"<USER> 8.4.20.535, ios11.0.1 Is there an update coming for spotify to support ios11 properly?",DEVICE_PLATFORM,4,1517179,"<USER> iPhone 6s+, 8.4.20.535",0.2860416754730515
+15,283259,"<USER> 8.4.20.535, ios11.0.1 Is there an update coming for spotify to support ios11 properly?",DEVICE_PLATFORM,5,227482,"<USER> Hi, 8.4.20.535 thanks",0.26703123856138317
+16,1250609,<USER> Failed again,APP_TECHNICAL,1,848533,"<USER> It sometimes appears a playback failed message, but not all the time",0.26364032783408764
+16,1250609,<USER> Failed again,APP_TECHNICAL,2,1170432,<USER> I try to register premium. But always failed. Ok check DM thanks,0.2632027934236016
+16,1250609,<USER> Failed again,APP_TECHNICAL,3,1816106,"<USER> ""Playback Failed"" - Forces me to stop my work, go to iPad, reload Spotify, restart adverts, again. THAT is just BS. Feature, not a Bug? <URL>",0.22833003444430075
+16,1250609,<USER> Failed again,APP_TECHNICAL,4,936222,<USER> Thanks again.,0.2135857852875993
+16,1250609,<USER> Failed again,APP_TECHNICAL,5,2688595,<USER> Thanks again!,0.2135857852875993
+17,664666,<USER> Also where is the boy band project music? Where can i listen to find that girl by them? <URL>,CONTENT_AVAILABILITY,1,1700631,<USER> It’s ok. I can listen to the Justice League soundtrack. Oy. 🙄🙄🙄🙄,0.20976184912683218
+17,664666,<USER> Also where is the boy band project music? Where can i listen to find that girl by them? <URL>,CONTENT_AVAILABILITY,2,890669,<USER> Also thank you,0.19260058847002454
+17,664666,<USER> Also where is the boy band project music? Where can i listen to find that girl by them? <URL>,CONTENT_AVAILABILITY,3,2308798,"<USER> Hi! Is ""1.0.67.582.g19436fa3"" a version number? If not, where do I find that?",0.1860956083387877
+17,664666,<USER> Also where is the boy band project music? Where can i listen to find that girl by them? <URL>,CONTENT_AVAILABILITY,4,1031944,"<USER> Also, daniela andrade's summertime sadness, possible?",0.1823126965193606
+17,664666,<USER> Also where is the boy band project music? Where can i listen to find that girl by them? <URL>,CONTENT_AVAILABILITY,5,1665425,<USER> where is HELLO. we want the FULL album,0.17758939660793585
+18,2594591,<USER> It works now however when I tried again (the working time) it pushed several empty “Log In” titled pages and I had to press “Back” several times to get to the two buttons again so I could press Log In again and then it worked.,ACCOUNT_LOGIN,1,1751383,<USER> it works now!,0.2365024068081098
+18,2594591,<USER> It works now however when I tried again (the working time) it pushed several empty “Log In” titled pages and I had to press “Back” several times to get to the two buttons again so I could press Log In again and then it worked.,ACCOUNT_LOGIN,2,1356620,<USER> Seems I had to log in on my desktop + phone at the same time... It's working now!,0.23170007092357692
+18,2594591,<USER> It works now however when I tried again (the working time) it pushed several empty “Log In” titled pages and I had to press “Back” several times to get to the two buttons again so I could press Log In again and then it worked.,ACCOUNT_LOGIN,3,412009,"<USER> I figured out a fix after this happening a few times: go back to main screen, press Log In again: correct screen loads",0.20953351290884234
+18,2594591,<USER> It works now however when I tried again (the working time) it pushed several empty “Log In” titled pages and I had to press “Back” several times to get to the two buttons again so I could press Log In again and then it worked.,ACCOUNT_LOGIN,4,1406401,<USER> it works now!! thank u!!,0.19776779029685587
+18,2594591,<USER> It works now however when I tried again (the working time) it pushed several empty “Log In” titled pages and I had to press “Back” several times to get to the two buttons again so I could press Log In again and then it worked.,ACCOUNT_LOGIN,5,1692166,<USER> Yea its says likesorry spotify isnt working try again later or it will just tell me to log in and i log in and it take me back to the log in,0.19139938892372044
+19,1021653,<USER> personal - the vamps,CONTENT_AVAILABILITY,1,1769708,"<USER> Work desktop, personal laptop and cell phone.",0.3296701731517101
+19,1021653,<USER> personal - the vamps,CONTENT_AVAILABILITY,2,780938,<USER> 3/4 of my personal playlist was deleted,0.3190386856920988
+19,1021653,<USER> personal - the vamps,CONTENT_AVAILABILITY,3,1956869,<USER> <USER> after the personal playlist the day become even more beautiful!!,0.2908552647685036
+19,1021653,<USER> personal - the vamps,CONTENT_AVAILABILITY,4,223053,<USER> So that's a yes? I have to pay to not shuffle my personal music?,0.25130161887522123
+19,1021653,<USER> personal - the vamps,CONTENT_AVAILABILITY,5,1264084,<USER> But that's possible via music distribution networks? I see <USER> podcast and couple others on Spotify. Or it is personal agreements?,0.21870147010408414
+20,1134293,"<USER> actually, which link?",OTHER,1,962271,"<USER> Actually, figured it out! Thank you for the reply",0.2925824708383881
+20,1134293,"<USER> actually, which link?",OTHER,2,2448565,"<USER> Actually, yes, restarting the device did help. Thanks.",0.28518309111528073
+20,1134293,"<USER> actually, which link?",OTHER,3,1758265,<USER> Actually unplugging one of the Echos reset everything. So far so good! :-),0.2755495286466357
+20,1134293,"<USER> actually, which link?",OTHER,4,462678,<USER> I actually just cleared all cookies and it worked!,0.2720225007804209
+20,1134293,"<USER> actually, which link?",OTHER,5,2637127,"<USER> Actually I just found it out, but thanks anyways",0.2698063584611604
+21,1759303,<USER> How long is this going to take,OTHER,1,573760,<USER> How long does it take to get these things updated?,0.31391258756062
+21,1759303,<USER> How long is this going to take,OTHER,2,1973050,<USER> How long does it take every other app I use have updated,0.3017941182624909
+21,1759303,<USER> How long is this going to take,OTHER,3,1245077,<USER> How long do you think it will take for the issue to be resolved? Lmk thanks,0.28045246925246936
+21,1759303,<USER> How long is this going to take,OTHER,4,2526443,<USER> How long does it take? See referenced tweet below 👇🏼👇🏼 Developer information went out months ago.. <URL>,0.2721888257443176
+21,1759303,<USER> How long is this going to take,OTHER,5,2447652,<USER> How long does it usually take to hear back? Already missing my music,0.2662595039021903
+22,1848577,<USER> I have just got it! ❤️,OTHER,1,2360619,"<USER> Just got it today, looks slick!",0.4472211775401683
+22,1848577,<USER> I have just got it! ❤️,OTHER,2,347199,<USER> got it!,0.41115211958215847
+22,1848577,<USER> I have just got it! ❤️,OTHER,3,559981,<USER> Just got it. My kids will be chuffed. Thanks <USER> <USER>,0.3928063553226594
+22,1848577,<USER> I have just got it! ❤️,OTHER,4,2364788,<USER> Just got the update 😘,0.39026667124624576
+22,1848577,<USER> I have just got it! ❤️,OTHER,5,2338217,<USER> Lol got it,0.3605182189275404
+23,2518427,<USER> <USER> help me,CONTENT_AVAILABILITY,1,2815952,<USER> <USER> HELP ME,1.0000000000000002
+23,2518427,<USER> <USER> help me,CONTENT_AVAILABILITY,2,895156,<USER> <USER> help me instead,0.8936871340789578
+23,2518427,<USER> <USER> help me,CONTENT_AVAILABILITY,3,2317065,<USER> <USER> help a girl out please,0.47553901980399677
+23,2518427,<USER> <USER> help me,CONTENT_AVAILABILITY,4,1575209,<USER> Can you help me,0.4075278306117488
+23,2518427,<USER> <USER> help me,CONTENT_AVAILABILITY,5,1189845,<USER> <USER> PLEASE HELP ME ON DM!!!!:(,0.37999056663225644
+24,2752826,<USER> No pending updates.,APP_TECHNICAL,1,856683,<USER> No :-(((((,0.44634845477545493
+24,2752826,<USER> No pending updates.,APP_TECHNICAL,2,1769556,<USER> No Movies,0.44634845477545493
+24,2752826,<USER> No pending updates.,APP_TECHNICAL,3,1486558,<USER> no,0.44634845477545493
+24,2752826,<USER> No pending updates.,APP_TECHNICAL,4,1363399,<USER> No 🤷‍♂️,0.44634845477545493
+24,2752826,<USER> No pending updates.,APP_TECHNICAL,5,387327,<USER> No,0.44634845477545493
+25,871351,<USER> It was on the messenger,OTHER,1,2766468,<USER> It's 7.0 :),0.3688484813329975
+25,871351,<USER> It was on the messenger,OTHER,2,2857522,<USER> It's Kimberly.,0.3688484813329975
+25,871351,<USER> It was on the messenger,OTHER,3,665720,<USER> It was on Spotify for less than 24 hrs. That’s some crazy licenses,0.35646693278817154
+25,871351,<USER> It was on the messenger,OTHER,4,2336989,<USER> Idk what i was on. I think it was a playlist radio or something but it was pretty random 😂,0.34007737571249
+25,871351,<USER> It was on the messenger,OTHER,5,594084,"<USER> It was on there already, you guys just took it away this morning.",0.3375516467738514
+26,2916520,"<USER> Yep all good, thank you",OTHER,1,2912375,<USER> All good thank you 👍🏼,0.6655410252504218
+26,2916520,"<USER> Yep all good, thank you",OTHER,2,1233073,<USER> Yep!,0.48264178523484935
+26,2916520,"<USER> Yep all good, thank you",OTHER,3,374278,<USER> yep,0.48264178523484935
+26,2916520,"<USER> Yep all good, thank you",OTHER,4,1934137,<USER> Yep,0.48264178523484935
+26,2916520,"<USER> Yep all good, thank you",OTHER,5,418507,<USER> Yep 11.0.2,0.43361074424827384
+27,806566,<USER> Just tried that and still having the issue this morning,APP_TECHNICAL,1,1719047,<USER> Just tried that. Nope. :(,0.4360462692098366
+27,806566,<USER> Just tried that and still having the issue this morning,APP_TECHNICAL,2,2026566,<USER> <USER> I tried that and still the same,0.3951721781223322
+27,806566,<USER> Just tried that and still having the issue this morning,APP_TECHNICAL,3,189335,"<USER> That didnt work either, I am still having the issue.",0.34374524702223064
+27,806566,<USER> Just tried that and still having the issue this morning,APP_TECHNICAL,4,2598010,<USER> Tried that and still have the same problem.,0.3434521146872225
+27,806566,<USER> Just tried that and still having the issue this morning,APP_TECHNICAL,5,1847883,<USER> I’ve done that and also reinstalled the app and still have the issue. Seems to be isolated to Android version. iOS not having the issue.,0.3330940726650446
+28,1353055,<USER> seems to have Worked. I have only tried to delete data and Cache. Reinstalling seemed to the Trick.,APP_TECHNICAL,1,2552612,"<USER> Seems to have worked, thanks",0.4412615807881123
+28,1353055,<USER> seems to have Worked. I have only tried to delete data and Cache. Reinstalling seemed to the Trick.,APP_TECHNICAL,2,2153105,"<USER> Seems to have worked, thank you!",0.4254899993578739
+28,1353055,<USER> seems to have Worked. I have only tried to delete data and Cache. Reinstalling seemed to the Trick.,APP_TECHNICAL,3,1313116,<USER> restarting seemed to do the trick. Cheers! :),0.34987055186309945
+28,1353055,<USER> seems to have Worked. I have only tried to delete data and Cache. Reinstalling seemed to the Trick.,APP_TECHNICAL,4,2128571,<USER> That seems to have worked! Thanks,0.33196255403481073
+28,1353055,<USER> seems to have Worked. I have only tried to delete data and Cache. Reinstalling seemed to the Trick.,APP_TECHNICAL,5,1295660,<USER> This seems to have worked thanks!,0.326389211780013
+29,1699003,"<USER> This is totally unacceptable for a company as big as Spotify with a great product team like yours, move on.",OTHER,1,2754913,<USER> Any move on this yet?,0.27514685097007385
+29,1699003,"<USER> This is totally unacceptable for a company as big as Spotify with a great product team like yours, move on.",OTHER,2,1243465,<USER> Totally understand :-) ❤️,0.1944504837538683
+29,1699003,"<USER> This is totally unacceptable for a company as big as Spotify with a great product team like yours, move on.",OTHER,3,2251485,"<USER> Nope, going to Apple Music. They have them on there ! I’ve a costumer of yours this is just unacceptable. RBD 4 LYFE",0.1863847720835147
+29,1699003,"<USER> This is totally unacceptable for a company as big as Spotify with a great product team like yours, move on.",OTHER,4,2190894,<USER> This is a garbage response...,0.18272074509733166
+29,1699003,"<USER> This is totally unacceptable for a company as big as Spotify with a great product team like yours, move on.",OTHER,5,1874503,<USER> Thanks for your reply but this is totally bogus. The playlists feature was removed several months ago and it's just never coming back? 💁🏻,0.17596103253560175
+30,1217762,<USER> Well lookie here! It works! <URL>,OTHER,1,181542,<USER> It works! 🙌🏼,0.4114830419885529
+30,1217762,<USER> Well lookie here! It works! <URL>,OTHER,2,2705137,<USER> It works!,0.4114830419885529
+30,1217762,<USER> Well lookie here! It works! <URL>,OTHER,3,1094487,<USER> Here it is. <URL>,0.37975119340667973
+30,1217762,<USER> Well lookie here! It works! <URL>,OTHER,4,38957,<USER> Here it is <URL>,0.37975119340667973
+30,1217762,<USER> Well lookie here! It works! <URL>,OTHER,5,809611,<USER> here it goes <URL>,0.3781852706523616
+31,187557,<USER> reveal your identity 😫❤️,OTHER,1,1841210,<USER> Thanks for your attendion 👍🏻,0.40675763495646894
+31,187557,<USER> reveal your identity 😫❤️,OTHER,2,48115,<USER> Thanks for your information 🙏🏼,0.3373330239661259
+31,187557,<USER> reveal your identity 😫❤️,OTHER,3,1002343,<USER> Thanks for your response! I've replied your DM.,0.3238340641375301
+31,187557,<USER> reveal your identity 😫❤️,OTHER,4,906651,<USER> Thanks for your help!,0.3221286329416442
+31,187557,<USER> reveal your identity 😫❤️,OTHER,5,2283760,<USER> Thanks for your reply,0.299761371952315
+32,1730849,<USER> i mean sometimes Spotify doesn’t update the song streams at the same time it usually does so i was worried something was happening,APP_TECHNICAL,1,1356620,<USER> Seems I had to log in on my desktop + phone at the same time... It's working now!,0.24615383375509015
+32,1730849,<USER> i mean sometimes Spotify doesn’t update the song streams at the same time it usually does so i was worried something was happening,APP_TECHNICAL,2,2569856,<USER> We both can't listen to music at the same time.,0.21705900780767257
+32,1730849,<USER> i mean sometimes Spotify doesn’t update the song streams at the same time it usually does so i was worried something was happening,APP_TECHNICAL,3,2293463,<USER> i mean thankss,0.19189146439976018
+32,1730849,<USER> i mean sometimes Spotify doesn’t update the song streams at the same time it usually does so i was worried something was happening,APP_TECHNICAL,4,510485,"<USER> I mean, yeah, it usually does. The problem is that I'm trying to listen to a continuous playlist or album uninterrupted. It fixes the error but doesn't solve the problem.",0.17976899832071536
+32,1730849,<USER> i mean sometimes Spotify doesn’t update the song streams at the same time it usually does so i was worried something was happening,APP_TECHNICAL,5,1797410,<USER> I mean on the app,0.175888015576388
+33,2110126,"<USER> That works. I just miss the functionality to select ""shuffle"" when first opening a playlist, the way it used to be.",FEATURE_REQUEST,1,1118817,<USER> That’s weird. It used to be on there.,0.24697188535310072
+33,2110126,"<USER> That works. I just miss the functionality to select ""shuffle"" when first opening a playlist, the way it used to be.",FEATURE_REQUEST,2,346211,<USER> before updating to IOS 11 i wasn’t directed to twitter app everytime i want to share a song. i was very happy with the way it used to be :(,0.20963999480358314
+33,2110126,"<USER> That works. I just miss the functionality to select ""shuffle"" when first opening a playlist, the way it used to be.",FEATURE_REQUEST,3,412335,"<USER> I have Spotify premium, version 8.4.24.506. I make sure to select shuffle, but it just deselects and goes to the next alphabetical artist.",0.2015209931522018
+33,2110126,"<USER> That works. I just miss the functionality to select ""shuffle"" when first opening a playlist, the way it used to be.",FEATURE_REQUEST,4,1061643,"<USER> Thanks, that works!",0.19787183268257238
+33,2110126,"<USER> That works. I just miss the functionality to select ""shuffle"" when first opening a playlist, the way it used to be.",FEATURE_REQUEST,5,1343674,"<USER> Didn’t work, I tried yesterday 😔. The thing is that it used to work okay when I first installed iOS 11, could it be because of v8.4.22?",0.1915698111769317
+34,2259622,<USER> I'm talking about the Spotify+Hulu package,SUBSCRIPTION_PREMIUM,1,1121931,<USER> What brands are u talking about ? 😊,0.37423281603949665
+34,2259622,<USER> I'm talking about the Spotify+Hulu package,SUBSCRIPTION_PREMIUM,2,975192,<USER> actually I sent DM to you already and we're talking about the problem. Thanks for careness :),0.2706454664598537
+34,2259622,<USER> I'm talking about the Spotify+Hulu package,SUBSCRIPTION_PREMIUM,3,48136,<USER> The link you sent talks about songs being removed. Im talking about the entire Spotify application going. See the picture. Always happening. <URL>,0.26464638128390783
+34,2259622,<USER> I'm talking about the Spotify+Hulu package,SUBSCRIPTION_PREMIUM,4,1564282,<USER> I’m just talking about the interface. The black bars. Nearly every other app is optimized and fills the display,0.26127097243437536
+34,2259622,<USER> I'm talking about the Spotify+Hulu package,SUBSCRIPTION_PREMIUM,5,2861247,<USER> That's the bit I'm talking about. None of them apply :/,0.2602043531099973
+35,462670,"<USER> A restart seems to have fixed the black screen issue. However it still switches to offline mode between sessions (on both wifi and data,).",APP_TECHNICAL,1,1609258,<USER> That seems to have fixed the issue. Thanks!!,0.3137436270879683
+35,462670,"<USER> A restart seems to have fixed the black screen issue. However it still switches to offline mode between sessions (on both wifi and data,).",APP_TECHNICAL,2,1688966,<USER> iOS update seems to have fixed the issue. Thanks!,0.2743307400312516
+35,462670,"<USER> A restart seems to have fixed the black screen issue. However it still switches to offline mode between sessions (on both wifi and data,).",APP_TECHNICAL,3,1764096,<USER> Hey thanks for getting back! A laptop restart seems to have fixed it and turns out it was all my audio not just Spotify. 🤗,0.2230572288867958
+35,462670,"<USER> A restart seems to have fixed the black screen issue. However it still switches to offline mode between sessions (on both wifi and data,).",APP_TECHNICAL,4,1035178,"<USER> That seems to have fixed it, Thanks AP!! ☺️",0.20842280216295578
+35,462670,"<USER> A restart seems to have fixed the black screen issue. However it still switches to offline mode between sessions (on both wifi and data,).",APP_TECHNICAL,5,1030250,<USER> Both WiFi and 4G. Android 7.1.1. Spotify updated a few days ago. Previously it was working and I was using the offline mode of Spotify.,0.2063903388972546
+36,1287765,<USER> Thank you! a DM has been sent! I hope you can help.,OTHER,1,1992839,<USER> Thank you. DM sent,0.4295302397384627
+36,1287765,<USER> Thank you! a DM has been sent! I hope you can help.,OTHER,2,2043855,<USER> Thank you! DM sent,0.4295302397384627
+36,1287765,<USER> Thank you! a DM has been sent! I hope you can help.,OTHER,3,1289178,<USER> Thank you Spotify i really hope you can help me out because <USER> 's customer service sucks,0.3299720525147054
+36,1287765,<USER> Thank you! a DM has been sent! I hope you can help.,OTHER,4,1007899,<USER> Reply sent. Hope you reply back ASAP :),0.3277314801977573
+36,1287765,<USER> Thank you! a DM has been sent! I hope you can help.,OTHER,5,1435274,<USER> Thank you!😊,0.3150986812900725
+37,1139903,"<USER> Travelin' Soldier/Dixie Chicks, Longhaired Redneck, Would You Lay With Me (In a Field of Stone), & If That Ain't Country/David Allen Coe",OTHER,1,223069,<USER> can u talk with me in dm because none of it really is helping,0.23219045563480317
+37,1139903,"<USER> Travelin' Soldier/Dixie Chicks, Longhaired Redneck, Would You Lay With Me (In a Field of Stone), & If That Ain't Country/David Allen Coe",OTHER,2,2076536,<USER> Why would you take that away? Why.,0.19247043296877925
+37,1139903,"<USER> Travelin' Soldier/Dixie Chicks, Longhaired Redneck, Would You Lay With Me (In a Field of Stone), & If That Ain't Country/David Allen Coe",OTHER,3,211404,<USER> What would you suggest for a public network?,0.17968031702486342
+37,1139903,"<USER> Travelin' Soldier/Dixie Chicks, Longhaired Redneck, Would You Lay With Me (In a Field of Stone), & If That Ain't Country/David Allen Coe",OTHER,4,187743,<USER> <USER> <USER> Why would you set a limit at all?,0.1776431235014816
+37,1139903,"<USER> Travelin' Soldier/Dixie Chicks, Longhaired Redneck, Would You Lay With Me (In a Field of Stone), & If That Ain't Country/David Allen Coe",OTHER,5,1427777,"<USER> like david bowie type? 80s rock? the clash, reo speedwagon, the romantics, starship, the psychedelic furs, etc.",0.15911401487127913
+38,1871120,"<USER> A magic Spotify-fairie made it suddenly work again! Thanks for your efforts though. Let’s listen together, cheers :) <URL>",APP_TECHNICAL,1,1934681,<USER> Magic 🙌🏿,0.30180726215866066
+38,1871120,"<USER> A magic Spotify-fairie made it suddenly work again! Thanks for your efforts though. Let’s listen together, cheers :) <URL>",APP_TECHNICAL,2,1841210,<USER> Thanks for your attendion 👍🏻,0.268501456799563
+38,1871120,"<USER> A magic Spotify-fairie made it suddenly work again! Thanks for your efforts though. Let’s listen together, cheers :) <URL>",APP_TECHNICAL,3,2393610,<USER> Woo! Cheers 😬 <URL>,0.24092565029848304
+38,1871120,"<USER> A magic Spotify-fairie made it suddenly work again! Thanks for your efforts though. Let’s listen together, cheers :) <URL>",APP_TECHNICAL,4,2677487,<USER> Perfect everything works normally again. Thanks for your help,0.22320613559239882
+38,1871120,"<USER> A magic Spotify-fairie made it suddenly work again! Thanks for your efforts though. Let’s listen together, cheers :) <URL>",APP_TECHNICAL,5,48115,<USER> Thanks for your information 🙏🏼,0.22267414444771255
+39,1368561,<USER> Awesome! Thanks!,OTHER,1,1970805,<USER> Awesome. Thanks!,1.0000000000000002
+39,1368561,<USER> Awesome! Thanks!,OTHER,2,1267820,<USER> Awesome thanks!,1.0000000000000002
+39,1368561,<USER> Awesome! Thanks!,OTHER,3,1320597,"<USER> Awesome, thanks!",1.0000000000000002
+39,1368561,<USER> Awesome! Thanks!,OTHER,4,2547374,"<USER> Awesome, thanks. 👍",1.0000000000000002
+39,1368561,<USER> Awesome! Thanks!,OTHER,5,272257,<USER> AWESOME THANKS 👌👌👌👌👌👌👌,1.0000000000000002
+40,905652,"<USER> I’m using windows 10 on a Lenovo laptop—again, some music is working, some isn’t. one band that isn’t is Maroon 5–singles specifically.",CONTENT_AVAILABILITY,1,308655,<USER> It's on a Windows 10 Lenovo Laptop and it's Version 1.0.65.320,0.27952151597137875
+40,905652,"<USER> I’m using windows 10 on a Lenovo laptop—again, some music is working, some isn’t. one band that isn’t is Maroon 5–singles specifically.",CONTENT_AVAILABILITY,2,2364766,<USER> Windows 10 on desktop,0.27287791531550776
+40,905652,"<USER> I’m using windows 10 on a Lenovo laptop—again, some music is working, some isn’t. one band that isn’t is Maroon 5–singles specifically.",CONTENT_AVAILABILITY,3,402323,<USER> I'm using Windows 10 on a Toshiba Satellite Pro. Spotify version 1.0.65.320.gac7a8e02,0.2665819768024613
+40,905652,"<USER> I’m using windows 10 on a Lenovo laptop—again, some music is working, some isn’t. one band that isn’t is Maroon 5–singles specifically.",CONTENT_AVAILABILITY,4,1786712,<USER> i'm using windows 10 and the free version spotify,0.23495514683383745
+40,905652,"<USER> I’m using windows 10 on a Lenovo laptop—again, some music is working, some isn’t. one band that isn’t is Maroon 5–singles specifically.",CONTENT_AVAILABILITY,5,1704269,<USER> I'm using Windows 10 tho the issue has been already fixed .p,0.22531804239159825
+41,707083,<USER> iPhone. Keeps saying someone else is using it but I changed my password and logged every device out,ACCOUNT_SECURITY,1,1242098,<USER> I changed my password and email.,0.38093449503958
+41,707083,<USER> iPhone. Keeps saying someone else is using it but I changed my password and logged every device out,ACCOUNT_SECURITY,2,2686914,<USER> Sent a DM dudes. Changed my password now.,0.28262063148747896
+41,707083,<USER> iPhone. Keeps saying someone else is using it but I changed my password and logged every device out,ACCOUNT_SECURITY,3,418213,"<USER> The first one is using my password, and the other is using facebook. I'm currently using a browser to login to my account. <URL>",0.2717165127703877
+41,707083,<USER> iPhone. Keeps saying someone else is using it but I changed my password and logged every device out,ACCOUNT_SECURITY,4,1101288,<USER> The unauthorized device logged out. I've since changed my passwords.,0.21402656855118168
+41,707083,<USER> iPhone. Keeps saying someone else is using it but I changed my password and logged every device out,ACCOUNT_SECURITY,5,228073,<USER> It keeps saying I need premium but everything else works fine?,0.19480661482194156
+42,1666819,<USER> Nope it happens quite often!,APP_TECHNICAL,1,1847248,"<USER> Nope, it doesn’t :(",0.5568936274075134
+42,1666819,<USER> Nope it happens quite often!,APP_TECHNICAL,2,573213,<USER> nope it didn’t!,0.5422260408522975
+42,1666819,<USER> Nope it happens quite often!,APP_TECHNICAL,3,2306186,<USER> Nope 😞,0.46932055077865004
+42,1666819,<USER> Nope it happens quite often!,APP_TECHNICAL,4,301173,<USER> Nope :(,0.46932055077865004
+42,1666819,<USER> Nope it happens quite often!,APP_TECHNICAL,5,1233075,<USER> Nope!,0.46932055077865004
+43,1659874,"<USER> It didn’t work. It’s been removed from my local files for quite some time. The song is already on Spotify, I no longer need the local file.",PLAYLIST_LIBRARY,1,1026514,<USER> it didn’t work 😢,0.2781745086750704
+43,1659874,"<USER> It didn’t work. It’s been removed from my local files for quite some time. The song is already on Spotify, I no longer need the local file.",PLAYLIST_LIBRARY,2,1659878,"<USER> Ok, tried and still nothing. Also my local files are no longer syncing.",0.24846286070132312
+43,1659874,"<USER> It didn’t work. It’s been removed from my local files for quite some time. The song is already on Spotify, I no longer need the local file.",PLAYLIST_LIBRARY,3,1659871,"<USER> Which folder? It is no longer in the local files folder on Spotify, but I’ll check the folder on my computer.",0.23150722010676117
+43,1659874,"<USER> It didn’t work. It’s been removed from my local files for quite some time. The song is already on Spotify, I no longer need the local file.",PLAYLIST_LIBRARY,4,2749447,<USER> I can’t Import music from my computer like my local files won’t play on desktop Spotify also the local files playlist have only imported with all songs on my iPhone not iPod or iPad they won’t play,0.22868696975555683
+43,1659874,"<USER> It didn’t work. It’s been removed from my local files for quite some time. The song is already on Spotify, I no longer need the local file.",PLAYLIST_LIBRARY,5,338312,<USER> it didn't :(,0.21659649759465865
+44,1490601,<USER> And I'm on Spotify Version 8.4.28,APP_TECHNICAL,1,656493,<USER> Spotify: version 8.4.28 iPhone: version 11.1.2,0.45603933450853096
+44,1490601,<USER> And I'm on Spotify Version 8.4.28,APP_TECHNICAL,2,462667,"<USER> Android 7.0, Spotify version 8.4.28.875",0.43643912689347114
+44,1490601,<USER> And I'm on Spotify Version 8.4.28,APP_TECHNICAL,3,2795555,<USER> iphone 6 version 8.4.28,0.4164873273250935
+44,1490601,<USER> And I'm on Spotify Version 8.4.28,APP_TECHNICAL,4,2853054,<USER> it’s an iPhone 8 ios 11.1.1 and Spotify version 8.4.28,0.40259736252757294
+44,1490601,<USER> And I'm on Spotify Version 8.4.28,APP_TECHNICAL,5,2747465,<USER> I’m using Spotify version 8.4.28 and ios 11.1.1 thank you!,0.3904946799277441
+45,2596619,"<USER> iPhone 5S, iOS version 11.0.1, latest Spotify apps.",DEVICE_PLATFORM,1,2965856,<USER> iPhone X. iOS 11.2. Latest Spotify version,0.5978164871622264
+45,2596619,"<USER> iPhone 5S, iOS version 11.0.1, latest Spotify apps.",DEVICE_PLATFORM,2,203065,"<USER> iphone 5s, the latest version 8.420",0.5346016981346502
+45,2596619,"<USER> iPhone 5S, iOS version 11.0.1, latest Spotify apps.",DEVICE_PLATFORM,3,115265,<USER> iPhone 6s. iOS version 11.1.2,0.5076547811319085
+45,2596619,"<USER> iPhone 5S, iOS version 11.0.1, latest Spotify apps.",DEVICE_PLATFORM,4,2517292,"<USER> iPhone 5S, v. 8.4.26. Thanks!",0.4941077922828709
+45,2596619,"<USER> iPhone 5S, iOS version 11.0.1, latest Spotify apps.",DEVICE_PLATFORM,5,957411,<USER> iOS Version: 11.0.3 & Spotify Version: 8.4.22,0.4229104159568925
+46,874991,"<USER> No, the app simply cant find the roku app, 2 diffrent rokus 2 diffrent networks. This is all it does. <URL>",DEVICE_PLATFORM,1,874984,<USER> No. And again this was on two different networks with diffrent routers two different roku's it's not the network or the routers.,0.23642622233157198
+46,874991,"<USER> No, the app simply cant find the roku app, 2 diffrent rokus 2 diffrent networks. This is all it does. <URL>",DEVICE_PLATFORM,2,2404016,<USER> This is all it does and IOS 11.1.1 and software 8.4.27.895 never had a issue till I got the iPhone X <URL>,0.2295553391350268
+46,874991,"<USER> No, the app simply cant find the roku app, 2 diffrent rokus 2 diffrent networks. This is all it does. <URL>",DEVICE_PLATFORM,3,874987,"<USER> Found the issue on my own, the roku app is not able to do it.. <URL> also it cant use playlist from account..",0.2229206270633284
+46,874991,"<USER> No, the app simply cant find the roku app, 2 diffrent rokus 2 diffrent networks. This is all it does. <URL>",DEVICE_PLATFORM,4,2596620,<USER> Roku app not phone app,0.21883692857829148
+46,874991,"<USER> No, the app simply cant find the roku app, 2 diffrent rokus 2 diffrent networks. This is all it does. <URL>",DEVICE_PLATFORM,5,414130,<USER> It's a Roku 3!,0.1914412182323119
+47,466043,<USER> Legit it's the only reason why I think people use pandora instead of Spotify. Waking up to your favorite song would be amazing. There's a lot of opportunity here if you do it correctly.,FEATURE_REQUEST,1,1829382,<USER> Cheers! You'll have a very happy customer here if you do!,0.23226494154935973
+47,466043,<USER> Legit it's the only reason why I think people use pandora instead of Spotify. Waking up to your favorite song would be amazing. There's a lot of opportunity here if you do it correctly.,FEATURE_REQUEST,2,2491623,<USER> I think if you were to advertise Touch Preview it would be used a LOT more! Why don’t you guys try that instead of getting rid of it all together.,0.192261341855888
+47,466043,<USER> Legit it's the only reason why I think people use pandora instead of Spotify. Waking up to your favorite song would be amazing. There's a lot of opportunity here if you do it correctly.,FEATURE_REQUEST,3,2952,"<USER> What keywords besides ""playlist"", ""playlists"", + ""song"" would I use?",0.17749922372792107
+47,466043,<USER> Legit it's the only reason why I think people use pandora instead of Spotify. Waking up to your favorite song would be amazing. There's a lot of opportunity here if you do it correctly.,FEATURE_REQUEST,4,515450,"<USER> Well, then the name of the song would be wrong.",0.17234025261279923
+47,466043,<USER> Legit it's the only reason why I think people use pandora instead of Spotify. Waking up to your favorite song would be amazing. There's a lot of opportunity here if you do it correctly.,FEATURE_REQUEST,5,2878167,<USER> There's a lot of students here in the EU who don't own credit cards. Me included. Not sure why this is sooo hard :(,0.16765468707712328
+48,1481448,<USER> It's ok.. I'm planning to renew my premium a few month from now,SUBSCRIPTION_PREMIUM,1,2792163,<USER> It's ok now indeed 😃,0.3177499654011248
+48,1481448,<USER> It's ok.. I'm planning to renew my premium a few month from now,SUBSCRIPTION_PREMIUM,2,1700631,<USER> It’s ok. I can listen to the Justice League soundtrack. Oy. 🙄🙄🙄🙄,0.25391615169817827
+48,1481448,<USER> It's ok.. I'm planning to renew my premium a few month from now,SUBSCRIPTION_PREMIUM,3,2789378,<USER> It’s ok working now able to cancel thanks,0.24027875760210626
+48,1481448,<USER> It's ok.. I'm planning to renew my premium a few month from now,SUBSCRIPTION_PREMIUM,4,2298546,<USER> It’s ok thanks it’s righted itself now,0.21977272332503597
+48,1481448,<USER> It's ok.. I'm planning to renew my premium a few month from now,SUBSCRIPTION_PREMIUM,5,860232,<USER> It’s ok i found a work around when I didn’t hear back within a few hours. Thanks anyway,0.20318485269632702
+49,2673238,"<USER> Just mentioned that your service wanted me to input my credit card information after couple of months having student discount, no discount.",SUBSCRIPTION_PREMIUM,1,2065642,<USER> Will I have to repurchase the student discount? It’s asking me to put in my card. Will I be charged? I already have Premium,0.20525354693448197
+49,2673238,"<USER> Just mentioned that your service wanted me to input my credit card information after couple of months having student discount, no discount.",SUBSCRIPTION_PREMIUM,2,2751309,<USER> I just purchased 3-months premium support and it's already charged on my credit card TWICE but my Spotify account is not premium yet,0.1961253387264483
+49,2673238,"<USER> Just mentioned that your service wanted me to input my credit card information after couple of months having student discount, no discount.",SUBSCRIPTION_PREMIUM,3,116598,"<USER> Inspector Clouseau, at your service! 💎",0.19403878603760435
+49,2673238,"<USER> Just mentioned that your service wanted me to input my credit card information after couple of months having student discount, no discount.",SUBSCRIPTION_PREMIUM,4,1019555,"<USER> It's weird because I can pay the normal 9,99 subscription with paypal and Ideal, but the 50% student discount one only with credit card",0.1908236871538291
+49,2673238,"<USER> Just mentioned that your service wanted me to input my credit card information after couple of months having student discount, no discount.",SUBSCRIPTION_PREMIUM,5,1877902,<USER> I just want the student discount. It had me pay b4 verifying my enrollment & wants me to pay again to activate the subscription. IDontWanna,0.18781019986509767
+50,1162389,"<USER> And yet again, on iPhone 7 those same tracks will just not play",PLAYBACK,1,1662754,<USER> Done... and I will just continue waiting...,0.21921294552262327
+50,1162389,"<USER> And yet again, on iPhone 7 those same tracks will just not play",PLAYBACK,2,1857828,<USER> Does not play on mobile either.,0.1975913034888071
+50,1162389,"<USER> And yet again, on iPhone 7 those same tracks will just not play",PLAYBACK,3,1221309,<USER> The spotify app on iphone,0.18454232493883882
+50,1162389,"<USER> And yet again, on iPhone 7 those same tracks will just not play",PLAYBACK,4,761396,"<USER> No, it still does not play anything",0.17031253321980372
+50,1162389,"<USER> And yet again, on iPhone 7 those same tracks will just not play",PLAYBACK,5,876409,"<USER> and yet this was back in March, here we are 6 months later and still no change #spotify #roku",0.17022032535626624
+51,848553,<USER> That trio of lines has worn pretty thin now!😩This really needs to be a priority when #Roku users must pay for premium to even use the app!🤨😒,SUBSCRIPTION_PREMIUM,1,286429,<USER> Any stuff just released by elf or Dio needs to be checked as unlikely to be ronnie james Dio.,0.18433952848267748
+51,848553,<USER> That trio of lines has worn pretty thin now!😩This really needs to be a priority when #Roku users must pay for premium to even use the app!🤨😒,SUBSCRIPTION_PREMIUM,2,172486,"<USER> <USER> <USER> , This is clearly not an account issue. It's a design issue. This is a bug that needs needs to be address so the app will be accessible to users who need larger type.",0.1838102823738306
+51,848553,<USER> That trio of lines has worn pretty thin now!😩This really needs to be a priority when #Roku users must pay for premium to even use the app!🤨😒,SUBSCRIPTION_PREMIUM,3,414130,<USER> It's a Roku 3!,0.17304749973324207
+51,848553,<USER> That trio of lines has worn pretty thin now!😩This really needs to be a priority when #Roku users must pay for premium to even use the app!🤨😒,SUBSCRIPTION_PREMIUM,4,781149,"<USER> Thanks, <USER> . That's what I hoped to do, but it looks like the gift cards can't be used to pay for Premium for Family, right?",0.1724599788763853
+51,848553,<USER> That trio of lines has worn pretty thin now!😩This really needs to be a priority when #Roku users must pay for premium to even use the app!🤨😒,SUBSCRIPTION_PREMIUM,5,1380859,<USER> Oh! The instructions to change password needs to be updated. I didn't use Facebook. Thanks for the help.,0.17036552265828267
+52,327640,<USER> What do you mean pricing varies by payment mode? Can I avail the 9 pesos for 3 months using BDO Debit Card or Gcash Mastercard?,BILLING_PAYMENT,1,2718565,<USER> What do you mean?,0.49487055124997015
+52,327640,<USER> What do you mean pricing varies by payment mode? Can I avail the 9 pesos for 3 months using BDO Debit Card or Gcash Mastercard?,BILLING_PAYMENT,2,2890051,<USER> What do you mean of mobile provider? <URL>,0.37025419824808986
+52,327640,<USER> What do you mean pricing varies by payment mode? Can I avail the 9 pesos for 3 months using BDO Debit Card or Gcash Mastercard?,BILLING_PAYMENT,3,1298042,<USER> But I have only a debit Card. Can I do the payment with this Card?,0.2662215773783196
+52,327640,<USER> What do you mean pricing varies by payment mode? Can I avail the 9 pesos for 3 months using BDO Debit Card or Gcash Mastercard?,BILLING_PAYMENT,4,2083296,<USER> I am using a desktop. What do you mean with using an incognito window? Thx,0.2486028857277344
+52,327640,<USER> What do you mean pricing varies by payment mode? Can I avail the 9 pesos for 3 months using BDO Debit Card or Gcash Mastercard?,BILLING_PAYMENT,5,510487,<USER> will reset the router when I get home. What do you mean by different connections?,0.2450935038596662
+53,351212,<USER> Turns out it's my crappy <USER> headphones causing the problem. Nevermind!,PLAYBACK,1,782679,<USER> Headphones,0.42963049839298717
+53,351212,<USER> Turns out it's my crappy <USER> headphones causing the problem. Nevermind!,PLAYBACK,2,2268701,"<USER> Turns out it was a change in macOS High Sierra: <URL> A bad change, but a change nonetheless.",0.2889652476072827
+53,351212,<USER> Turns out it's my crappy <USER> headphones causing the problem. Nevermind!,PLAYBACK,3,778551,"<USER> Turns out it was a pending app update, restarting and updating did the trick. Guessing cache of some description. fixT!",0.28390772027118427
+53,351212,<USER> Turns out it's my crappy <USER> headphones causing the problem. Nevermind!,PLAYBACK,4,2978414,<USER> turns out i just needed to restart my phone lmao thx 4 the help,0.27009264893846013
+53,351212,<USER> Turns out it's my crappy <USER> headphones causing the problem. Nevermind!,PLAYBACK,5,562451,"<USER> turns out it did work for a few hours, but i closed it again and opened it after an hour or so and it just came up with the same error message.",0.21008286978737872
+54,1167958,"<USER> i can't search for artists, I can't play songs and everything takes AGES to load and whatever I'm trying to do doesn't work",APP_TECHNICAL,1,2139048,<USER> No. It happened again. Taking ages to load and finally my computer seized up. I am removing your win 10 app. There is something wrong with it.,0.2371750646848392
+54,1167958,"<USER> i can't search for artists, I can't play songs and everything takes AGES to load and whatever I'm trying to do doesn't work",APP_TECHNICAL,2,1032417,<USER> So I did this. The app is a little quicker bt the connection is terrible. Takes ages to load or it doesn't load at all,0.23409682670466012
+54,1167958,"<USER> i can't search for artists, I can't play songs and everything takes AGES to load and whatever I'm trying to do doesn't work",APP_TECHNICAL,3,1231491,<USER> I can’t play/find selenas new video,0.22219543174257278
+54,1167958,"<USER> i can't search for artists, I can't play songs and everything takes AGES to load and whatever I'm trying to do doesn't work",APP_TECHNICAL,4,1715475,<USER> It does both. It takes forever to load and then I can't go past the browse page. I have to restart which takes forever then it works.,0.18655655117470532
+54,1167958,"<USER> i can't search for artists, I can't play songs and everything takes AGES to load and whatever I'm trying to do doesn't work",APP_TECHNICAL,5,1949752,<USER> It doesn't work,0.1859008910454037
+55,975195,<USER> I am waiting my sister for sending her mail account.,OTHER,1,2594577,<USER> I am shook,0.38022575351747817
+55,975195,<USER> I am waiting my sister for sending her mail account.,OTHER,2,1261904,<USER> yeah it does that on my sister's account,0.3756382275821246
+55,975195,<USER> I am waiting my sister for sending her mail account.,OTHER,3,1900194,<USER> I am 101% sure,0.23333435924144913
+55,975195,<USER> I am waiting my sister for sending her mail account.,OTHER,4,685849,<USER> I am on the border of suing you.,0.22923592612630822
+55,975195,<USER> I am waiting my sister for sending her mail account.,OTHER,5,1280123,"<USER> Hey tnx for the answer! I’ll just make sure that my sister tries to login on her computer first, if it doesnt work I’ll tell you! Tnx",0.22714480028077655
+56,834237,"<USER> I did, please bring this feature back! 😢 it was the most helpful tool for discovering new music",FEATURE_REQUEST,1,2756257,<USER> please bring it back! It was the only good email.,0.44589274377971644
+56,834237,"<USER> I did, please bring this feature back! 😢 it was the most helpful tool for discovering new music",FEATURE_REQUEST,2,1522814,<USER> Awwman😔you should definately bring this feature back and find a low maintenance way to,0.3215081679412476
+56,834237,"<USER> I did, please bring this feature back! 😢 it was the most helpful tool for discovering new music",FEATURE_REQUEST,3,2458503,<USER> Can you bring it back? It was one of the best and most unique features of <USER> .,0.253247721322973
+56,834237,"<USER> I did, please bring this feature back! 😢 it was the most helpful tool for discovering new music",FEATURE_REQUEST,4,1293218,<USER> I did,0.2525472608032748
+56,834237,"<USER> I did, please bring this feature back! 😢 it was the most helpful tool for discovering new music",FEATURE_REQUEST,5,1243462,<USER> I did.,0.2525472608032748
+57,1125891,<USER> I've tried the reinstall but the same error appears. This is quite frustrating as I have a premium subscription which I cannot use.,APP_TECHNICAL,1,438397,<USER> I've tried that,0.23374790301102571
+57,1125891,<USER> I've tried the reinstall but the same error appears. This is quite frustrating as I have a premium subscription which I cannot use.,APP_TECHNICAL,2,373034,<USER> I’ve tried that.. 🙄,0.23374790301102571
+57,1125891,<USER> I've tried the reinstall but the same error appears. This is quite frustrating as I have a premium subscription which I cannot use.,APP_TECHNICAL,3,1863281,<USER> Dang. Tried the reinstall and still can’t get my Frank.,0.21034628381937348
+57,1125891,<USER> I've tried the reinstall but the same error appears. This is quite frustrating as I have a premium subscription which I cannot use.,APP_TECHNICAL,4,225353,<USER> I reinstall but still the problem 😔,0.20844141007707337
+57,1125891,<USER> I've tried the reinstall but the same error appears. This is quite frustrating as I have a premium subscription which I cannot use.,APP_TECHNICAL,5,482468,"<USER> I have a premium subscription for students using Visa but in the next month subscription payment failed, that's why? Thx",0.1808118915703779
+58,2002221,<USER> I have not received a response,OTHER,1,1655973,<USER> I have not. I'll try that now. Thanks.,0.40446452370649
+58,2002221,<USER> I have not received a response,OTHER,2,609650,<USER> I have not but I’m about to! Thanks!,0.4024631467977524
+58,2002221,<USER> I have not received a response,OTHER,3,886342,<USER> I have not but I'll try it,0.4001313023792272
+58,2002221,<USER> I have not received a response,OTHER,4,173610,"<USER> I have, yes",0.3522517907168031
+58,2002221,<USER> I have not received a response,OTHER,5,318311,<USER> I have not but will do. I appreciate the info 🙏🏻,0.33167973457131805
+59,925939,"<USER> Occasionally it works but if I ""next"" the song the album stops",PLAYBACK,1,2705137,<USER> It works!,0.2983828381026733
+59,925939,"<USER> Occasionally it works but if I ""next"" the song the album stops",PLAYBACK,2,181542,<USER> It works! 🙌🏼,0.2983828381026733
+59,925939,"<USER> Occasionally it works but if I ""next"" the song the album stops",PLAYBACK,3,1751383,<USER> it works now!,0.2184774266648809
+59,925939,"<USER> Occasionally it works but if I ""next"" the song the album stops",PLAYBACK,4,1993476,<USER> It works. Thanks!,0.21106513717244013
+59,925939,"<USER> Occasionally it works but if I ""next"" the song the album stops",PLAYBACK,5,278122,<USER> And in the Album,0.2025133436671263
+60,893397,<USER> It’s a MacBook Pro - I click the song but it plays a different one,PLAYBACK,1,905645,<USER> Macbook Pro. :),0.35785441147394875
+60,893397,<USER> It’s a MacBook Pro - I click the song but it plays a different one,PLAYBACK,2,1032840,"<USER> When I search up a song and click on it, it plays a different song every time",0.33432090749954246
+60,893397,<USER> It’s a MacBook Pro - I click the song but it plays a different one,PLAYBACK,3,2689660,"<USER> <URL> Google Chrome, MacBook Pro",0.2813469737485099
+60,893397,<USER> It’s a MacBook Pro - I click the song but it plays a different one,PLAYBACK,4,1837742,<USER> No. Click the song and nothing. Attached a pic. <URL>,0.2455400877404249
+60,893397,<USER> It’s a MacBook Pro - I click the song but it plays a different one,PLAYBACK,5,187638,"<USER> not getting any error messages. just when pushing play next to a song, it plays a different one from my saved songs list. <URL>",0.22873210947265243
+61,664680,<USER> iPhone 7! I am holding off on their latest software update though. 😜,DEVICE_PLATFORM,1,1370956,<USER> Apple iPhone: whatever the latest software,0.3394053004423819
+61,664680,<USER> iPhone 7! I am holding off on their latest software update though. 😜,DEVICE_PLATFORM,2,2607211,<USER> Iphone,0.2749976229971527
+61,664680,<USER> iPhone 7! I am holding off on their latest software update though. 😜,DEVICE_PLATFORM,3,1557077,<USER> iPhone 7,0.2749976229971527
+61,664680,<USER> iPhone 7! I am holding off on their latest software update though. 😜,DEVICE_PLATFORM,4,788578,<USER> iphone 6,0.2749976229971527
+61,664680,<USER> iPhone 7! I am holding off on their latest software update though. 😜,DEVICE_PLATFORM,5,308645,<USER> iPhone,0.2749976229971527
+62,1435935,"<USER> After I log in, I get the first screen. Your support page (second image) tells me to change the settings in Chrome to...(1/2) <URL>",APP_TECHNICAL,1,1384543,<USER> I already wrote in the link you provided ... your support page is in fact useless,0.22172547975415222
+62,1435935,"<USER> After I log in, I get the first screen. Your support page (second image) tells me to change the settings in Chrome to...(1/2) <URL>",APP_TECHNICAL,2,2358989,"<USER> ""It looks like you are using your Facebook credentials to log in to Spotify. To change your Facebook password go to your settings page at <URL> is the msg I get but then it won't let my FB log in either.",0.20062750718574007
+62,1435935,"<USER> After I log in, I get the first screen. Your support page (second image) tells me to change the settings in Chrome to...(1/2) <URL>",APP_TECHNICAL,3,864561,<USER> This is what it tells me <URL>,0.18677794265527906
+62,1435935,"<USER> After I log in, I get the first screen. Your support page (second image) tells me to change the settings in Chrome to...(1/2) <URL>",APP_TECHNICAL,4,181537,<USER> Ok thanks for your support 👍😘,0.1728524561380066
+62,1435935,"<USER> After I log in, I get the first screen. Your support page (second image) tells me to change the settings in Chrome to...(1/2) <URL>",APP_TECHNICAL,5,431447,<USER> Ok. Thanks for your support!,0.1728524561380066
+63,1523743,<USER> 2015 MacBook Pro running macOS 10.12.6. Spotify version 1.0.65.320.gac7a8e02. It also happens on the web player in chrome and,APP_TECHNICAL,1,1817520,"<USER> macbook pro 15” 2017, macOS Sierra (10.12.6). Spotify desktop version 1.0.65.320.gac7a8e02",0.44068568415136905
+63,1523743,<USER> 2015 MacBook Pro running macOS 10.12.6. Spotify version 1.0.65.320.gac7a8e02. It also happens on the web player in chrome and,APP_TECHNICAL,2,2179638,"<USER> macOS 10.12.6, Spotify 1.0.65.320.gac7a8e02, on MacBook Pro 2013. iOS 11.0.3, Spotify 8.4.22, on iPhone SE.",0.4036577144776679
+63,1523743,<USER> 2015 MacBook Pro running macOS 10.12.6. Spotify version 1.0.65.320.gac7a8e02. It also happens on the web player in chrome and,APP_TECHNICAL,3,1775497,"<USER> Spotify version 1.0.65.320.gac7a8e02, macOS, MacBook Pro early 2015. Log file, if it helps: <URL>",0.3798916423453872
+63,1523743,<USER> 2015 MacBook Pro running macOS 10.12.6. Spotify version 1.0.65.320.gac7a8e02. It also happens on the web player in chrome and,APP_TECHNICAL,4,1715266,<USER> Yes! MacBook Pro macOS Sierra 10.12.6 & Spotify 1.0.65.320.gac7a8e02 / OnePlus 3T running Android 7.1.1 & Spotify 8.4.23.784 armV7.,0.35909824761265363
+63,1523743,<USER> 2015 MacBook Pro running macOS 10.12.6. Spotify version 1.0.65.320.gac7a8e02. It also happens on the web player in chrome and,APP_TECHNICAL,5,1084527,"<USER> MacBook Pro (Retina, 13-inch, Mid 2014), macOS Sierra Vers 10.12.6, Spotify 1.0.65.320.gac7a8e02",0.34216054639432314
+64,710190,<USER> It just stopped playing music and If I started playing music.. It wouldn't even play! Well now it fixed itself and I'm happy,PLAYBACK,1,2176146,<USER> nevermind it fixed itself,0.2551062239739177
+64,710190,<USER> It just stopped playing music and If I started playing music.. It wouldn't even play! Well now it fixed itself and I'm happy,PLAYBACK,2,1152029,<USER> wifi. I try playing music directly on the <USER>,0.21904267162900273
+64,710190,<USER> It just stopped playing music and If I started playing music.. It wouldn't even play! Well now it fixed itself and I'm happy,PLAYBACK,3,345364,<USER> I'm using a noOk. The version is 6.0 it just stopped working,0.21779488117692672
+64,710190,<USER> It just stopped playing music and If I started playing music.. It wouldn't even play! Well now it fixed itself and I'm happy,PLAYBACK,4,833696,<USER> U JUST STOPPED DOING NUS LIKE WYD,0.193440022639207
+64,710190,<USER> It just stopped playing music and If I started playing music.. It wouldn't even play! Well now it fixed itself and I'm happy,PLAYBACK,5,2913950,<USER> no it’s all good! i kinda just left it alone for an hour and it fixed itself!,0.18897874575812507
+65,894352,<USER> I’ve dm’d you,OTHER,1,2050950,<USER> I’ve DM’d you,1.0
+65,894352,<USER> I’ve dm’d you,OTHER,2,2975072,<USER> I've Dm,0.8619189069077493
+65,894352,<USER> I’ve dm’d you,OTHER,3,2158632,<USER> I dm'd you,0.46973694241293107
+65,894352,<USER> I’ve dm’d you,OTHER,4,2275392,<USER> Sure! May I DM you?,0.3969814089109668
+65,894352,<USER> I’ve dm’d you,OTHER,5,1183522,<USER> I can't DM you,0.39041174668838785
+66,2639833,"<USER> iPhone 7+, iOS 11.1, I️ just updated Spotify yesterday",APP_TECHNICAL,1,2729316,"<USER> iPhone 7+, iOS 11.1.2, and I just updated Spotify yesterday",0.8910323923552225
+66,2639833,"<USER> iPhone 7+, iOS 11.1, I️ just updated Spotify yesterday",APP_TECHNICAL,2,187585,<USER> iPhone 7+ iOS 11.0.2,0.6348898221984612
+66,2639833,"<USER> iPhone 7+, iOS 11.1, I️ just updated Spotify yesterday",APP_TECHNICAL,3,2358979,"<USER> iPhone 6, iOS 11.1",0.6348898221984612
+66,2639833,"<USER> iPhone 7+, iOS 11.1, I️ just updated Spotify yesterday",APP_TECHNICAL,4,2190878,<USER> iPhone 7 iOS 11.1,0.6348898221984612
+66,2639833,"<USER> iPhone 7+, iOS 11.1, I️ just updated Spotify yesterday",APP_TECHNICAL,5,2183028,"<USER> iPhone 6, ioS 11.0.3, I updated Spotify today so version 8.4.25.",0.5474308565295035
+67,2492543,"<USER> I know, I just like to bother you guys everyday. I hope y’all are having a good day.",OTHER,1,181556,<USER> Sweet. I forgot about that tab. Sorry to bother you with my silly question. You guys are the best!!,0.29089391021127786
+67,2492543,"<USER> I know, I just like to bother you guys everyday. I hope y’all are having a good day.",OTHER,2,2476363,<USER> I know...,0.2636508039129407
+67,2492543,"<USER> I know, I just like to bother you guys everyday. I hope y’all are having a good day.",OTHER,3,1099893,"<USER> <USER> sorry to bother you again, but i still don’t have access to the song",0.2524980930473132
+67,2492543,"<USER> I know, I just like to bother you guys everyday. I hope y’all are having a good day.",OTHER,4,2432982,<USER> Y’all are literally the cutest,0.2168965794177245
+67,2492543,"<USER> I know, I just like to bother you guys everyday. I hope y’all are having a good day.",OTHER,5,821304,<USER> I would just like to set it to Shaynee,0.19373501118117087
+68,172536,<USER> It now seems to be working fine. Always the way....!,OTHER,1,2912422,"<USER> Seems to be working fine now, thanks!",0.5557989467975005
+68,172536,<USER> It now seems to be working fine. Always the way....!,OTHER,2,1950459,<USER> Everything seems to be working fine.,0.5245897952806882
+68,172536,<USER> It now seems to be working fine. Always the way....!,OTHER,3,1687389,<USER> It seems to be working now though,0.4955379878258484
+68,172536,<USER> It now seems to be working fine. Always the way....!,OTHER,4,434746,<USER> Seems to be working now,0.4764681196884633
+68,172536,<USER> It now seems to be working fine. Always the way....!,OTHER,5,2716523,"<USER> Seems to be working now, thanks.",0.4373657198011769
+69,1037620,<USER> ...and I could listen it. So this started happening this week in all my devices.,PLAYBACK,1,848511,<USER> It started happening yesterday,0.23660758299768542
+69,1037620,<USER> ...and I could listen it. So this started happening this week in all my devices.,PLAYBACK,2,1859317,<USER> I need to do this across all my devices? Because it is happening on desktop and mobile...,0.21067316856544005
+69,1037620,<USER> ...and I could listen it. So this started happening this week in all my devices.,PLAYBACK,3,668708,<USER> This started happening a while ago. Maybe like 3 months ago or 2. But I'm not sure if it started after an update or anything,0.19847361814946948
+69,1037620,<USER> ...and I could listen it. So this started happening this week in all my devices.,PLAYBACK,4,2622846,<USER> Just the Spotify app on my iPhone over WiFi. This issue seems to have just started this week.,0.1730666125195561
+69,1037620,<USER> ...and I could listen it. So this started happening this week in all my devices.,PLAYBACK,5,2749484,"<USER> 2nd week in a row, no Discover Weekly. I listen to 300-600 songs a week, why did my account transfer initiate this new behavior?",0.172706160024773
+70,1595740,<USER> Should’ve indicated that during the paymet process to avoid confusion.,BILLING_PAYMENT,1,1965308,<USER> Oh I see. That's why. Thank you! It should be indicated in <URL> tho not in ur customer service site to avoid confusion.,0.4017783275946395
+70,1595740,<USER> Should’ve indicated that during the paymet process to avoid confusion.,BILLING_PAYMENT,2,1211397,<USER> apparently there are 3 C-Jay's now. maybe you can tag them as C-Jay (USA) or something like that? to avoid confusion?,0.2905248481121002
+70,1595740,<USER> Should’ve indicated that during the paymet process to avoid confusion.,BILLING_PAYMENT,3,211049,<USER> Should be US,0.24424456566736533
+70,1595740,<USER> Should’ve indicated that during the paymet process to avoid confusion.,BILLING_PAYMENT,4,2580756,<USER> Should be Netherlands,0.22223211684907918
+70,1595740,<USER> Should’ve indicated that during the paymet process to avoid confusion.,BILLING_PAYMENT,5,2835012,<USER> Should be the US,0.2026481463942652
+71,2355325,<USER> Update: it’s now up on Spotify but there’s no content <URL>,CONTENT_AVAILABILITY,1,583082,<USER> Hey but there’s no dm..,0.3809205467711828
+71,2355325,<USER> Update: it’s now up on Spotify but there’s no content <URL>,CONTENT_AVAILABILITY,2,2586513,"<USER> Found it, but there's no songs <URL>",0.27985262667046734
+71,2355325,<USER> Update: it’s now up on Spotify but there’s no content <URL>,CONTENT_AVAILABILITY,3,2861327,<USER> hi i love u but there's no reply,0.2791518263430793
+71,2355325,<USER> Update: it’s now up on Spotify but there’s no content <URL>,CONTENT_AVAILABILITY,4,637671,"<USER> update, it appears to be working. thanks so much!",0.2679851957053325
+71,2355325,<USER> Update: it’s now up on Spotify but there’s no content <URL>,CONTENT_AVAILABILITY,5,2161238,<USER> Update your app. Jesus. Just update it. That’s all I need. Please.,0.2581789710486815
+72,1764105,"<USER> I just want to explore the sonic cosmos, why you gotta do me like this",FEATURE_REQUEST,1,2246109,<USER> I just want lyrics. Pls. Help me.,0.32843740058922694
+72,1764105,"<USER> I just want to explore the sonic cosmos, why you gotta do me like this",FEATURE_REQUEST,2,1545845,"<USER> I just want to make playlists and chill downtown, that’s not a category....",0.31854747224546
+72,1764105,"<USER> I just want to explore the sonic cosmos, why you gotta do me like this",FEATURE_REQUEST,3,1786709,<USER> like this <URL>,0.25643788936049505
+72,1764105,"<USER> I just want to explore the sonic cosmos, why you gotta do me like this",FEATURE_REQUEST,4,2942718,"<USER> No, there's nothing else I want. I just want to use Spotify here.",0.25350112453648055
+72,1764105,"<USER> I just want to explore the sonic cosmos, why you gotta do me like this",FEATURE_REQUEST,5,2176165,<USER> just want to make sure I send you the right info. you want the startup shot from my taskmanager? or where would i find the info?,0.2361007983405047
+73,2103195,"<USER> It always takes about a week to get anyone to respond. Then no one ever looks at my previous screen shots, never bothers TO FIX ANYTHING",OTHER,1,2442019,<USER> About a week or more. & both.,0.18555308601784443
+73,2103195,"<USER> It always takes about a week to get anyone to respond. Then no one ever looks at my previous screen shots, never bothers TO FIX ANYTHING",OTHER,2,2609419,<USER> I just got an email saying it was a receipt. I still haven't been able to listen to a single song. What screen shots am I supposed to get again? I if I find I have been billed again to be correct with an UNUSABLE DESTROYED ACCOUNT. THEN I'VE HAD ENOUGH,0.15700768309021176
+73,2103195,"<USER> It always takes about a week to get anyone to respond. Then no one ever looks at my previous screen shots, never bothers TO FIX ANYTHING",OTHER,3,1269754,"<USER> No, I’ve been on this update for about a week.",0.15452999212429178
+73,2103195,"<USER> It always takes about a week to get anyone to respond. Then no one ever looks at my previous screen shots, never bothers TO FIX ANYTHING",OTHER,4,2103191,<USER> I already sent u several screen shots. This must mean you have no idea what your doing and all my efforts have been wasted so far,0.1514567985496843
+73,2103195,"<USER> It always takes about a week to get anyone to respond. Then no one ever looks at my previous screen shots, never bothers TO FIX ANYTHING",OTHER,5,1960649,<USER> Wt ever. Thanks,0.15134585992814514
+74,2583338,<USER> That’s stupid tho. I pay y’all. Give me what i pay for,SUBSCRIPTION_PREMIUM,1,2871998,<USER> That’s stupid,0.5657658685361552
+74,2583338,<USER> That’s stupid tho. I pay y’all. Give me what i pay for,SUBSCRIPTION_PREMIUM,2,591462,<USER> will u guys give me for free in my other acc or u gonna make me pay it again?,0.23193423920299433
+74,2583338,<USER> That’s stupid tho. I pay y’all. Give me what i pay for,SUBSCRIPTION_PREMIUM,3,1270438,<USER> <USER> Just make that stupid app! More than 7000 people should be enough,0.2314985253592119
+74,2583338,<USER> That’s stupid tho. I pay y’all. Give me what i pay for,SUBSCRIPTION_PREMIUM,4,2448557,<USER> <USER> No I pay for your fucking services. Make a visualizer.,0.22858111725720598
+74,2583338,<USER> That’s stupid tho. I pay y’all. Give me what i pay for,SUBSCRIPTION_PREMIUM,5,1103922,<USER> Bitch I pay for this shit,0.22372924463573785
+75,1023303,<USER> I was listening to my music and in the middle of a song it logged me out and now I can't log back in ~ I'm not getting any error messages,ACCOUNT_LOGIN,1,2025482,<USER> <USER> Same thing is happening to me. it logged me out and now I can't get back in. incognito or otherwise,0.33292663148038804
+75,1023303,<USER> I was listening to my music and in the middle of a song it logged me out and now I can't log back in ~ I'm not getting any error messages,ACCOUNT_LOGIN,2,1067193,<USER> I’m am using a iPhone 7 and no I’m not getting any error messages I don’t know what the problem is.,0.27915365122039554
+75,1023303,<USER> I was listening to my music and in the middle of a song it logged me out and now I can't log back in ~ I'm not getting any error messages,ACCOUNT_LOGIN,3,1739240,<USER> Spotify logged me out. Sending message now,0.26926913287005083
+75,1023303,<USER> I was listening to my music and in the middle of a song it logged me out and now I can't log back in ~ I'm not getting any error messages,ACCOUNT_LOGIN,4,1261027,<USER> Still skipping and now had a Loreal commercial start playing for about 10 seconds in the middle of a song.,0.26904390870495853
+75,1023303,<USER> I was listening to my music and in the middle of a song it logged me out and now I can't log back in ~ I'm not getting any error messages,ACCOUNT_LOGIN,5,877767,<USER> I did that... And now I can't log back in. Says offline n I hit connect and it's just a black screen,0.26061957460247365
+76,104107,"<USER> Nope, no difference. Pixel XL 2",DEVICE_PLATFORM,1,1853281,<USER> Nope no difference,0.7716650449763378
+76,104107,"<USER> Nope, no difference. Pixel XL 2",DEVICE_PLATFORM,2,376888,<USER> Pixel XL <URL>,0.5249405812660204
+76,104107,"<USER> Nope, no difference. Pixel XL 2",DEVICE_PLATFORM,3,2543082,"<USER> Nope, no difference. Tried mobile and WiFi #sadface",0.5120710540372326
+76,104107,"<USER> Nope, no difference. Pixel XL 2",DEVICE_PLATFORM,4,2175418,<USER> Nope! No VPN,0.48750147200556404
+76,104107,"<USER> Nope, no difference. Pixel XL 2",DEVICE_PLATFORM,5,2175353,<USER> No difference ☹️,0.48310782595881685
+77,1474907,"<USER> Maybe I just don't know myself... Oh god, I didn't want to find out this way!",OTHER,1,2761405,<USER> I just don’t know what I’m doing I’m new to Spotify,0.2347246597188043
+77,1474907,"<USER> Maybe I just don't know myself... Oh god, I didn't want to find out this way!",OTHER,2,621401,"<USER> Maybe I’m just a dumb grandma but I can’t play from playlists or recent, just from a search. Roku Express",0.2186904266520194
+77,1474907,"<USER> Maybe I just don't know myself... Oh god, I didn't want to find out this way!",OTHER,3,466832,"<USER> I'm using a PC, Windows 10, and I don't know where to find the version I'm running",0.18560130661885255
+77,1474907,"<USER> Maybe I just don't know myself... Oh god, I didn't want to find out this way!",OTHER,4,538063,"<USER> Hi, Please I don't have a credit card and I'd like pay via my Google play Store. Please I want to find out it's acceptable. Looking forward to your response..thank you.",0.1855373806285337
+77,1474907,"<USER> Maybe I just don't know myself... Oh god, I didn't want to find out this way!",OTHER,5,306246,<USER> Maybe its just my browser,0.18552423995470768
+78,1848397,"<USER> Nope, it keeps happening randomly. Spotify version 1.0.65.320.gac7a8e02",APP_TECHNICAL,1,1821106,"<USER> Lenovo Thinkpad, Windows 10, Spotify version 1.0.65.320.gac7a8e02",0.47473878554806004
+78,1848397,"<USER> Nope, it keeps happening randomly. Spotify version 1.0.65.320.gac7a8e02",APP_TECHNICAL,2,323065,<USER> Thank you! OS - 10.11.6 Spotify version - 1.0.65.320.gac7a8e02,0.4614694757329353
+78,1848397,"<USER> Nope, it keeps happening randomly. Spotify version 1.0.65.320.gac7a8e02",APP_TECHNICAL,3,1777409,<USER> It keeps happening.. <URL>,0.4541697105762297
+78,1848397,"<USER> Nope, it keeps happening randomly. Spotify version 1.0.65.320.gac7a8e02",APP_TECHNICAL,4,739930,<USER> 1.0.65.320.gac7a8e02,0.45152953370984716
+78,1848397,"<USER> Nope, it keeps happening randomly. Spotify version 1.0.65.320.gac7a8e02",APP_TECHNICAL,5,184607,<USER> mac version: 10.13 spotify version: 1.0.65.320.gac7a8e02,0.4494400904807084
+79,631976,<USER> I was thank you!,OTHER,1,2070813,<USER> Ayeeeee thank you.,0.5841965975008829
+79,631976,<USER> I was thank you!,OTHER,2,2861253,<USER> Wooooooooo thank you Spotifiy!,0.5841965975008829
+79,631976,<USER> I was thank you!,OTHER,3,1829375,<USER> I was worth a shot. :D,0.4771528434211451
+79,631976,<USER> I was thank you!,OTHER,4,187728,<USER> Thank you.,0.4620549395990975
+79,631976,<USER> I was thank you!,OTHER,5,211121,<USER> thank you!,0.4620549395990975
+80,2902814,<USER> thank u~,OTHER,1,1427776,<USER> thank u kings,1.0
+80,2902814,<USER> thank u~,OTHER,2,1855649,<USER> Thank u 😇,1.0
+80,2902814,<USER> thank u~,OTHER,3,2234675,<USER> thank,1.0
+80,2902814,<USER> thank u~,OTHER,4,2216029,<USER> thank u !! 💙,1.0
+80,2902814,<USER> thank u~,OTHER,5,2246073,<USER> thank u!!!,1.0
+81,1501746,<USER> Your app asked to pick a username at sign up (android).. Nowhere in the app is a place to set display name. <URL>,FEATURE_REQUEST,1,821306,<USER> i cant seem to find the option to set up a display name?,0.3034051866357875
+81,1501746,<USER> Your app asked to pick a username at sign up (android).. Nowhere in the app is a place to set display name. <URL>,FEATURE_REQUEST,2,821308,"<USER> okay thanks for your help, how to you set a display name?",0.2682977853334224
+81,1501746,<USER> Your app asked to pick a username at sign up (android).. Nowhere in the app is a place to set display name. <URL>,FEATURE_REQUEST,3,2073148,<USER> I have already sign up,0.2152771174038005
+81,1501746,<USER> Your app asked to pick a username at sign up (android).. Nowhere in the app is a place to set display name. <URL>,FEATURE_REQUEST,4,2473666,<USER> Thanks for getting back to me. How can I add a display name?,0.20545716188995444
+81,1501746,<USER> Your app asked to pick a username at sign up (android).. Nowhere in the app is a place to set display name. <URL>,FEATURE_REQUEST,5,1951411,<USER> Your tech support helped me to sign up with a username. You should know that “Ivan S” at your support is the BEST there is. 10/10 ⭐️⭐️⭐️⭐️⭐️,0.19289073667521212
+82,1333631,<USER> none of these apply and it's a brand new phone. Playlists always stay downloaded but album downloads disappear! So very annoying!,PLAYLIST_LIBRARY,1,1185251,<USER> None.,0.2716496053599604
+82,1333631,<USER> none of these apply and it's a brand new phone. Playlists always stay downloaded but album downloads disappear! So very annoying!,PLAYLIST_LIBRARY,2,510552,<USER> And I have a brand new 8 plus,0.2658095447560352
+82,1333631,<USER> none of these apply and it's a brand new phone. Playlists always stay downloaded but album downloads disappear! So very annoying!,PLAYLIST_LIBRARY,3,39739,"<USER> Checked, none of these apply - unless an *automatic* update deleted them and switched off the download option?",0.25846298758783615
+82,1333631,<USER> none of these apply and it's a brand new phone. Playlists always stay downloaded but album downloads disappear! So very annoying!,PLAYLIST_LIBRARY,4,2577806,<USER> none of these apply to me ! 🙁 it’s fine when i get home i’ll get back online and download them again thanks though!,0.2583109537839767
+82,1333631,<USER> none of these apply and it's a brand new phone. Playlists always stay downloaded but album downloads disappear! So very annoying!,PLAYLIST_LIBRARY,5,2039421,"<USER> I appreciate the response, although none of these troubleshooting suggestions apply to me.",0.24271097355918964
+83,187526,<USER> DM sent now! Thanks.,OTHER,1,1343770,<USER> Dm sent.,0.8382860291016123
+83,187526,<USER> DM sent now! Thanks.,OTHER,2,2809549,<USER> DM Sent! ;),0.8382860291016123
+83,187526,<USER> DM sent now! Thanks.,OTHER,3,1455458,<USER> DM sent!,0.8382860291016123
+83,187526,<USER> DM sent now! Thanks.,OTHER,4,1100132,<USER> DM sent,0.8382860291016123
+83,187526,<USER> DM sent now! Thanks.,OTHER,5,416505,<USER> Dm sent,0.8382860291016123
+84,2218781,<USER> Didn’t even have to- issue resolved: menu bar now available! Thanks again.,APP_TECHNICAL,1,936222,<USER> Thanks again.,0.34089422500666755
+84,2218781,<USER> Didn’t even have to- issue resolved: menu bar now available! Thanks again.,APP_TECHNICAL,2,2688595,<USER> Thanks again!,0.34089422500666755
+84,2218781,<USER> Didn’t even have to- issue resolved: menu bar now available! Thanks again.,APP_TECHNICAL,3,2319905,"<USER> I just looked if it was gone and it is, so I didn't even have to restart my phone. Besides that, thank you!",0.29247338594513034
+84,2218781,<USER> Didn’t even have to- issue resolved: menu bar now available! Thanks again.,APP_TECHNICAL,4,1096225,<USER> Didn’t work!,0.25053772724725565
+84,2218781,<USER> Didn’t even have to- issue resolved: menu bar now available! Thanks again.,APP_TECHNICAL,5,792868,<USER> Didn't work :(,0.25053772724725565
+85,1854849,<USER> Spotify is the only app I usually use in the background. Switching between different apps doesn't cause any problems.,APP_TECHNICAL,1,2265070,<USER> Wtf is this app running in the background?,0.2148275763668503
+85,1854849,<USER> Spotify is the only app I usually use in the background. Switching between different apps doesn't cause any problems.,APP_TECHNICAL,2,2820841,"<USER> Done. No joy unfortunately, still no change in the sample rate output when switching between settings in the app...",0.21418105464996853
+85,1854849,<USER> Spotify is the only app I usually use in the background. Switching between different apps doesn't cause any problems.,APP_TECHNICAL,3,2904464,<USER> Spotify is the only streaming app I have... and it started hapening when i installed spotify! 🙁,0.21017447857330543
+85,1854849,<USER> Spotify is the only app I usually use in the background. Switching between different apps doesn't cause any problems.,APP_TECHNICAL,4,2394381,"<USER> That's great :D That means no switching between apps at the christmas party, since a few tracks are not on spotify but the problem is solved",0.18745569506598805
+85,1854849,<USER> Spotify is the only app I usually use in the background. Switching between different apps doesn't cause any problems.,APP_TECHNICAL,5,1156893,<USER> i never had any problems with older versions of the app.,0.18555226312086673
+86,1645296,"<USER> OK. Thanks. If I wanted to import my existing iTunes to Spotify, how do I do it? Done in the past ages ago but want to copy latest. File-> Import Playlists-> iTunes does nothing",PLAYLIST_LIBRARY,1,36730,<USER> That i did ages ago.,0.2312344151657612
+86,1645296,"<USER> OK. Thanks. If I wanted to import my existing iTunes to Spotify, how do I do it? Done in the past ages ago but want to copy latest. File-> Import Playlists-> iTunes does nothing",PLAYLIST_LIBRARY,2,592816,<USER> Ok. Thanks!,0.2213848270220713
+86,1645296,"<USER> OK. Thanks. If I wanted to import my existing iTunes to Spotify, how do I do it? Done in the past ages ago but want to copy latest. File-> Import Playlists-> iTunes does nothing",PLAYLIST_LIBRARY,3,2714240,<USER> Ok thanks,0.2213848270220713
+86,1645296,"<USER> OK. Thanks. If I wanted to import my existing iTunes to Spotify, how do I do it? Done in the past ages ago but want to copy latest. File-> Import Playlists-> iTunes does nothing",PLAYLIST_LIBRARY,4,1841810,<USER> Ok. Thanks,0.2213848270220713
+86,1645296,"<USER> OK. Thanks. If I wanted to import my existing iTunes to Spotify, how do I do it? Done in the past ages ago but want to copy latest. File-> Import Playlists-> iTunes does nothing",PLAYLIST_LIBRARY,5,108034,<USER> Ok! Thanks,0.2213848270220713
+87,2669360,"<USER> Thanks! A Moto G Play, running Android 6.0.1, Spotify v 8.4.26.770 armV7.",APP_TECHNICAL,1,2509468,"<USER> Android 7.0, Spotify 8.4.26.770 armV7",0.7575897521260065
+87,2669360,"<USER> Thanks! A Moto G Play, running Android 6.0.1, Spotify v 8.4.26.770 armV7.",APP_TECHNICAL,2,863678,<USER> Android 7.0 Spotify 8.4.26.770,0.6403084504925507
+87,2669360,"<USER> Thanks! A Moto G Play, running Android 6.0.1, Spotify v 8.4.26.770 armV7.",APP_TECHNICAL,3,2757616,<USER> Spotify 8.4.26.770 armV7. Oxygen 5.0 Android version 8.0.0,0.6088254985110464
+87,2669360,"<USER> Thanks! A Moto G Play, running Android 6.0.1, Spotify v 8.4.26.770 armV7.",APP_TECHNICAL,4,2210892,<USER> Samsung Galaxg Note 5 Running Android 7.0 Spotify is version 8.4.26.770 armV7,0.5715655168805973
+87,2669360,"<USER> Thanks! A Moto G Play, running Android 6.0.1, Spotify v 8.4.26.770 armV7.",APP_TECHNICAL,5,1742932,"<USER> Thanks! I'm using a Nexus 5X running Android 8, Spotify version 8.4.26.770 armV7",0.5542541679121341
+88,1964577,<USER> Samsung Galaxy S4.,PLAYBACK,1,2950138,<USER> samsung galaxy s6,0.7679467533076036
+88,1964577,<USER> Samsung Galaxy S4.,PLAYBACK,2,2978968,<USER> Samsung Galaxy S6 <URL>,0.7499592096459449
+88,1964577,<USER> Samsung Galaxy S4.,PLAYBACK,3,2789387,<USER> Samsung 8+,0.7099185495348701
+88,1964577,<USER> Samsung Galaxy S4.,PLAYBACK,4,2749469,<USER> Samsung galaxy tablet all updated versions.,0.625554033033447
+88,1964577,<USER> Samsung Galaxy S4.,PLAYBACK,5,2618543,<USER> Samsung Galaxy J3 - Android 5.1.1 <URL>,0.5810362489590146
+89,252304,"<USER> This one here, sir. (shout out to <USER> / <USER> ) and I have a Google Pixel under Google/Android interface. <URL>",DEVICE_PLATFORM,1,190044,<USER> Google Pixel,0.37257823641907717
+89,252304,"<USER> This one here, sir. (shout out to <USER> / <USER> ) and I have a Google Pixel under Google/Android interface. <URL>",DEVICE_PLATFORM,2,311703,<USER> No message pops up. I have a Google Pixel XL running Android 8.0.0,0.3002620715381369
+89,252304,"<USER> This one here, sir. (shout out to <USER> / <USER> ) and I have a Google Pixel under Google/Android interface. <URL>",DEVICE_PLATFORM,3,1175705,"<USER> Google Pixel XL1, Android 8, Spotify version 8.4.24.871",0.26532204979362206
+89,252304,"<USER> This one here, sir. (shout out to <USER> / <USER> ) and I have a Google Pixel under Google/Android interface. <URL>",DEVICE_PLATFORM,4,347193,<USER> It's the Google Pixel (1st Gen),0.2546520646369936
+89,252304,"<USER> This one here, sir. (shout out to <USER> / <USER> ) and I have a Google Pixel under Google/Android interface. <URL>",DEVICE_PLATFORM,5,1863608,"<USER> This one, maybe: <URL>",0.2501639508372578
+90,2203725,<USER> Hey. I've tried what you suggested and still the same thing is happening. It just doesn't want to go trough with transaction and I use my PayPal very often.,BILLING_PAYMENT,1,2026566,<USER> <USER> I tried that and still the same,0.26886371774951506
+90,2203725,<USER> Hey. I've tried what you suggested and still the same thing is happening. It just doesn't want to go trough with transaction and I use my PayPal very often.,BILLING_PAYMENT,2,2284919,<USER> still the same ):,0.23549713467919828
+90,2203725,<USER> Hey. I've tried what you suggested and still the same thing is happening. It just doesn't want to go trough with transaction and I use my PayPal very often.,BILLING_PAYMENT,3,278109,<USER> Still the same.,0.23549713467919828
+90,2203725,<USER> Hey. I've tried what you suggested and still the same thing is happening. It just doesn't want to go trough with transaction and I use my PayPal very often.,BILLING_PAYMENT,4,911619,<USER> It’s still the same 😢,0.234076918560487
+90,2203725,<USER> Hey. I've tried what you suggested and still the same thing is happening. It just doesn't want to go trough with transaction and I use my PayPal very often.,BILLING_PAYMENT,5,2674442,<USER> It’s still the same :-/,0.234076918560487
+91,2081625,<USER> It was off. I checked when I caught it downloading song 18/45. I switched it on and back off again to see if it would help. It didn't.,APP_TECHNICAL,1,338312,<USER> it didn't :(,0.26115441866712535
+91,2081625,<USER> It was off. I checked when I caught it downloading song 18/45. I switched it on and back off again to see if it would help. It didn't.,APP_TECHNICAL,2,2828389,<USER> It didn’t help :/,0.23853433270827237
+91,2081625,<USER> It was off. I checked when I caught it downloading song 18/45. I switched it on and back off again to see if it would help. It didn't.,APP_TECHNICAL,3,2748513,<USER> It didn't help,0.23853433270827237
+91,2081625,<USER> It was off. I checked when I caught it downloading song 18/45. I switched it on and back off again to see if it would help. It didn't.,APP_TECHNICAL,4,494212,<USER> It didn't help :(((((((,0.23853433270827237
+91,2081625,<USER> It was off. I checked when I caught it downloading song 18/45. I switched it on and back off again to see if it would help. It didn't.,APP_TECHNICAL,5,1281610,<USER> Great! Thank you. I just switched it off :),0.22704189863954882
+92,2964682,"<USER> I'm not really getting any error messages, it just won't let me play anything <URL>",PLAYBACK,1,1067193,<USER> I’m am using a iPhone 7 and no I’m not getting any error messages I don’t know what the problem is.,0.2957059360026647
+92,2964682,"<USER> I'm not really getting any error messages, it just won't let me play anything <URL>",PLAYBACK,2,1101334,<USER> no error messages just won't play any songs saved. <URL>,0.28833063544960025
+92,2964682,"<USER> I'm not really getting any error messages, it just won't let me play anything <URL>",PLAYBACK,3,859143,"<USER> I didn't get any error messages, it just wouldn't actually play. I finally got it to work after the 30-40th refresh and prayer",0.2878433467319047
+92,2964682,"<USER> I'm not really getting any error messages, it just won't let me play anything <URL>",PLAYBACK,4,187638,"<USER> not getting any error messages. just when pushing play next to a song, it plays a different one from my saved songs list. <URL>",0.2820939930944552
+92,2964682,"<USER> I'm not really getting any error messages, it just won't let me play anything <URL>",PLAYBACK,5,329401,<USER> I'm on my laptop (a chromebook) and it won't let me play any songs but will on my phone.,0.27258128545892213
+93,2876108,<USER> Thank you for a response. We solved it out already. Thanks to your colleague!,OTHER,1,664690,<USER> thank you for your response ☺,0.3378673293397008
+93,2876108,<USER> Thank you for a response. We solved it out already. Thanks to your colleague!,OTHER,2,573223,<USER> thank you for the response,0.32673019835134737
+93,2876108,<USER> Thank you for a response. We solved it out already. Thanks to your colleague!,OTHER,3,2984778,<USER> Thank you for the response!,0.32673019835134737
+93,2876108,<USER> Thank you for a response. We solved it out already. Thanks to your colleague!,OTHER,4,2591010,"<USER> Hello, my problem solve already. Thanks to Spotify Support.",0.2921087006600706
+93,2876108,<USER> Thank you for a response. We solved it out already. Thanks to your colleague!,OTHER,5,2749439,<USER> Thank you for your help,0.28469306517595677
+94,2227257,<USER> iOS 11.2 + there’s no specific messages or anything; the music just stops completely,PLAYBACK,1,669327,"<USER> 7+, iOS 11.1.1. Spotify 8.4.28. And yes, I didn’t have any videos playing or anything on Twitter or Snap, but the music stops playing.",0.295639852121249
+94,2227257,<USER> iOS 11.2 + there’s no specific messages or anything; the music just stops completely,PLAYBACK,2,1970193,<USER> iphone 7 ios 11 or something. Whenever I try to skip songs my music just stops working. AND AFTER EVERY AD TOO.,0.2669242148104349
+94,2227257,<USER> iOS 11.2 + there’s no specific messages or anything; the music just stops completely,PLAYBACK,3,1102740,<USER> IOS 11.0.3 and 8.4.24,0.26131029580198173
+94,2227257,<USER> iOS 11.2 + there’s no specific messages or anything; the music just stops completely,PLAYBACK,4,2426255,"<USER> iOS 11.2, iPhone X.",0.257536001699217
+94,2227257,<USER> iOS 11.2 + there’s no specific messages or anything; the music just stops completely,PLAYBACK,5,2491628,<USER> iOS 11.1.2 Thanks,0.2547230087967235
+95,1881228,<USER> The album is not currently on Spotify and I desperately need it to be. cc: <USER>,CONTENT_AVAILABILITY,1,1092404,<USER> Ughhhhhh. I need it! ☹️,0.3527388105107965
+95,1881228,<USER> The album is not currently on Spotify and I desperately need it to be. cc: <USER>,CONTENT_AVAILABILITY,2,1626589,<USER> No :( This one <URL> cc <USER> <USER>,0.24087625553697273
+95,1881228,<USER> The album is not currently on Spotify and I desperately need it to be. cc: <USER>,CONTENT_AVAILABILITY,3,250747,<USER> My account is currently on germany,0.23158456980851413
+95,1881228,<USER> The album is not currently on Spotify and I desperately need it to be. cc: <USER>,CONTENT_AVAILABILITY,4,483958,<USER> The album is called Distant Relatives by Nas & Damian Marley. I'm in Australia,0.22836798736159428
+95,1881228,<USER> The album is not currently on Spotify and I desperately need it to be. cc: <USER>,CONTENT_AVAILABILITY,5,414134,<USER> Sure! This is the page on which the album is currently located... <URL>,0.22191379504696596
+96,2393592,"<USER> Thank you kindly. I'm sure it makes for a better UX overall and is at least valid to test. Just a simple option to a song's context menu of ""Stop suggesting this artist"" or similar would be aces.",FEATURE_REQUEST,1,708707,<USER> Thank you kindly! Cheers!,0.3084108281146165
+96,2393592,"<USER> Thank you kindly. I'm sure it makes for a better UX overall and is at least valid to test. Just a simple option to a song's context menu of ""Stop suggesting this artist"" or similar would be aces.",FEATURE_REQUEST,2,1220087,<USER> Done - thank you kindly,0.2500693246023291
+96,2393592,"<USER> Thank you kindly. I'm sure it makes for a better UX overall and is at least valid to test. Just a simple option to a song's context menu of ""Stop suggesting this artist"" or similar would be aces.",FEATURE_REQUEST,3,1547937,<USER> Thank you 🙌🏼❤️,0.16846449963057814
+96,2393592,"<USER> Thank you kindly. I'm sure it makes for a better UX overall and is at least valid to test. Just a simple option to a song's context menu of ""Stop suggesting this artist"" or similar would be aces.",FEATURE_REQUEST,4,438414,<USER> Thank you🤗,0.16846449963057814
+96,2393592,"<USER> Thank you kindly. I'm sure it makes for a better UX overall and is at least valid to test. Just a simple option to a song's context menu of ""Stop suggesting this artist"" or similar would be aces.",FEATURE_REQUEST,5,2774604,"<USER> Thank you, JJ!",0.16846449963057814
+97,1359515,<USER> Galaxy S7. There isn't even an option to remove unlike playlists and albums <URL>,PLAYLIST_LIBRARY,1,411606,<USER> Galaxy S7 android 7.0,0.3622119499161509
+97,1359515,<USER> Galaxy S7. There isn't even an option to remove unlike playlists and albums <URL>,PLAYLIST_LIBRARY,2,1965662,<USER> Galaxy s7 edge,0.35491781012685336
+97,1359515,<USER> Galaxy S7. There isn't even an option to remove unlike playlists and albums <URL>,PLAYLIST_LIBRARY,3,2380899,<USER> I do there isn’t an option. <URL>,0.34616019735146103
+97,1359515,<USER> Galaxy S7. There isn't even an option to remove unlike playlists and albums <URL>,PLAYLIST_LIBRARY,4,1834566,"<USER> Galaxy s7 active, andriod <URL>",0.31155693397877154
+97,1359515,<USER> Galaxy S7. There isn't even an option to remove unlike playlists and albums <URL>,PLAYLIST_LIBRARY,5,1837062,"<USER> Galaxy S7 edge, Android version 7.0 <URL>",0.2828232274660678
+98,867562,"<USER> if it's helpful, i was able to get the songs to play on my amazon echo - but it still won't play through just the device though! <URL>",PLAYBACK,1,1068074,"<USER> If I buy Amazon echo in India, would I be able to play Spotify music in that device?",0.32624299438826065
+98,867562,"<USER> if it's helpful, i was able to get the songs to play on my amazon echo - but it still won't play through just the device though! <URL>",PLAYBACK,2,122092,<USER> It’s still up though? <URL>,0.25435547791081625
+98,867562,"<USER> if it's helpful, i was able to get the songs to play on my amazon echo - but it still won't play through just the device though! <URL>",PLAYBACK,3,1328429,"<USER> Sadly, it did not. Still won’t play.",0.21654855672306875
+98,867562,"<USER> if it's helpful, i was able to get the songs to play on my amazon echo - but it still won't play through just the device though! <URL>",PLAYBACK,4,1311656,<USER> I'm able to play it on my kindle fire with one problem.,0.2021169675167483
+98,867562,"<USER> if it's helpful, i was able to get the songs to play on my amazon echo - but it still won't play through just the device though! <URL>",PLAYBACK,5,1553454,"<USER> I tap on the tracks on my S7, and the songs just won't play, on my laptop, it says, the song isn't avalible.",0.2007267208978083
+99,2110135,<USER> thanks but ill just go ahead and download the soundcloud app,CONTENT_AVAILABILITY,1,2818180,"<USER> Thanks, I've gone ahead and submitted the contact form",0.24260302084171
+99,2110135,<USER> thanks but ill just go ahead and download the soundcloud app,CONTENT_AVAILABILITY,2,826976,"<USER> Go ahead and try triple charging my card. I dare you. It's cancelled now, good luck trying to get another penny out of me, assholes",0.23840844021870944
+99,2110135,<USER> thanks but ill just go ahead and download the soundcloud app,CONTENT_AVAILABILITY,3,2218963,<USER> I had to download the app again.,0.2047171680404927
+99,2110135,<USER> thanks but ill just go ahead and download the soundcloud app,CONTENT_AVAILABILITY,4,1965848,"<USER> hi, I already subscribe for the premium, and download via mobile network is on. But I still can't download the song. :(",0.20214896986740347
+99,2110135,<USER> thanks but ill just go ahead and download the soundcloud app,CONTENT_AVAILABILITY,5,727421,<USER> Notging. Just go back to the previous Web Player...,0.2008145033807797
+100,1516293,"<USER> Hey, I don't think it is device specific, it has happened on two different android devices. I'm talking about the offline mode in-app.",PLAYBACK,1,1748239,<USER> yes on my 3 android devices,0.23253078810027225
+100,1516293,"<USER> Hey, I don't think it is device specific, it has happened on two different android devices. I'm talking about the offline mode in-app.",PLAYBACK,2,874984,<USER> No. And again this was on two different networks with diffrent routers two different roku's it's not the network or the routers.,0.2177912707712687
+100,1516293,"<USER> Hey, I don't think it is device specific, it has happened on two different android devices. I'm talking about the offline mode in-app.",PLAYBACK,3,1142198,<USER> Oh I don't think this is what I'm talking about. I mean on the touchbar on a MacBook pro.,0.20804683178798675
+100,1516293,"<USER> Hey, I don't think it is device specific, it has happened on two different android devices. I'm talking about the offline mode in-app.",PLAYBACK,4,1121931,<USER> What brands are u talking about ? 😊,0.2045180093513587
+100,1516293,"<USER> Hey, I don't think it is device specific, it has happened on two different android devices. I'm talking about the offline mode in-app.",PLAYBACK,5,609661,<USER> I've used Chrome and IE on two different devices both on incognito and off.,0.19847655398207917
+101,1935417,<USER> South Africa <URL>,OTHER,1,1222097,<USER> Living in South Africa 🔥,0.6686179476085286
+101,1935417,<USER> South Africa <URL>,OTHER,2,1116673,<USER> Hello :) Thanks for the quick response - I'm referring to South Africa! X,0.5328052178689414
+101,1935417,<USER> South Africa <URL>,OTHER,3,2572203,<USER> Hopefully u guys launch it in south Africa soon <URL>,0.5059352001505977
+101,1935417,<USER> South Africa <URL>,OTHER,4,797558,"<USER> It doesn't matter where i change the service to, it's still isn't available. Also make the service available in South Africa",0.36427340026174904
+101,1935417,<USER> South Africa <URL>,OTHER,5,1874208,<USER> *celebrating* <URL>,0.2273813338469993
+102,1464487,<USER> Spotify deleted my mom and brother from my family account.,FAMILY_DUO,1,566344,<USER> __email__. and member of my family __email__,0.24032075194501426
+102,1464487,<USER> Spotify deleted my mom and brother from my family account.,FAMILY_DUO,2,2246154,"<USER> sure, how may members we can add on the family account?",0.2032074280223371
+102,1464487,<USER> Spotify deleted my mom and brother from my family account.,FAMILY_DUO,3,1780836,"<USER> well i emailed you guys, can i DM you through here. i deleted my facebook and cant log into my spotify. my fb account is already permanently deleted, so i cannot reactivate.",0.19623606249336648
+102,1464487,<USER> Spotify deleted my mom and brother from my family account.,FAMILY_DUO,4,435889,<USER> Spotify controls aren’t available from my lock screen so my car just plays from my Apple Music,0.19421032804401642
+102,1464487,<USER> Spotify deleted my mom and brother from my family account.,FAMILY_DUO,5,1261926,<USER> Spotify 0.7.89 Beta,0.1925597490947474
+103,2218970,<USER> Is she willing or not to drop it there? ;_ ;,CONTENT_AVAILABILITY,1,775119,<USER> 🙏🏾🙏🏾🙏🏾 okay thanks ! Fan 2011 If you’d like to drop it in my email I won’t be mad ! 😉__email__,0.29676312917248926
+103,2218970,<USER> Is she willing or not to drop it there? ;_ ;,CONTENT_AVAILABILITY,2,1857058,<USER> It’s available in Australia can you like drop it,0.25154303189290916
+103,2218970,<USER> Is she willing or not to drop it there? ;_ ;,CONTENT_AVAILABILITY,3,1263455,<USER> Is that going to possibly change? I'd be willing to pay a little more or a one time fee for more space.,0.16648484683890608
+103,2218970,<USER> Is she willing or not to drop it there? ;_ ;,CONTENT_AVAILABILITY,4,2459281,<USER> Is there any expected date..?,0.14855500753506787
+103,2218970,<USER> Is she willing or not to drop it there? ;_ ;,CONTENT_AVAILABILITY,5,2620068,<USER> So they will be available soon or not?,0.1410849917476431
+104,1854888,<USER> iPhone 5s. Spotify version 8.4.22.515.,APP_TECHNICAL,1,1864817,<USER> iPhone 7 iOS 11.0.2 Spotify version 8.4.22.515,0.6446000105694247
+104,1854888,<USER> iPhone 5s. Spotify version 8.4.22.515.,APP_TECHNICAL,2,1173225,"<USER> iPhone 5CE, version 8.4.22.515, iOS 10.2",0.6317555777848227
+104,1854888,<USER> iPhone 5s. Spotify version 8.4.22.515.,APP_TECHNICAL,3,1035182,"<USER> iPhone 7, iOS 11.0.3 and Spotify version 8.4.22.515",0.6160240396802121
+104,1854888,<USER> iPhone 5s. Spotify version 8.4.22.515.,APP_TECHNICAL,4,2517292,"<USER> iPhone 5S, v. 8.4.26. Thanks!",0.6047267144383353
+104,1854888,<USER> iPhone 5s. Spotify version 8.4.22.515.,APP_TECHNICAL,5,962712,<USER> IPhone 5s on iOS 11 beta 2. I am currently running Spotify version 8.4.22.515 thanks you,0.5795332826244116
+105,1287755,<USER> Appreciate it!! If they fix this (see Photo) then Originals will go head to head w/ my Netflix! <URL>,FEATURE_REQUEST,1,947859,<USER> Appreciate it !,0.3697043603551648
+105,1287755,<USER> Appreciate it!! If they fix this (see Photo) then Originals will go head to head w/ my Netflix! <URL>,FEATURE_REQUEST,2,1913668,<USER> Appreciate it,0.3697043603551648
+105,1287755,<USER> Appreciate it!! If they fix this (see Photo) then Originals will go head to head w/ my Netflix! <URL>,FEATURE_REQUEST,3,874002,<USER> Appreciate it❤️❤️,0.3697043603551648
+105,1287755,<USER> Appreciate it!! If they fix this (see Photo) then Originals will go head to head w/ my Netflix! <URL>,FEATURE_REQUEST,4,1766354,<USER> Appreciate it 🤘,0.3697043603551648
+105,1287755,<USER> Appreciate it!! If they fix this (see Photo) then Originals will go head to head w/ my Netflix! <URL>,FEATURE_REQUEST,5,2456277,<USER> Appreciate it!,0.3697043603551648
+106,962255,"<USER> OS X: 10.12.6, Spotify: 1.0.65.320.gac7a8e02",APP_TECHNICAL,1,1715477,<USER> OS 10.10.5. Spotify 1.0.65.320.,0.6894545331430872
+106,962255,"<USER> OS X: 10.12.6, Spotify: 1.0.65.320.gac7a8e02",APP_TECHNICAL,2,937697,<USER> Spotify - 1.0.65.320.gac7a8e02 Mac OS - Sierra v 10.12.6 <URL>,0.6140726181213003
+106,962255,"<USER> OS X: 10.12.6, Spotify: 1.0.65.320.gac7a8e02",APP_TECHNICAL,3,1794382,"<USER> Mac OS 10.12, Spotify 1.0.65.320.gac7a8e02. Sluggish response, extremely slow while loading/finding artists. I've already deleted caché.",0.5742586239350902
+106,962255,"<USER> OS X: 10.12.6, Spotify: 1.0.65.320.gac7a8e02",APP_TECHNICAL,4,323065,<USER> Thank you! OS - 10.11.6 Spotify version - 1.0.65.320.gac7a8e02,0.5442002408103108
+106,962255,"<USER> OS X: 10.12.6, Spotify: 1.0.65.320.gac7a8e02",APP_TECHNICAL,5,378047,<USER> Spotify app = 1.0.65.320.gac7a8e02 iOS = Sierra 10.12.6,0.4844245967452297
+107,2969632,<USER> Thankssss (:,OTHER,1,497746,<USER> Thanks for acknowledging this as a 'good idea' after three and a half years and over 5200 votes (not counting similar ideas). But could we agree that the ball is in your court? I am sure that <USER> or <USER> marketing would like to target your most devoted users over this.,0.0
+107,2969632,<USER> Thankssss (:,OTHER,2,599465,"<USER> Hi, thank you but that is the problem, we do not live at the same address 😥 isn’t there any plan whereby you and x amount of people could still enjoy Spotify Premium at a cheaper rate than paying what we currently do each, per month?",0.0
+107,2969632,<USER> Thankssss (:,OTHER,3,599477,"<USER> Hello, it's a oneplus 5. Version info in attached images 😊 thanks. <URL>",0.0
+107,2969632,<USER> Thankssss (:,OTHER,4,602844,<USER> Windows 7 pro,0.0
+107,2969632,<USER> Thankssss (:,OTHER,5,568949,"<USER> Every time I receive a snapchat while playing through Bluetooth, the music pauses. iPhone 6s, Spotify version 8.4.28",0.0
+108,1843932,"<USER> iPhone 6, iOS 11.1.2, Spotify 8.4.28",FEATURE_REQUEST,1,2344412,<USER> iPhone 7+. iOS 11.1.2. Spotify 8.4.28.1104. Thank you.,0.7512057786474409
+108,1843932,"<USER> iPhone 6, iOS 11.1.2, Spotify 8.4.28",FEATURE_REQUEST,2,2190878,<USER> iPhone 7 iOS 11.1,0.7083948533609881
+108,1843932,"<USER> iPhone 6, iOS 11.1.2, Spotify 8.4.28",FEATURE_REQUEST,3,187585,<USER> iPhone 7+ iOS 11.0.2,0.7083948533609881
+108,1843932,"<USER> iPhone 6, iOS 11.1.2, Spotify 8.4.28",FEATURE_REQUEST,4,2358979,"<USER> iPhone 6, iOS 11.1",0.7083948533609881
+108,1843932,"<USER> iPhone 6, iOS 11.1.2, Spotify 8.4.28",FEATURE_REQUEST,5,2981104,<USER> spotify 8.4.28 ios 11.1,0.6915832769073396
+109,1261975,<USER> thx !! :),OTHER,1,780945,<USER> 👍👍 thx !,1.0
+109,1261975,<USER> thx !! :),OTHER,2,893075,<USER> K. Thx,1.0
+109,1261975,<USER> thx !! :),OTHER,3,1186030,<USER> Thx :),1.0
+109,1261975,<USER> thx !! :),OTHER,4,1199854,<USER> Thx 🔥✨,1.0
+109,1261975,<USER> thx !! :),OTHER,5,1256153,<USER> Thx JZ!!!,1.0
+110,397107,<USER> Just did both and still stuck on that same southern comfort ad :(,APP_TECHNICAL,1,1101286,<USER> Just did.,0.37410313550267404
+110,397107,<USER> Just did both and still stuck on that same southern comfort ad :(,APP_TECHNICAL,2,2061105,<USER> Just did :),0.37410313550267404
+110,397107,<USER> Just did both and still stuck on that same southern comfort ad :(,APP_TECHNICAL,3,1104996,<USER> I just did,0.37410313550267404
+110,397107,<USER> Just did both and still stuck on that same southern comfort ad :(,APP_TECHNICAL,4,64347,<USER> Just did !,0.37410313550267404
+110,397107,<USER> Just did both and still stuck on that same southern comfort ad :(,APP_TECHNICAL,5,633759,<USER> Tried all of that. Still stuck on the Blue Moon ad.,0.3497867601845915
+111,1225420,<USER> Samsung GS7 edge android. It also happens on my desktop. I'm running win 10,CONTENT_AVAILABILITY,1,1382285,"<USER> iOS 11.0.3, 8.4.24 beta (can't be a beta thing since it also happens on Win/Mac/browser player). Win 10/Mac Sierra latest Spotify versions",0.3391471226515211
+111,1225420,<USER> Samsung GS7 edge android. It also happens on my desktop. I'm running win 10,CONTENT_AVAILABILITY,2,1202997,"<USER> No, it also happens in desktop app.",0.30493757667559906
+111,1225420,<USER> Samsung GS7 edge android. It also happens on my desktop. I'm running win 10,CONTENT_AVAILABILITY,3,2789387,<USER> Samsung 8+,0.28860037687389184
+111,1225420,<USER> Samsung GS7 edge android. It also happens on my desktop. I'm running win 10,CONTENT_AVAILABILITY,4,1028770,<USER> Samsung 7 edge,0.2777593178415962
+111,1225420,<USER> Samsung GS7 edge android. It also happens on my desktop. I'm running win 10,CONTENT_AVAILABILITY,5,280228,<USER> Samsung s 7 edge,0.2777593178415962
+112,850,<USER> Premium & when i️ have it on shuffle it turns off when the song is done and just plays in order and the repeat lights up but doesn’t repeat,PLAYBACK,1,240331,"<USER> I have a problem with Shuffle, it doesn't work in my car (Mazda 6 2014).. when I connect, the shuffle sign turns off..",0.21086673534625755
+112,850,<USER> Premium & when i️ have it on shuffle it turns off when the song is done and just plays in order and the repeat lights up but doesn’t repeat,PLAYBACK,2,272960,"<USER> I rebooted my phone. It turns off when my lock screen kicks in, didn't do that before. Will tinker and see.",0.2020927209388855
+112,850,<USER> Premium & when i️ have it on shuffle it turns off when the song is done and just plays in order and the repeat lights up but doesn’t repeat,PLAYBACK,3,2488833,<USER> nope it still turns off,0.19067749096389808
+112,850,<USER> Premium & when i️ have it on shuffle it turns off when the song is done and just plays in order and the repeat lights up but doesn’t repeat,PLAYBACK,4,1075790,"<USER> After—however, the playlist is set on shuffle & repeat.",0.1846363718049406
+112,850,<USER> Premium & when i️ have it on shuffle it turns off when the song is done and just plays in order and the repeat lights up but doesn’t repeat,PLAYBACK,5,2511292,"<USER> iPhone 6S, IOS 11.0.2. Playlists won’t shuffle. Button turns off when it goes to the next song. Have deleted and reinstalled several times",0.17625108431092362
+113,1726752,"<USER> That’s truly absurd, but I know it’s not your fault. Thanks for the link/explanation.",FEATURE_REQUEST,1,2259593,<USER> That's unacceptable on every level. Today is the release date. I know it isn't your fault. She's a snake for this.,0.29508504325598
+113,1726752,"<USER> That’s truly absurd, but I know it’s not your fault. Thanks for the link/explanation.",FEATURE_REQUEST,2,912934,<USER> good to know. Thanks for the explanation.,0.2712705194288052
+113,1726752,"<USER> That’s truly absurd, but I know it’s not your fault. Thanks for the link/explanation.",FEATURE_REQUEST,3,1552613,<USER> It's not your fault. I'm really happy with my Spotify subscription. This is probably just between me and Everclear.,0.27016353276843313
+113,1726752,"<USER> That’s truly absurd, but I know it’s not your fault. Thanks for the link/explanation.",FEATURE_REQUEST,4,972346,<USER> Voted. Thanks for the link. :),0.27009915174412474
+113,1726752,"<USER> That’s truly absurd, but I know it’s not your fault. Thanks for the link/explanation.",FEATURE_REQUEST,5,1257210,<USER> :( that’s too bad but thanks for the reply and explanation,0.26495225016935314
+114,1162263,<USER> <USER> We need different paying methods..easy fix,BILLING_PAYMENT,1,775124,"<USER> <USER> We don't care same info, we need you fix it!",0.40058771121545733
+114,1162263,<USER> <USER> We need different paying methods..easy fix,BILLING_PAYMENT,2,2139352,"<USER> <USER> You are not updating the Artists Charts, we need you to fix this",0.2569720038801299
+114,1162263,<USER> <USER> We need different paying methods..easy fix,BILLING_PAYMENT,3,2853006,<USER> <USER> Yes please! We need Spotify on our TV!,0.2525668722373804
+114,1162263,<USER> <USER> We need different paying methods..easy fix,BILLING_PAYMENT,4,2285090,<USER> Do you know which song we need to have on spotify?,0.2324937009127743
+114,1162263,<USER> <USER> We need different paying methods..easy fix,BILLING_PAYMENT,5,139095,<USER> we dont take vacations til the wu tang album drops,0.22863489930132572
+115,2928147,"<USER> <USER> Mines hit and miss. Only sometimes shows the Spotify app when I go on multimedia. I’m just waiting for next Spotify update, otherwise going to Deezer",APP_TECHNICAL,1,740743,<USER> just the Spotify app :(,0.2400886807726425
+115,2928147,"<USER> <USER> Mines hit and miss. Only sometimes shows the Spotify app when I go on multimedia. I’m just waiting for next Spotify update, otherwise going to Deezer",APP_TECHNICAL,2,2218879,<USER> Yep only the Spotify app. The volume buttons on my phone don’t work for the Spotify app when the phone is locked.,0.2180818828758045
+115,2928147,"<USER> <USER> Mines hit and miss. Only sometimes shows the Spotify app when I go on multimedia. I’m just waiting for next Spotify update, otherwise going to Deezer",APP_TECHNICAL,3,1221309,<USER> The spotify app on iphone,0.2019944583360819
+115,2928147,"<USER> <USER> Mines hit and miss. Only sometimes shows the Spotify app when I go on multimedia. I’m just waiting for next Spotify update, otherwise going to Deezer",APP_TECHNICAL,4,2859022,"<USER> No, only Spotify app.",0.17673345537673424
+115,2928147,"<USER> <USER> Mines hit and miss. Only sometimes shows the Spotify app when I go on multimedia. I’m just waiting for next Spotify update, otherwise going to Deezer",APP_TECHNICAL,5,2981103,<USER> iphone 7 and the latest spotify update,0.17067931981415893
+116,1427792,<USER> Yes. But only because you’re so much better than <USER>,OTHER,1,2512436,<USER> Thank you <USER> for satisfying another customer this is why you'll always be better than <USER>,0.27054245049686576
+116,1427792,<USER> Yes. But only because you’re so much better than <USER>,OTHER,2,120292,<USER> YES! Thank you so much <3,0.2666294635493515
+116,1427792,<USER> Yes. But only because you’re so much better than <USER>,OTHER,3,653112,"<USER> Thank you so much for resolving this issue! Much better, great work <USER> !",0.26564199076050987
+116,1427792,<USER> Yes. But only because you’re so much better than <USER>,OTHER,4,1641896,<USER> <USER> Glad to see the integration of others’ messaging platforms. Much better than before! Thank you!,0.2533363986257959
+116,1427792,<USER> Yes. But only because you’re so much better than <USER>,OTHER,5,1949754,<USER> Yes!,0.23543906515029117
+117,989808,<USER> little bit disappointing for those who can’t pay with credit cards only with iTunes/google play cards.,BILLING_PAYMENT,1,2622853,"<USER> It’s lowkey crazy, because Holland never pays with credit cards, everyone uses iDeal, most of them are students like me.",0.25565617009801556
+117,989808,<USER> little bit disappointing for those who can’t pay with credit cards only with iTunes/google play cards.,BILLING_PAYMENT,2,1298044,<USER> Debit card is not available for Colombia. Only the option for pay with credit card. 😭😭😭😭 <URL>,0.23490876329525281
+117,989808,<USER> little bit disappointing for those who can’t pay with credit cards only with iTunes/google play cards.,BILLING_PAYMENT,3,1019555,"<USER> It's weird because I can pay the normal 9,99 subscription with paypal and Ideal, but the 50% student discount one only with credit card",0.23082674363219885
+117,989808,<USER> little bit disappointing for those who can’t pay with credit cards only with iTunes/google play cards.,BILLING_PAYMENT,4,2878167,<USER> There's a lot of students here in the EU who don't own credit cards. Me included. Not sure why this is sooo hard :(,0.19397053584337792
+117,989808,<USER> little bit disappointing for those who can’t pay with credit cards only with iTunes/google play cards.,BILLING_PAYMENT,5,1197250,<USER> Can I pay for spotify premium before it expired?,0.1430259518351992
+118,356944,<USER> I am in UK,CONTENT_AVAILABILITY,1,2594577,<USER> I am shook,0.4731300532820444
+118,356944,<USER> I am in UK,CONTENT_AVAILABILITY,2,1179882,"<USER> Hi, I am in the Faroe Islands",0.40470281982507966
+118,356944,<USER> I am in UK,CONTENT_AVAILABILITY,3,1900194,<USER> I am 101% sure,0.2903472392365547
+118,356944,<USER> I am in UK,CONTENT_AVAILABILITY,4,685849,<USER> I am on the border of suing you.,0.28524739562995804
+118,356944,<USER> I am in UK,CONTENT_AVAILABILITY,5,2846483,"<USER> I am having a US Spotify account, I am in India traveling fora while. and because of this situation I am not able to play music on my Spotify !!",0.25878106634800446
+119,2738274,<USER> HI there - still getting the same message!,APP_TECHNICAL,1,1075617,<USER> Nope still getting the same issue after I reinstalled it.,0.42932318313469353
+119,2738274,<USER> HI there - still getting the same message!,APP_TECHNICAL,2,1642866,<USER> Tried it. Didn't work :( still getting the same issue,0.4103883968330172
+119,2738274,<USER> HI there - still getting the same message!,APP_TECHNICAL,3,1962202,<USER> I went ahead and tried. That didn't fix it. I'm still getting the notifications.,0.27447761321818953
+119,2738274,<USER> HI there - still getting the same message!,APP_TECHNICAL,4,1599414,"<USER> 8.4.25.771. And yes, the same message.",0.2610658020849462
+119,2738274,<USER> HI there - still getting the same message!,APP_TECHNICAL,5,1857579,<USER> It’s still giving me the same message as before.,0.2540716254225966
+120,2633287,"<USER> apparently it’s gone, there was something to flag in Users & Groups ➔ Login Items. Thanks!",APP_TECHNICAL,1,478113,<USER> Thanks! It’s gone quiet again though?,0.21064032119024806
+120,2633287,"<USER> apparently it’s gone, there was something to flag in Users & Groups ➔ Login Items. Thanks!",APP_TECHNICAL,2,1811425,"<USER> I got it to work, it was something I was putting in wrong",0.20905480527651188
+120,2633287,"<USER> apparently it’s gone, there was something to flag in Users & Groups ➔ Login Items. Thanks!",APP_TECHNICAL,3,301175,"<USER> Apparently it's not only me-asked the bf an hour away, and it goes silent for him too... :( Thanks for the quick replies!",0.19583768136324237
+120,2633287,"<USER> apparently it’s gone, there was something to flag in Users & Groups ➔ Login Items. Thanks!",APP_TECHNICAL,4,66017,"<USER> apparently, you care, so how about it?",0.19405456857703912
+120,2633287,"<USER> apparently it’s gone, there was something to flag in Users & Groups ➔ Login Items. Thanks!",APP_TECHNICAL,5,1538217,<USER> I know it’s gone. Would like to have it back :p,0.18337587735621094
+121,2011264,"<USER> Apple Music's limit is 100,000 songs. I would've understood if your response was that it's not economically feasible but it seems you lied",FEATURE_REQUEST,1,2618511,"<USER> Blimey, that’s madness <USER> ‘s limit is 100,000 I believe? You should definitely raise it, 10,000 is nowt.",0.3306917473180772
+121,2011264,"<USER> Apple Music's limit is 100,000 songs. I would've understood if your response was that it's not economically feasible but it seems you lied",FEATURE_REQUEST,2,1170252,<USER> thanks for the info it is very helpful indeed. by the way one of you competitors makes the claim of 100.000 Songs offline.,0.1994974827412565
+121,2011264,"<USER> Apple Music's limit is 100,000 songs. I would've understood if your response was that it's not economically feasible but it seems you lied",FEATURE_REQUEST,3,664690,<USER> thank you for your response ☺,0.19753421699857399
+121,2011264,"<USER> Apple Music's limit is 100,000 songs. I would've understood if your response was that it's not economically feasible but it seems you lied",FEATURE_REQUEST,4,378732,<USER> And how does that help me? It does not addresses my issue. Seems you have some inability to scale beyond 10 000 songs,0.1876720437071345
+121,2011264,"<USER> Apple Music's limit is 100,000 songs. I would've understood if your response was that it's not economically feasible but it seems you lied",FEATURE_REQUEST,5,826974,<USER> It seems you have a long history of this <URL>,0.17849593749948583
+122,2284923,<USER> i tried to do this but it didn’t work. could be an update issue?,APP_TECHNICAL,1,957414,"<USER> tried it, didn’t work :/",0.4466924768163232
+122,2284923,<USER> i tried to do this but it didn’t work. could be an update issue?,APP_TECHNICAL,2,1026514,<USER> it didn’t work 😢,0.39419602571824663
+122,2284923,<USER> i tried to do this but it didn’t work. could be an update issue?,APP_TECHNICAL,3,1102743,<USER> Sorry but it didn’t work,0.3452602843949994
+122,2284923,<USER> i tried to do this but it didn’t work. could be an update issue?,APP_TECHNICAL,4,1770712,<USER> I tried that... didn’t work :/,0.3313402571879883
+122,2284923,<USER> i tried to do this but it didn’t work. could be an update issue?,APP_TECHNICAL,5,1781595,<USER> I tried that yesterday and it didn’t work.,0.3126340903829869
+123,2075449,<USER> Thanks Spotify for taking care of this! Y'all the best ❤️,OTHER,1,1587591,<USER> I'm using a Windows computer. Thanks for taking notice of this.,0.40387771427845837
+123,2075449,<USER> Thanks Spotify for taking care of this! Y'all the best ❤️,OTHER,2,412800,<USER> Thanks spotify 😢👌🏻,0.3932337665223264
+123,2075449,<USER> Thanks Spotify for taking care of this! Y'all the best ❤️,OTHER,3,616795,<USER> Thanks Spotify :/,0.3932337665223264
+123,2075449,<USER> Thanks Spotify for taking care of this! Y'all the best ❤️,OTHER,4,211052,<USER> Oh darn it!! Thanks Spotify! Your the best!,0.389296986228048
+123,2075449,<USER> Thanks Spotify for taking care of this! Y'all the best ❤️,OTHER,5,1829028,<USER> Taken care of thank you,0.2749189482098257
+124,1252715,<USER> I tried this. It seemed like it worked at first but it's back to doing the same thing.,APP_TECHNICAL,1,1667354,<USER> NOOO I DON’T want that! It seemed like it tho.,0.3697949886883937
+124,1252715,<USER> I tried this. It seemed like it worked at first but it's back to doing the same thing.,APP_TECHNICAL,2,166619,"<USER> It seemed like it resolved it for now, but I'll keep checking",0.28847711966375056
+124,1252715,<USER> I tried this. It seemed like it worked at first but it's back to doing the same thing.,APP_TECHNICAL,3,772028,"<USER> Alright, I tried that and it’s still doing the same thing <URL>",0.2826960089957475
+124,1252715,<USER> I tried this. It seemed like it worked at first but it's back to doing the same thing.,APP_TECHNICAL,4,2948910,<USER> I deleted Spotify and downloaded it again but it's still doing the same thing,0.26243836583385344
+124,1252715,<USER> I tried this. It seemed like it worked at first but it's back to doing the same thing.,APP_TECHNICAL,5,1203977,<USER> Tried. Same ☹️,0.2510967179880281
+125,2699535,<USER> Everything is updated to the newest update ffs,APP_TECHNICAL,1,1472882,<USER> Everything is fine! Thanks.,0.3462288900158901
+125,2699535,<USER> Everything is updated to the newest update ffs,APP_TECHNICAL,2,2621373,<USER> Everything’s fine!,0.33342399809248435
+125,2699535,<USER> Everything is updated to the newest update ffs,APP_TECHNICAL,3,2943783,"<USER> iPhone 6s, iOS 11.1, and just updated to the newest Spotify. Still crashing",0.31839645018836005
+125,2699535,<USER> Everything is updated to the newest update ffs,APP_TECHNICAL,4,711777,<USER> It recently updated to the newest version of Spotify and I have it on a laptop.,0.30305902118412176
+125,2699535,<USER> Everything is updated to the newest update ffs,APP_TECHNICAL,5,2953743,<USER> Everything is working now thanks for the help! #greatcustomerservice,0.3004697216376179
+126,2653011,<USER> Do you guys know when it will be available?,CONTENT_AVAILABILITY,1,2225696,<USER> I understand! Do you know when it will be available for you?,0.6415834399724005
+126,2653011,<USER> Do you guys know when it will be available?,CONTENT_AVAILABILITY,2,2601571,<USER> <USER> Does anyone know WHEN it will be available???,0.6309425244796537
+126,2653011,<USER> Do you guys know when it will be available?,CONTENT_AVAILABILITY,3,95805,<USER> Do you guys know when <USER> mixtape Benny On Steroids is gonna be up tho,0.44351907723944606
+126,2653011,<USER> Do you guys know when it will be available?,CONTENT_AVAILABILITY,4,1162364,<USER> When’s it going to be available !!,0.3472510193514337
+126,2653011,<USER> Do you guys know when it will be available?,CONTENT_AVAILABILITY,5,2616818,<USER> Do you know why?,0.3342240904487961
+127,1968234,<USER> I don't have the ad any more I had to close Spotify to stop it,APP_TECHNICAL,1,2597229,"<USER> iPhone 7+, iOS 11.1.1 ... I already swiped to close <URL>",0.22658273232343157
+127,1968234,<USER> I don't have the ad any more I had to close Spotify to stop it,APP_TECHNICAL,2,2729330,<USER> Hello I don’t have that one any more as you update it every Thursday!,0.2211465503001777
+127,1968234,<USER> I don't have the ad any more I had to close Spotify to stop it,APP_TECHNICAL,3,142170,"<USER> yes. if i close the app it will stop the music, snapchat will stop it, and text messages will also stop.",0.21826905755595466
+127,1968234,<USER> I don't have the ad any more I had to close Spotify to stop it,APP_TECHNICAL,4,1206549,<USER> No never! Any more solutions please?,0.21619580101970554
+127,1968234,<USER> I don't have the ad any more I had to close Spotify to stop it,APP_TECHNICAL,5,756586,"<USER> I don't have any, and it's not cache data either",0.20249606700576084
+128,942274,"<USER> ...kidding? That was the 1st reply in that same thread, no use.",APP_TECHNICAL,1,2293465,<USER> that was cringey....,0.2828134614020719
+128,942274,"<USER> ...kidding? That was the 1st reply in that same thread, no use.",APP_TECHNICAL,2,1964993,<USER> That was my trackkkkk 😩🙄,0.2101631485126979
+128,942274,"<USER> ...kidding? That was the 1st reply in that same thread, no use.",APP_TECHNICAL,3,1264066,<USER> <URL> that was the original link I have to the track....,0.1883413024524393
+128,942274,"<USER> ...kidding? That was the 1st reply in that same thread, no use.",APP_TECHNICAL,4,1035425,"<USER> Yea, that was the first thing I checked, definitely off",0.17637079669069394
+128,942274,"<USER> ...kidding? That was the 1st reply in that same thread, no use.",APP_TECHNICAL,5,426777,<USER> How can you call that improvements? Everyone in that thread is complaining.,0.17467524727490807
+129,2825199,<USER> Ahh good to know thanks 😁,OTHER,1,1453969,<USER> Good to know. Thanks!,0.7146010022509404
+129,2825199,<USER> Ahh good to know thanks 😁,OTHER,2,912934,<USER> good to know. Thanks for the explanation.,0.6012983842875991
+129,2825199,<USER> Ahh good to know thanks 😁,OTHER,3,948668,<USER> Good to know. Thanks for your help.,0.5892372466052407
+129,2825199,<USER> Ahh good to know thanks 😁,OTHER,4,864500,<USER> ahh thank you :),0.5441973944610554
+129,2825199,<USER> Ahh good to know thanks 😁,OTHER,5,244327,"<USER> Thank you, that's good to know. :-)",0.4224645293055428
+130,1752931,"<USER> Hi, on my laptop its only 1 year old and have sky fiber max internet",APP_TECHNICAL,1,211093,<USER> Hi! What about laptop?,0.21775203794342637
+130,1752931,"<USER> Hi, on my laptop its only 1 year old and have sky fiber max internet",APP_TECHNICAL,2,2844584,<USER> I'm on my cellphone..but it works fine on my laptop.,0.21184468197010292
+130,1752931,"<USER> Hi, on my laptop its only 1 year old and have sky fiber max internet",APP_TECHNICAL,3,834885,"<USER> Hi, I'm on MacOS High Sierra (Latest version)",0.20745685175010836
+130,1752931,"<USER> Hi, on my laptop its only 1 year old and have sky fiber max internet",APP_TECHNICAL,4,2125227,<USER> the update is over a year old & does not work,0.1999553221022085
+130,1752931,"<USER> Hi, on my laptop its only 1 year old and have sky fiber max internet",APP_TECHNICAL,5,53679,<USER> And I’m using the desktop version on my laptop,0.19120660598136327
+131,2594619,"<USER> wait, it seems to be working now",APP_TECHNICAL,1,1687389,<USER> It seems to be working now though,0.7716190601379519
+131,2594619,"<USER> wait, it seems to be working now",APP_TECHNICAL,2,2913896,"<USER> Thank you, it seems to be working now",0.7042182790225173
+131,2594619,"<USER> wait, it seems to be working now",APP_TECHNICAL,3,434746,<USER> Seems to be working now,0.6961831037800847
+131,2594619,"<USER> wait, it seems to be working now",APP_TECHNICAL,4,801796,<USER> Seems to be working now thanks :),0.6390493124645601
+131,2594619,"<USER> wait, it seems to be working now",APP_TECHNICAL,5,2716523,"<USER> Seems to be working now, thanks.",0.6390493124645601
+132,2716976,<USER> in the top left with the windows media thing instead of showing this (see picture attached) it shows that (see first tweet attachment) <URL>,APP_TECHNICAL,1,2175415,<USER> I'm in Madrid,0.2387926210983361
+132,2716976,<USER> in the top left with the windows media thing instead of showing this (see picture attached) it shows that (see first tweet attachment) <URL>,APP_TECHNICAL,2,2116841,"<USER> Nope, that's not what i asked :) See details in first tweet please 👍",0.2321926082016318
+132,2716976,<USER> in the top left with the windows media thing instead of showing this (see picture attached) it shows that (see first tweet attachment) <URL>,APP_TECHNICAL,3,591474,<USER> iPhone X/ iOS 11.1.2/ App 8.4.28.1104 video attached. Check the top left corner <URL>,0.2233591957641881
+132,2716976,<USER> in the top left with the windows media thing instead of showing this (see picture attached) it shows that (see first tweet attachment) <URL>,APP_TECHNICAL,4,61167,<USER> In the middle of down with the sickness.,0.19645306614032074
+132,2716976,<USER> in the top left with the windows media thing instead of showing this (see picture attached) it shows that (see first tweet attachment) <URL>,APP_TECHNICAL,5,2198186,<USER> ....in the app bro?,0.19609042846119273
+133,2959326,<USER> Thank you I’ll have a look,OTHER,1,1715264,<USER> Thank you. I'll do that momentarily.,0.5099666968548815
+133,2959326,<USER> Thank you I’ll have a look,OTHER,2,2986555,<USER> Thank you :*,0.4813283123899285
+133,2959326,<USER> Thank you I’ll have a look,OTHER,3,2264862,<USER> Thank you! 😁,0.4813283123899285
+133,2959326,<USER> Thank you I’ll have a look,OTHER,4,2215888,<USER> Thank You,0.4813283123899285
+133,2959326,<USER> Thank you I’ll have a look,OTHER,5,860238,<USER> Thank You.,0.4813283123899285
+134,2153128,<USER> Still nothing...,APP_TECHNICAL,1,2828393,<USER> Still nothing :/,1.0
+134,2153128,<USER> Still nothing...,APP_TECHNICAL,2,2552646,<USER> Still nothing :(,1.0
+134,2153128,<USER> Still nothing...,APP_TECHNICAL,3,863682,<USER> Still nothing..😪 <URL>,0.7638533527222361
+134,2153128,<USER> Still nothing...,APP_TECHNICAL,4,2861221,<USER> Still.,0.6337282150307263
+134,2153128,<USER> Still nothing...,APP_TECHNICAL,5,2822745,<USER> Still....,0.6337282150307263
+135,1232902,<USER> Not really sure but it’s been months (2 or 3). Yes i have tried rebooting my Mac but that didnt work out either,APP_TECHNICAL,1,189335,"<USER> That didnt work either, I am still having the issue.",0.2968230585843036
+135,1232902,<USER> Not really sure but it’s been months (2 or 3). Yes i have tried rebooting my Mac but that didnt work out either,APP_TECHNICAL,2,2780818,"<USER> Yes, I have!",0.2468480856287203
+135,1232902,<USER> Not really sure but it’s been months (2 or 3). Yes i have tried rebooting my Mac but that didnt work out either,APP_TECHNICAL,3,1426097,"<USER> Hi, it didnt work",0.24428414905299392
+135,1232902,<USER> Not really sure but it’s been months (2 or 3). Yes i have tried rebooting my Mac but that didnt work out either,APP_TECHNICAL,4,2749457,<USER> Yes I have tried that this has been going on for months,0.24017410772194625
+135,1232902,<USER> Not really sure but it’s been months (2 or 3). Yes i have tried rebooting my Mac but that didnt work out either,APP_TECHNICAL,5,160524,<USER> Not sure on that but it's been going on for 1-2 months.,0.2289066422232423
+136,862197,<USER> you're very kind,OTHER,1,227984,<USER> You’re cool,0.5207163051695128
+136,862197,<USER> you're very kind,OTHER,2,1181777,<USER> You're still my No. 1 <URL>,0.39514367676779116
+136,862197,<USER> you're very kind,OTHER,3,728391,<USER> Thank you .. That s very kind of U ..Spotify Cares indeed xx,0.39312771571992217
+136,862197,<USER> you're very kind,OTHER,4,77690,<USER> You’re welcome! 😂💁🏻‍♀️💕,0.38388103671625107
+136,862197,<USER> you're very kind,OTHER,5,1933841,<USER> you’re welcome! Thanks,0.37698679222111353
+137,338709,<USER> Thank youN,OTHER,1,1427776,<USER> thank u kings,1.0
+137,338709,<USER> Thank youN,OTHER,2,1855649,<USER> Thank u 😇,1.0
+137,338709,<USER> Thank youN,OTHER,3,2234675,<USER> thank,1.0
+137,338709,<USER> Thank youN,OTHER,4,2216029,<USER> thank u !! 💙,1.0
+137,338709,<USER> Thank youN,OTHER,5,2246073,<USER> thank u!!!,1.0
+138,2251323,<USER> i’m asking when!!!!!!,CONTENT_AVAILABILITY,1,2006107,<USER> I have been asking for a year 🙄🙄,0.2993535257938217
+138,2251323,<USER> i’m asking when!!!!!!,CONTENT_AVAILABILITY,2,499222,<USER> I’m asking what kind of feature is this?,0.2580348946760085
+138,2251323,<USER> i’m asking when!!!!!!,CONTENT_AVAILABILITY,3,141192,<USER> it worked for me already but thank you for asking!!,0.25753201379269575
+138,2251323,<USER> i’m asking when!!!!!!,CONTENT_AVAILABILITY,4,2865481,"<USER> I ASKED ""WHEN""",0.2450655547773894
+138,2251323,<USER> i’m asking when!!!!!!,CONTENT_AVAILABILITY,5,1428703,"<USER> Okay, that sounds awesome! I was only asking because the page was asking me to enter credit card info, is that normal?",0.22599639574088531
+139,1527863,<USER> Voted and commented! Thank you for hearing me out!,FEATURE_REQUEST,1,2393600,"<USER> I will for sure, thank you for hearing me out. Do raise this issue with the <USER> management!!!",0.49987399841920827
+139,1527863,<USER> Voted and commented! Thank you for hearing me out!,FEATURE_REQUEST,2,1969148,<USER> Voted! <URL>,0.4056700785120231
+139,1527863,<USER> Voted and commented! Thank you for hearing me out!,FEATURE_REQUEST,3,972346,<USER> Voted. Thanks for the link. :),0.26516541187541326
+139,1527863,<USER> Voted and commented! Thank you for hearing me out!,FEATURE_REQUEST,4,1546467,"<USER> Thank you, top quality service as normal. Have both voted and commented.",0.26440226043408416
+139,1527863,<USER> Voted and commented! Thank you for hearing me out!,FEATURE_REQUEST,5,2211014,<USER> <USER> voted! will remain hopeful!!,0.2597215570061278
+140,1446600,"<USER> Laptop, W11, I had to uninstall the damn app...",APP_TECHNICAL,1,2483538,"<USER> laptop, windows",0.3108790588752509
+140,1446600,"<USER> Laptop, W11, I had to uninstall the damn app...",APP_TECHNICAL,2,1067212,<USER> It helps is the uninstaller doesn't crash. That happens any time I try to uninstall the program. I had to use a third party program.,0.29019904015058057
+140,1446600,"<USER> Laptop, W11, I had to uninstall the damn app...",APP_TECHNICAL,3,2487432,"<USER> That didnt help, I had to uninstall & re-install the app. It works now.",0.27856961075155345
+140,1446600,"<USER> Laptop, W11, I had to uninstall the damn app...",APP_TECHNICAL,4,780948,"<USER> . <USER> I don't need to vote for a sleep timer, just add the damn thing already. #UpAllNight #SleepSpotifySleep",0.23222996103270135
+140,1446600,"<USER> Laptop, W11, I had to uninstall the damn app...",APP_TECHNICAL,5,1991975,<USER> This is what I get when I try to uninstall. <URL>,0.2152885997456303
+141,939992,"<USER> Windows 8.1 64 bit and spotify 1.0.65.320.gac7a8e02, i just downloaded from the website and reinstalled, still doesn't work",APP_TECHNICAL,1,1265650,"<USER> yeah! mac, high sierra, and spotify 1.0.65.320.gac7a8e02??",0.32635555382901843
+141,939992,"<USER> Windows 8.1 64 bit and spotify 1.0.65.320.gac7a8e02, i just downloaded from the website and reinstalled, still doesn't work",APP_TECHNICAL,2,739930,<USER> 1.0.65.320.gac7a8e02,0.3248276001393588
+141,939992,"<USER> Windows 8.1 64 bit and spotify 1.0.65.320.gac7a8e02, i just downloaded from the website and reinstalled, still doesn't work",APP_TECHNICAL,3,1067210,<USER> Spotify 1.0.65.320.gac7a8e02 Windows 7 64bit Home Premium,0.312015055198592
+141,939992,"<USER> Windows 8.1 64 bit and spotify 1.0.65.320.gac7a8e02, i just downloaded from the website and reinstalled, still doesn't work",APP_TECHNICAL,4,409777,<USER> Windows: 1.0.65.320.gac7a8e02 App: 8.4.22.857armV7,0.3112673444821391
+141,939992,"<USER> Windows 8.1 64 bit and spotify 1.0.65.320.gac7a8e02, i just downloaded from the website and reinstalled, still doesn't work",APP_TECHNICAL,5,1188731,<USER> Still doesn't work,0.2991739852327133
+142,1938385,<USER> <USER> HAHAHAHHA,OTHER,1,478117,<USER> <USER> SpotifyDoesn’tCare,1.0
+142,1938385,<USER> <USER> HAHAHAHHA,OTHER,2,2076195,<USER> <USER> LMAOO,1.0
+142,1938385,<USER> <USER> HAHAHAHHA,OTHER,3,315122,<USER> <USER> <USER>,1.0
+142,1938385,<USER> <USER> HAHAHAHHA,OTHER,4,1981899,<USER> <USER> :facepalm:,1.0
+142,1938385,<USER> <USER> HAHAHAHHA,OTHER,5,1517186,<USER> <USER> رحت اعيطلهن شويه وبتاع مكنتش متوقع يردو ، يارب يسمعو كلامي واكون سبب يشغلوه فمصر بقي قريب واشيل ذنوب كل الناس دي بقي 💙💙😂😂😂😂,1.0
+143,190047,<USER> Yeah only when I click on share. Works totally fine otherwise.,APP_TECHNICAL,1,819616,<USER> Yeah I am.,0.28257294850457515
+143,190047,<USER> Yeah only when I click on share. Works totally fine otherwise.,APP_TECHNICAL,2,1250616,<USER> Yeah it works,0.27701697675860376
+143,190047,<USER> Yeah only when I click on share. Works totally fine otherwise.,APP_TECHNICAL,3,1243465,<USER> Totally understand :-) ❤️,0.2553485405490701
+143,190047,<USER> Yeah only when I click on share. Works totally fine otherwise.,APP_TECHNICAL,4,2912528,<USER> Yeah definitely!,0.25181975472388374
+143,190047,<USER> Yeah only when I click on share. Works totally fine otherwise.,APP_TECHNICAL,5,2304263,<USER> Yeah yeah... <USER>,0.24893969298475144
+144,664274,<USER> I am not able to login (Settings are set to Offline mode) even that I am online (3g or WIFI). <URL>,ACCOUNT_LOGIN,1,2218965,"<USER> I am online, thanx.",0.3613259590274842
+144,664274,<USER> I am not able to login (Settings are set to Offline mode) even that I am online (3g or WIFI). <URL>,ACCOUNT_LOGIN,2,2594577,<USER> I am shook,0.2873994096657748
+144,664274,<USER> I am not able to login (Settings are set to Offline mode) even that I am online (3g or WIFI). <URL>,ACCOUNT_LOGIN,3,994566,"<USER> No it didn't. Same error. Won't let me sign in as set to offline mode, but can't take it out of offline mode because won't let me sign in.",0.23940458063225142
+144,664274,<USER> I am not able to login (Settings are set to Offline mode) even that I am online (3g or WIFI). <URL>,ACCOUNT_LOGIN,4,2846483,"<USER> I am having a US Spotify account, I am in India traveling fora while. and because of this situation I am not able to play music on my Spotify !!",0.2265294001203098
+144,664274,<USER> I am not able to login (Settings are set to Offline mode) even that I am online (3g or WIFI). <URL>,ACCOUNT_LOGIN,5,104101,<USER> im not able to DM you,0.20247002512356985
+145,1940035,<USER> Not really. I can see the files but your interface doesn’t let me view/play a specific local album. Right?,PLAYLIST_LIBRARY,1,337086,<USER> Doesn’t let me access it lol,0.23119497053502097
+145,1940035,<USER> Not really. I can see the files but your interface doesn’t let me view/play a specific local album. Right?,PLAYLIST_LIBRARY,2,57063,<USER> Tried that but none of it works. Album is Modal Soul by Nujabes in mp3 format. I can see the files in spotify but they just wont play.,0.2080633664148155
+145,1940035,<USER> Not really. I can see the files but your interface doesn’t let me view/play a specific local album. Right?,PLAYLIST_LIBRARY,3,2564258,<USER> So the free version doesn't let you play your own playlists?? Is that right??,0.187994184796353
+145,1940035,<USER> Not really. I can see the files but your interface doesn’t let me view/play a specific local album. Right?,PLAYLIST_LIBRARY,4,466101,<USER> Not potoshopped. <URL>,0.1743640662070196
+145,1940035,<USER> Not really. I can see the files but your interface doesn’t let me view/play a specific local album. Right?,PLAYLIST_LIBRARY,5,1877951,<USER> Let me see RC. #rhymes,0.16186385699552852
+146,48072,<USER> Just putting a lil drama here hahahah dont mind me. Keep doing u guys! Hearts from the PH!,OTHER,1,587518,"<USER> Thanks for the help but resetting my iPhone worked! Keep doing you, Spotify 💕",0.26317038598958825
+146,48072,<USER> Just putting a lil drama here hahahah dont mind me. Keep doing u guys! Hearts from the PH!,OTHER,2,934585,"<USER> I don't mind doing it here, since I share here; username xaedere. Thanks.",0.2365182038140847
+146,48072,<USER> Just putting a lil drama here hahahah dont mind me. Keep doing u guys! Hearts from the PH!,OTHER,3,1084533,"<USER> I like cupcakke, lil dicky, and mr. muthafuckin exquire :)",0.20703667467231482
+146,48072,<USER> Just putting a lil drama here hahahah dont mind me. Keep doing u guys! Hearts from the PH!,OTHER,4,2534580,<USER> No Lil peep - Hellboy,0.1893361377941701
+146,48072,<USER> Just putting a lil drama here hahahah dont mind me. Keep doing u guys! Hearts from the PH!,OTHER,5,142176,<USER> ill keep this in mind thank you again ;v;,0.1742104218272822
+147,2251521,"<USER> I still need help, my email was changed on me along with my password so this page didn’t help me unfortunately :/",ACCOUNT_SECURITY,1,39773,"<USER> Spotify think I get wrong password, so I try to reset my password with myusername: linalthf, but I forgot what e-mail I used. Can u help me?",0.2778604341221742
+147,2251521,"<USER> I still need help, my email was changed on me along with my password so this page didn’t help me unfortunately :/",ACCOUNT_SECURITY,2,172522,<USER> I have. Didn't help.,0.2442600188273446
+147,2251521,"<USER> I still need help, my email was changed on me along with my password so this page didn’t help me unfortunately :/",ACCOUNT_SECURITY,3,644323,<USER> Didn't help,0.2371091635572903
+147,2251521,"<USER> I still need help, my email was changed on me along with my password so this page didn’t help me unfortunately :/",ACCOUNT_SECURITY,4,2828389,<USER> It didn’t help :/,0.2254635560939069
+147,2251521,"<USER> I still need help, my email was changed on me along with my password so this page didn’t help me unfortunately :/",ACCOUNT_SECURITY,5,2748513,<USER> It didn't help,0.2254635560939069
+148,2015263,<USER> Thanks just sent a message,OTHER,1,711270,<USER> Thanks just sent.,0.7797511208855895
+148,2015263,<USER> Thanks just sent a message,OTHER,2,1206990,<USER> Thanks! Just sent a DM!,0.6439214553084102
+148,2015263,<USER> Thanks just sent a message,OTHER,3,1871155,"<USER> Thanks, just sent a dm",0.6439214553084102
+148,2015263,<USER> Thanks just sent a message,OTHER,4,2755861,<USER> Just sent a message. Thank you.,0.6251659496010828
+148,2015263,<USER> Thanks just sent a message,OTHER,5,2073793,<USER> Thanks! I've sent a message :),0.5552816824373298
+149,1446608,"<USER> Sorry, this is on Sierra, not High Sierra. Haven't tested on the latter.",APP_TECHNICAL,1,1026515,<USER> (sorry this took so long) i have version 1.0.65.320.gac7a8e02 running on OS High Sierra,0.33073250015105293
+149,1446608,"<USER> Sorry, this is on Sierra, not High Sierra. Haven't tested on the latter.",APP_TECHNICAL,2,664696,<USER> macOS High Sierra,0.3010744487008785
+149,1446608,"<USER> Sorry, this is on Sierra, not High Sierra. Haven't tested on the latter.",APP_TECHNICAL,3,742592,<USER> Only on High Sierra. I’m on version: <URL>,0.23511069319555583
+149,1446608,"<USER> Sorry, this is on Sierra, not High Sierra. Haven't tested on the latter.",APP_TECHNICAL,4,1950940,<USER> High Sierra and the latest a version of Spotify,0.22961023883737272
+149,1446608,"<USER> Sorry, this is on Sierra, not High Sierra. Haven't tested on the latter.",APP_TECHNICAL,5,834885,"<USER> Hi, I'm on MacOS High Sierra (Latest version)",0.22550615010677774
+150,41772,<USER> And thanks for sharing the link 😊,OTHER,1,972346,<USER> Voted. Thanks for the link. :),0.36971141222402815
+150,41772,<USER> And thanks for sharing the link 😊,OTHER,2,2605035,<USER> Hi Bot. Thanks for the link from 2012.,0.33036647946026865
+150,41772,<USER> And thanks for sharing the link 😊,OTHER,3,2284936,<USER> Thank you alot for the link,0.32180563935973117
+150,41772,<USER> And thanks for sharing the link 😊,OTHER,4,2545854,<USER> Sounds good and thanks for the reply!,0.3013988522148552
+150,41772,<USER> And thanks for sharing the link 😊,OTHER,5,1299701,<USER> Thank you! All sorted and thanks for the prompt reply!,0.27366591116215394
+151,497737,"<USER> <USER> Don’t consider it, please just do it! Imagine watching a movie with no end credits—that would never fly in the film industry. Unfortunately we don’t have the industry-wide structures for enforcement, so someone needs to be a leader. Why not have it be <USER> ?",FEATURE_REQUEST,1,2025541,<USER> don't have it. It was __email__,0.2160582685093036
+151,497737,"<USER> <USER> Don’t consider it, please just do it! Imagine watching a movie with no end credits—that would never fly in the film industry. Unfortunately we don’t have the industry-wide structures for enforcement, so someone needs to be a leader. Why not have it be <USER> ?",FEATURE_REQUEST,2,1158640,<USER> We don't have unlimited data thanks to the big 3 <USER> <USER> <USER> .,0.191524459815558
+151,497737,"<USER> <USER> Don’t consider it, please just do it! Imagine watching a movie with no end credits—that would never fly in the film industry. Unfortunately we don’t have the industry-wide structures for enforcement, so someone needs to be a leader. Why not have it be <USER> ?",FEATURE_REQUEST,3,2481132,<USER> That would be it,0.17738297441314704
+151,497737,"<USER> <USER> Don’t consider it, please just do it! Imagine watching a movie with no end credits—that would never fly in the film industry. Unfortunately we don’t have the industry-wide structures for enforcement, so someone needs to be a leader. Why not have it be <USER> ?",FEATURE_REQUEST,4,239380,<USER> <USER> Do it,0.17508011946192692
+151,497737,"<USER> <USER> Don’t consider it, please just do it! Imagine watching a movie with no end credits—that would never fly in the film industry. Unfortunately we don’t have the industry-wide structures for enforcement, so someone needs to be a leader. Why not have it be <USER> ?",FEATURE_REQUEST,5,965854,<USER> I don’t have any playlists downloaded to check that unfortunately.,0.17395409929405678
+152,2727209,<USER> The latter. Has done for some but not for others.,PLAYLIST_LIBRARY,1,149343,<USER> OMG YOU GUYS REPLIED WOW HAHAHAHHAHAHA i'll have to check ithe other offer again but i'm hoping for the latter 😉,0.27120787086191145
+152,2727209,<USER> The latter. Has done for some but not for others.,PLAYLIST_LIBRARY,2,1358994,<USER> For some reason only over wifi,0.19860263104813333
+152,2727209,<USER> The latter. Has done for some but not for others.,PLAYLIST_LIBRARY,3,2769154,"<USER> So which is it? You're going to let them know or I should let them know? If the latter, I already have. Several times. Along with others. The devs have ignored repeated requests for an update.",0.1944970186288101
+152,2727209,<USER> The latter. Has done for some but not for others.,PLAYLIST_LIBRARY,4,632016,<USER> <USER> 100% agree - nothing for us who pay monthly and have done for years.,0.1811307576761885
+152,2727209,<USER> The latter. Has done for some but not for others.,PLAYLIST_LIBRARY,5,1476023,"<USER> I'm a subscriber to Family premium, but others can't access the account for some reason. Can you DM for assistance please?",0.18019702042639466
+153,168121,<USER> I've done that when it started acting up and it didn't work,APP_TECHNICAL,1,1026514,<USER> it didn’t work 😢,0.3830300759236721
+153,168121,<USER> I've done that when it started acting up and it didn't work,APP_TECHNICAL,2,1118808,<USER> I've done that. And reinstalled it again.,0.3219002691009685
+153,168121,<USER> I've done that when it started acting up and it didn't work,APP_TECHNICAL,3,1189839,<USER> Yeah. I’ve done that,0.30987705102701474
+153,168121,<USER> I've done that when it started acting up and it didn't work,APP_TECHNICAL,4,957414,"<USER> tried it, didn’t work :/",0.3045601524381289
+153,168121,<USER> I've done that when it started acting up and it didn't work,APP_TECHNICAL,5,1053951,<USER> I've done that already does not help.,0.2997406223931871
+154,1517177,<USER> 🕺 👌 🤘😁🤙,OTHER,1,497746,<USER> Thanks for acknowledging this as a 'good idea' after three and a half years and over 5200 votes (not counting similar ideas). But could we agree that the ball is in your court? I am sure that <USER> or <USER> marketing would like to target your most devoted users over this.,0.0
+154,1517177,<USER> 🕺 👌 🤘😁🤙,OTHER,2,599465,"<USER> Hi, thank you but that is the problem, we do not live at the same address 😥 isn’t there any plan whereby you and x amount of people could still enjoy Spotify Premium at a cheaper rate than paying what we currently do each, per month?",0.0
+154,1517177,<USER> 🕺 👌 🤘😁🤙,OTHER,3,599477,"<USER> Hello, it's a oneplus 5. Version info in attached images 😊 thanks. <URL>",0.0
+154,1517177,<USER> 🕺 👌 🤘😁🤙,OTHER,4,602844,<USER> Windows 7 pro,0.0
+154,1517177,<USER> 🕺 👌 🤘😁🤙,OTHER,5,568949,"<USER> Every time I receive a snapchat while playing through Bluetooth, the music pauses. iPhone 6s, Spotify version 8.4.28",0.0
+155,2913878,<USER> Thank for checking in and responding guys! Really appreciate it!,OTHER,1,2246170,<USER> Thanks guys really appreciate that.,0.44989047480938965
+155,2913878,<USER> Thank for checking in and responding guys! Really appreciate it!,OTHER,2,1001340,<USER> Thank you so much for the help. Really appreciate it.,0.3994038852789457
+155,2913878,<USER> Thank for checking in and responding guys! Really appreciate it!,OTHER,3,2803527,<USER> thank you! i really appreciate yout response,0.3862479741380894
+155,2913878,<USER> Thank for checking in and responding guys! Really appreciate it!,OTHER,4,147406,<USER> Okay thank you for checking.,0.35600903756492464
+155,2913878,<USER> Thank for checking in and responding guys! Really appreciate it!,OTHER,5,2866605,"<USER> Thank you, appreciate it!",0.32649735235155275
+156,863686,<USER> Still nothing! 😪😟,PLAYBACK,1,2828393,<USER> Still nothing :/,1.0
+156,863686,<USER> Still nothing! 😪😟,PLAYBACK,2,2552646,<USER> Still nothing :(,1.0
+156,863686,<USER> Still nothing! 😪😟,PLAYBACK,3,863682,<USER> Still nothing..😪 <URL>,0.7638533527222361
+156,863686,<USER> Still nothing! 😪😟,PLAYBACK,4,2861221,<USER> Still.,0.6337282150307263
+156,863686,<USER> Still nothing! 😪😟,PLAYBACK,5,2822745,<USER> Still....,0.6337282150307263
+157,468970,<USER> Thank you so much I'll be waiting for it mean while I listen to hefner by <USER>,OTHER,1,2286399,"<USER> Okay, thank you so much for the answer. I'll be waiting for it. Thanks again.",0.5511807075557046
+157,468970,<USER> Thank you so much I'll be waiting for it mean while I listen to hefner by <USER>,OTHER,2,2297266,<USER> thank you so much!,0.47960488210634256
+157,468970,<USER> Thank you so much I'll be waiting for it mean while I listen to hefner by <USER>,OTHER,3,224851,<USER> Thank you so much 😀,0.47960488210634256
+157,468970,<USER> Thank you so much I'll be waiting for it mean while I listen to hefner by <USER>,OTHER,4,2475177,<USER> Thank you so much 💓,0.47960488210634256
+157,468970,<USER> Thank you so much I'll be waiting for it mean while I listen to hefner by <USER>,OTHER,5,2595635,<USER> Thank you so much <3,0.47960488210634256
+158,1587595,"<USER> Why does it automatically appear for paying customers, though? And thanks!",FEATURE_REQUEST,1,351223,<USER> Why,0.2803710511748497
+158,1587595,"<USER> Why does it automatically appear for paying customers, though? And thanks!",FEATURE_REQUEST,2,2896736,<USER> Why???,0.2803710511748497
+158,1587595,"<USER> Why does it automatically appear for paying customers, though? And thanks!",FEATURE_REQUEST,3,2105378,<USER> <USER> why??!?????,0.24947888964484694
+158,1587595,"<USER> Why does it automatically appear for paying customers, though? And thanks!",FEATURE_REQUEST,4,259464,"<USER> 2/2 I realize the application is in maintenance mode which means no new features, but it should mean bug fixes for paying customers.",0.22483559499783298
+158,1587595,"<USER> Why does it automatically appear for paying customers, though? And thanks!",FEATURE_REQUEST,5,1093230,<USER> Why not? This is clearly a feature your paying customers want. What happened to customizable radio? Even Pandora’s algorithms figure it out,0.2159555482656358
+159,1759301,<USER> I have just tried it yet it still hasn’t worked,APP_TECHNICAL,1,967401,<USER> But I have done the reset function and it still hasn’t worked 😢 <URL>,0.38878749462492235
+159,1759301,<USER> I have just tried it yet it still hasn’t worked,APP_TECHNICAL,2,394679,<USER> Just tried it. Still not working,0.3706277696806132
+159,1759301,<USER> I have just tried it yet it still hasn’t worked,APP_TECHNICAL,3,48591,<USER> Still hasn’t corrected itseltf !,0.32348829636697285
+159,1759301,<USER> I have just tried it yet it still hasn’t worked,APP_TECHNICAL,4,1573309,"<USER> I’m on an iPhone 7 and I have the Spotify version 8.4.22 , I’ve tried updating it but it hasn’t worked at all. <URL>",0.2221330942719519
+159,1759301,<USER> I have just tried it yet it still hasn’t worked,APP_TECHNICAL,5,1719047,<USER> Just tried that. Nope. :(,0.21250947593717523
+160,888597,"<USER> Nope, still can't get the songs to play.",PLAYBACK,1,104109,<USER> Nope. Still the same,0.4440099824327583
+160,888597,"<USER> Nope, still can't get the songs to play.",PLAYBACK,2,372632,"<USER> nope, still <URL>",0.4282101594841469
+160,888597,"<USER> Nope, still can't get the songs to play.",PLAYBACK,3,224113,"<USER> nope, still not working",0.409844958501149
+160,888597,"<USER> Nope, still can't get the songs to play.",PLAYBACK,4,211097,<USER> Nope still doesn't work :(,0.3988736300442299
+160,888597,"<USER> Nope, still can't get the songs to play.",PLAYBACK,5,160555,<USER> I can’t get the album 😭,0.3724045887364934
+161,2368034,<USER> Mobile app <URL>,APP_TECHNICAL,1,2782143,<USER> Mobile too <URL>,0.5159736480618606
+161,2368034,<USER> Mobile app <URL>,APP_TECHNICAL,2,997197,<USER> <USER> Mobile app is also screwed up.,0.48830521158465123
+161,2368034,<USER> Mobile app <URL>,APP_TECHNICAL,3,1513487,<USER> Mobile and Desktop app,0.42789549760336065
+161,2368034,<USER> Mobile app <URL>,APP_TECHNICAL,4,2368035,<USER> Desktop app <URL>,0.39245126769467364
+161,2368034,<USER> Mobile app <URL>,APP_TECHNICAL,5,2969,<USER> It’s on the mobile app,0.39167752561621744
+162,810430,<USER> Yes! Every time I have my phone on shuffle I get about 30 songs in a row that is purely two artists! No matter how many times I reshuffle,PLAYBACK,1,2316492,<USER> I already have 30 songs on this playlist... how many do y'all suggest I have so I can avoid 7 suggested tracks in a row?,0.28479611170089525
+162,810430,<USER> Yes! Every time I have my phone on shuffle I get about 30 songs in a row that is purely two artists! No matter how many times I reshuffle,PLAYBACK,2,2543089,"<USER> Nope, there was no crash, this has been an on-going issue and no matter how many times I see the ads, I never get a full 30 minutes of ad-free music.",0.28107395999658596
+162,810430,<USER> Yes! Every time I have my phone on shuffle I get about 30 songs in a row that is purely two artists! No matter how many times I reshuffle,PLAYBACK,3,1242365,"<USER> I am on Mac OS High Sierra 10.13 and I have Spotify 1.0.66.478.g1296534d ....no matter how many times I chose on the drop down menu for it NOT to start up, it ALWAYS ALWAYS reverts to YES no matter what ....ugh <URL>",0.2546779217044946
+162,810430,<USER> Yes! Every time I have my phone on shuffle I get about 30 songs in a row that is purely two artists! No matter how many times I reshuffle,PLAYBACK,4,2786591,<USER> I have. 3 years in a row...,0.22685698881805658
+162,810430,<USER> Yes! Every time I have my phone on shuffle I get about 30 songs in a row that is purely two artists! No matter how many times I reshuffle,PLAYBACK,5,1867304,<USER> Yes two times,0.21739421113210708
+163,61514,<USER> Thanks tell them my life depends on this show 🆘,CONTENT_AVAILABILITY,1,2035557,<USER> I made the cut! Thank you! I'll enjoy this show!,0.2654444268765756
+163,61514,<USER> Thanks tell them my life depends on this show 🆘,CONTENT_AVAILABILITY,2,2932356,<USER> I don’t have a link but I have a screenshot! It’s on this ad! Please help me! I need this song in my life! <USER> <URL>,0.2635801074284721
+163,61514,<USER> Thanks tell them my life depends on this show 🆘,CONTENT_AVAILABILITY,3,227986,<USER> Thanks. Can you also tell them this is how music apps have worked since the Triassic period? And send them this GIF <URL>,0.24274564177518407
+163,61514,<USER> Thanks tell them my life depends on this show 🆘,CONTENT_AVAILABILITY,4,2390511,<USER> Them*,0.23381979119953383
+163,61514,<USER> Thanks tell them my life depends on this show 🆘,CONTENT_AVAILABILITY,5,1834703,"<USER> <USER> Kristen, don't be rude. Tell them more about what's happening.",0.2335216643793563
+164,2245959,"<USER> How can I do this if I can't log into any Spotify account from the PSN account? I open up the app and it doesnt give me any option to log in. It just gives me that error message. However, I do get the prompt to sign into a Spotify account on a different PSN account.",ACCOUNT_LOGIN,1,272512,<USER> It still won't let me log into my Spotify account on the Groove app to move my music. Windows and the app are up-to-date. <USER>,0.23545353028340432
+164,2245959,"<USER> How can I do this if I can't log into any Spotify account from the PSN account? I open up the app and it doesnt give me any option to log in. It just gives me that error message. However, I do get the prompt to sign into a Spotify account on a different PSN account.",ACCOUNT_LOGIN,2,97674,"<USER> Yes, I'm still having this issue, I can't log in with my spotify account but I can log in with my Facebook account.",0.22007281079469962
+164,2245959,"<USER> How can I do this if I can't log into any Spotify account from the PSN account? I open up the app and it doesnt give me any option to log in. It just gives me that error message. However, I do get the prompt to sign into a Spotify account on a different PSN account.",ACCOUNT_LOGIN,3,337850,<USER> Yes I’m using a IPhone 6 and it won’t let me log in the app but it lets me log into Spotify on google and I tried different accounts .nope!!,0.21588916402854058
+164,2245959,"<USER> How can I do this if I can't log into any Spotify account from the PSN account? I open up the app and it doesnt give me any option to log in. It just gives me that error message. However, I do get the prompt to sign into a Spotify account on a different PSN account.",ACCOUNT_LOGIN,4,562450,"<USER> thank you! It finally worked and the app can open up, except once i try to log in it says “service is temporarily unavailable”, is that a separate problem?",0.19545207378728
+164,2245959,"<USER> How can I do this if I can't log into any Spotify account from the PSN account? I open up the app and it doesnt give me any option to log in. It just gives me that error message. However, I do get the prompt to sign into a Spotify account on a different PSN account.",ACCOUNT_LOGIN,5,176537,<USER> For spotify account,0.18675118323571577
+165,1747557,<USER> I️ was using Firefox,APP_TECHNICAL,1,496121,<USER> I was using a chromebook. No app just right to the site,0.41276571706976084
+165,1747557,<USER> I️ was using Firefox,APP_TECHNICAL,2,758534,<USER> I was using mobile so that could be it.,0.40083827850938814
+165,1747557,<USER> I️ was using Firefox,APP_TECHNICAL,3,1829375,<USER> I was worth a shot. :D,0.33010390494757963
+165,1747557,<USER> I️ was using Firefox,APP_TECHNICAL,4,1848049,"<USER> I was using Android 8 on a Google Pixel, with a Gen 2 Chromecast. I have Spotify set to update when connected to power and WiFi, so it was whatever was the current version on October 19th. Sorry for this delay.",0.24390351254822296
+165,1747557,<USER> I️ was using Firefox,APP_TECHNICAL,5,2643404,<USER> Seems to be fine using Firefox,0.24179081091221322
+166,2960675,<USER> & This is why I still ♥ <USER> lol,OTHER,1,2934004,<USER> <USER> lol,0.5105279379991334
+166,2960675,<USER> & This is why I still ♥ <USER> lol,OTHER,2,2246062,<USER> Lol cool,0.46680394595294994
+166,2960675,<USER> & This is why I still ♥ <USER> lol,OTHER,3,507378,<USER> This is why I love Spotify over Apple Music ❤️,0.46006852186944147
+166,2960675,<USER> & This is why I still ♥ <USER> lol,OTHER,4,238935,<USER> Lol thx y'all,0.4410108811191338
+166,2960675,<USER> & This is why I still ♥ <USER> lol,OTHER,5,1935415,<USER> Lol I'm aware 🙈,0.4275951178295207
+167,2246124,"<USER> Yes, the update was successful.",APP_TECHNICAL,1,1767073,<USER> Yes!!,0.3551374846419065
+167,2246124,"<USER> Yes, the update was successful.",APP_TECHNICAL,2,1263264,<USER> yes.,0.3551374846419065
+167,2246124,"<USER> Yes, the update was successful.",APP_TECHNICAL,3,1517683,<USER> Yes.,0.3551374846419065
+167,2246124,"<USER> Yes, the update was successful.",APP_TECHNICAL,4,206572,<USER> Yes,0.3551374846419065
+167,2246124,"<USER> Yes, the update was successful.",APP_TECHNICAL,5,1438302,<USER> yes,0.3551374846419065
+168,510495,<USER> Nope. After a while it starts the issue again.,APP_TECHNICAL,1,377566,<USER> nope :/,0.36940789384123285
+168,510495,<USER> Nope. After a while it starts the issue again.,APP_TECHNICAL,2,289993,<USER> nope :(,0.36940789384123285
+168,510495,<USER> Nope. After a while it starts the issue again.,APP_TECHNICAL,3,1508137,<USER> nope,0.36940789384123285
+168,510495,<USER> Nope. After a while it starts the issue again.,APP_TECHNICAL,4,377554,<USER> Nope,0.36940789384123285
+168,510495,<USER> Nope. After a while it starts the issue again.,APP_TECHNICAL,5,2965848,<USER> Nope.,0.36940789384123285
+169,606301,"<USER> Ok and thanks for prompt reply! But according to this article from <URL> it's ""in the works""? <URL>",CONTENT_AVAILABILITY,1,1299701,<USER> Thank you! All sorted and thanks for the prompt reply!,0.29167521047167577
+169,606301,"<USER> Ok and thanks for prompt reply! But according to this article from <URL> it's ""in the works""? <URL>",CONTENT_AVAILABILITY,2,500946,"<USER> Thanks for prompt response, just sent dm.",0.22547440891108467
+169,606301,"<USER> Ok and thanks for prompt reply! But according to this article from <URL> it's ""in the works""? <URL>",CONTENT_AVAILABILITY,3,2141697,<USER> Thank you for a prompt response:),0.22053116811408163
+169,606301,"<USER> Ok and thanks for prompt reply! But according to this article from <URL> it's ""in the works""? <URL>",CONTENT_AVAILABILITY,4,707053,<USER> Thank you for the prompt reply but none of those apply to me,0.2118538948919551
+169,606301,"<USER> Ok and thanks for prompt reply! But according to this article from <URL> it's ""in the works""? <URL>",CONTENT_AVAILABILITY,5,2287710,<USER> Awesome 👏 thank you for the prompt reply!,0.20485388030033477
+170,2364784,<USER> Done! I've just uninstalled it so let me know when I can reinstall:),APP_TECHNICAL,1,907652,<USER> thank you! pls let me know when you think you have a fix,0.2945993906989233
+170,2364784,<USER> Done! I've just uninstalled it so let me know when I can reinstall:),APP_TECHNICAL,2,1217113,<USER> I just uninstalled it and reinstalled it. Seems to be working fine now.,0.26733298719917054
+170,2364784,<USER> Done! I've just uninstalled it so let me know when I can reinstall:),APP_TECHNICAL,3,1848104,<USER> done !,0.2644369190312664
+170,2364784,<USER> Done! I've just uninstalled it so let me know when I can reinstall:),APP_TECHNICAL,4,968813,<USER> done.,0.2644369190312664
+170,2364784,<USER> Done! I've just uninstalled it so let me know when I can reinstall:),APP_TECHNICAL,5,2041281,<USER> done,0.2644369190312664
+171,2639874,"<USER> Thanks for the reply, much appreciated & I ❤️ <USER> - There are 9,968 people who went to the trouble of voting for this since 2012. How many do you need to action it? <USER> <URL>",FEATURE_REQUEST,1,1363407,"<USER> thanks for the reply and information, much appreciated :)",0.3406709982792034
+171,2639874,"<USER> Thanks for the reply, much appreciated & I ❤️ <USER> - There are 9,968 people who went to the trouble of voting for this since 2012. How many do you need to action it? <USER> <URL>",FEATURE_REQUEST,2,431440,<USER> Thanks for the reply,0.3002761114944604
+171,2639874,"<USER> Thanks for the reply, much appreciated & I ❤️ <USER> - There are 9,968 people who went to the trouble of voting for this since 2012. How many do you need to action it? <USER> <URL>",FEATURE_REQUEST,3,1623526,<USER> Thanks for the reply!,0.3002761114944604
+171,2639874,"<USER> Thanks for the reply, much appreciated & I ❤️ <USER> - There are 9,968 people who went to the trouble of voting for this since 2012. How many do you need to action it? <USER> <URL>",FEATURE_REQUEST,4,2967124,<USER> Thanks for the reply! 🔥🎶,0.3002761114944604
+171,2639874,"<USER> Thanks for the reply, much appreciated & I ❤️ <USER> - There are 9,968 people who went to the trouble of voting for this since 2012. How many do you need to action it? <USER> <URL>",FEATURE_REQUEST,5,2412647,<USER> Thanks for the reply!😁,0.3002761114944604
+172,2511295,<USER> Shuffle does not work on my Songs folder either,PLAYBACK,1,941230,"<USER> Tried that, does not work.",0.3682934522980935
+172,2511295,<USER> Shuffle does not work on my Songs folder either,PLAYBACK,2,237565,<USER> It does not.,0.286003360230148
+172,2511295,<USER> Shuffle does not work on my Songs folder either,PLAYBACK,3,877422,<USER> Doesn't work on my mobile app either.,0.28528348132946024
+172,2511295,<USER> Shuffle does not work on my Songs folder either,PLAYBACK,4,1500612,<USER> I've tried this and it still does not work.,0.283716176801605
+172,2511295,<USER> Shuffle does not work on my Songs folder either,PLAYBACK,5,2110208,<USER> it does not work! What happened!!???Just stay charging! :( <URL>,0.27319564331389506
+173,1320118,"<USER> This, where do I opt out? <URL>",FEATURE_REQUEST,1,2436144,<USER> There’s nothing to opt out from? <URL>,0.4215238998009491
+173,1320118,"<USER> This, where do I opt out? <URL>",FEATURE_REQUEST,2,1836275,<USER> You realise that opt out consent is likely not legal? See e.g. <URL>,0.34853844302280285
+173,1320118,"<USER> This, where do I opt out? <URL>",FEATURE_REQUEST,3,2937775,"<USER> Attached: definition of the term Advertisement. This qualifies as an advertisement, and yet you still did not answer my question. Advertisements should be opt-in, not opt-out for premium users. <URL>",0.3110996022065644
+173,1320118,"<USER> This, where do I opt out? <URL>",FEATURE_REQUEST,4,612061,"<USER> look. And I don't know, where do I check that? <URL>",0.2781338085527864
+173,1320118,"<USER> This, where do I opt out? <URL>",FEATURE_REQUEST,5,997163,<USER> This <URL>,0.2762029141032044
+174,2740916,"<USER> Done, thank you for the link!",OTHER,1,2172955,"<USER> Done, thank you! \m/",0.723914099241578
+174,2740916,"<USER> Done, thank you for the link!",OTHER,2,2118762,<USER> done! Thank you,0.723914099241578
+174,2740916,"<USER> Done, thank you for the link!",OTHER,3,2615428,"<USER> Done, thank you.",0.723914099241578
+174,2740916,"<USER> Done, thank you for the link!",OTHER,4,1878733,<USER> Done! Thank you!,0.723914099241578
+174,2740916,"<USER> Done, thank you for the link!",OTHER,5,2842927,<USER> Done. Thank you,0.723914099241578
+175,2727203,<USER> It keeps saying my email account is not associated with the account but yet this is where the emails come,ACCOUNT_LOGIN,1,2836375,<USER> The account is Facebook connected.,0.2777581248140242
+175,2727203,<USER> It keeps saying my email account is not associated with the account but yet this is where the emails come,ACCOUNT_LOGIN,2,1112288,"<USER> Yeah, it keeps saying my provider is having a bad day",0.2697759280295237
+175,2727203,<USER> It keeps saying my email account is not associated with the account but yet this is where the emails come,ACCOUNT_LOGIN,3,1691142,<USER> But I want the playlists etc associated with the account to me moved to stay with it once it gets recreated. Is that possible?,0.2278505045307286
+175,2727203,<USER> It keeps saying my email account is not associated with the account but yet this is where the emails come,ACCOUNT_LOGIN,4,228073,<USER> It keeps saying I need premium but everything else works fine?,0.20882817166538625
+175,2727203,<USER> It keeps saying my email account is not associated with the account but yet this is where the emails come,ACCOUNT_LOGIN,5,1348082,<USER> I got an email to join the family package but it keeps saying something is wrong,0.1918792560388754
+176,2264870,<USER> I uninstalled the app and when I installed it a month later that is when I noticed the change . could be zoomed in some how ?,APP_TECHNICAL,1,2789382,<USER> I uninstalled the app and it works! Thx,0.393527624789379
+176,2264870,<USER> I uninstalled the app and when I installed it a month later that is when I noticed the change . could be zoomed in some how ?,APP_TECHNICAL,2,1056591,<USER> thanks for reporting! it's still poor quality a month later...,0.20268086233133747
+176,2264870,<USER> I uninstalled the app and when I installed it a month later that is when I noticed the change . could be zoomed in some how ?,APP_TECHNICAL,3,842562,<USER> I’ve tried that even uninstalled the app and reinstalled. But thankfully the app is working 100% now so im happy!!!,0.20205795275018348
+176,2264870,<USER> I uninstalled the app and when I installed it a month later that is when I noticed the change . could be zoomed in some how ?,APP_TECHNICAL,4,1211654,<USER> Okay yes I just uninstalled the app and reinstalled it and logged back in and it's still the same.,0.19720623718473013
+176,2264870,<USER> I uninstalled the app and when I installed it a month later that is when I noticed the change . could be zoomed in some how ?,APP_TECHNICAL,5,1403681,<USER> I had to re-download all my offline playlists upon switching iphones and noticed the downloads seems to work when you’re in the app and not in the background when the app is minimised.,0.18968684799181268
+177,418214,"<USER> I used facebook to sign in before and now when I try logging in, it doesn't let me sign in with my facebook password nor my facebook itself.",ACCOUNT_LOGIN,1,394171,<USER> As in log out and sign in with facebook?,0.338707170805243
+177,418214,"<USER> I used facebook to sign in before and now when I try logging in, it doesn't let me sign in with my facebook password nor my facebook itself.",ACCOUNT_LOGIN,2,1106815,"<USER> All good , I managed to get in finally but the issue is I can not sign in with my Facebook app account, I had to manually type it in.",0.3109475382375741
+177,418214,"<USER> I used facebook to sign in before and now when I try logging in, it doesn't let me sign in with my facebook password nor my facebook itself.",ACCOUNT_LOGIN,3,199148,<USER> Just comes up with my Facebook name😩 was trying to log in with my tv earlier and it wouldn’t let me,0.25791950319650464
+177,418214,"<USER> I used facebook to sign in before and now when I try logging in, it doesn't let me sign in with my facebook password nor my facebook itself.",ACCOUNT_LOGIN,4,1797814,"<USER> Error code 3, but I've also changed my facebook password too just in case. But still it doesn't work.",0.2353630244630652
+177,418214,"<USER> I used facebook to sign in before and now when I try logging in, it doesn't let me sign in with my facebook password nor my facebook itself.",ACCOUNT_LOGIN,5,994566,"<USER> No it didn't. Same error. Won't let me sign in as set to offline mode, but can't take it out of offline mode because won't let me sign in.",0.22887163152838613
+178,412333,"<USER> I’m still having this issue. It seems others are too based on this forum thread. Are your app devs working on it? They need to fix it ASAP. I’m paying for premium, and It’s very annoying not to be able to shuffle! <URL>",PLAYBACK,1,558608,"<USER> Nope, quite a few people with one plus 3s are having this issue please fix it, not paying for premium if this persists, music is unlistenable",0.22289754686600724
+178,412333,"<USER> I’m still having this issue. It seems others are too based on this forum thread. Are your app devs working on it? They need to fix it ASAP. I’m paying for premium, and It’s very annoying not to be able to shuffle! <URL>",PLAYBACK,2,2613392,<USER> Yes please!!! Badly need to listen and dl it asap 😭,0.1815162112312708
+178,412333,"<USER> I’m still having this issue. It seems others are too based on this forum thread. Are your app devs working on it? They need to fix it ASAP. I’m paying for premium, and It’s very annoying not to be able to shuffle! <URL>",PLAYBACK,3,186500,<USER> Chrome and Windows 10. Randomly checked on reddit and it seems others are having my problem,0.17684152837590045
+178,412333,"<USER> I’m still having this issue. It seems others are too based on this forum thread. Are your app devs working on it? They need to fix it ASAP. I’m paying for premium, and It’s very annoying not to be able to shuffle! <URL>",PLAYBACK,4,1836176,"<USER> And I am not alone, as you can see in the forum thread. You need to get the Spotify devs to look at this ASAP. Please escalate.",0.17534227517114742
+178,412333,"<USER> I’m still having this issue. It seems others are too based on this forum thread. Are your app devs working on it? They need to fix it ASAP. I’m paying for premium, and It’s very annoying not to be able to shuffle! <URL>",PLAYBACK,5,1409887,<USER> BS. If you intended to fix it there wouldn't be a year old thread raising this issue marked solved with no solution: <URL>,0.16077499071626197
+179,1269757,<USER> I have both restarted and reinstalled.,APP_TECHNICAL,1,89557,"<USER> Yes, completely removed and reinstalled both apps",0.31106021939445627
+179,1269757,<USER> I have both restarted and reinstalled.,APP_TECHNICAL,2,2699538,<USER> Nope? Y'all releasing demons and shit in my house? I've restarted and just deleted and reinstalled the app. No change!,0.2952682418666688
+179,1269757,<USER> I have both restarted and reinstalled.,APP_TECHNICAL,3,1198674,"<USER> 1. Doesn't load up past the splash screen, so can't log out, etc. 2. I've restarted, and reinstalled, without success.",0.2804012952185894
+179,1269757,<USER> I have both restarted and reinstalled.,APP_TECHNICAL,4,173610,"<USER> I have, yes",0.2701988452850485
+179,1269757,<USER> I have both restarted and reinstalled.,APP_TECHNICAL,5,2027645,"<USER> Restarted and even reinstalled the app, same issue. I️ May have unauthenticated via Facebook, how can I️ reauthenticate?",0.26519260179369947
+180,2916578,<USER> Thanks for the link but obviously I am aware the playlist function is not on the Roku app. Please make your Roku app better. It’s terrible.,DEVICE_PLATFORM,1,2596620,<USER> Roku app not phone app,0.31027558247554754
+180,2916578,<USER> Thanks for the link but obviously I am aware the playlist function is not on the Roku app. Please make your Roku app better. It’s terrible.,DEVICE_PLATFORM,2,414130,<USER> It's a Roku 3!,0.2786973983601357
+180,2916578,<USER> Thanks for the link but obviously I am aware the playlist function is not on the Roku app. Please make your Roku app better. It’s terrible.,DEVICE_PLATFORM,3,874987,"<USER> Found the issue on my own, the roku app is not able to do it.. <URL> also it cant use playlist from account..",0.26666527763870324
+180,2916578,<USER> Thanks for the link but obviously I am aware the playlist function is not on the Roku app. Please make your Roku app better. It’s terrible.,DEVICE_PLATFORM,4,1921312,<USER> .definitely cancelling premium after 30 day trial if I can’t get my library on the Roku app on tv .. just so u know <USER>,0.22409469289757158
+180,2916578,<USER> Thanks for the link but obviously I am aware the playlist function is not on the Roku app. Please make your Roku app better. It’s terrible.,DEVICE_PLATFORM,5,1424333,<USER> Thanks for the link but I don't think any of those situations apply to me.,0.20180693135392952
+181,1582871,<USER> <USER> <URL>,OTHER,1,239383,<USER> <USER> <URL>,1.0
+181,1582871,<USER> <USER> <URL>,OTHER,2,2040164,<USER> <USER> <USER> <URL>,0.9686096389351674
+181,1582871,<USER> <USER> <URL>,OTHER,3,466048,<USER> 💚 <URL>,0.8634362648872483
+181,1582871,<USER> <USER> <URL>,OTHER,4,1964579,<USER> #1 <URL>,0.8634362648872483
+181,1582871,<USER> <USER> <URL>,OTHER,5,2005793,<USER> ? <URL>,0.8634362648872483
+182,992103,<USER> When I don't open the app in about 24 hours all my music are no longer downloaded,APP_TECHNICAL,1,2427730,"<USER> thanks! It worked for about 24 hours and upon another restart the searching or loading no longer works, but all other programs and apps are running just fine.",0.2443458245447675
+182,992103,<USER> When I don't open the app in about 24 hours all my music are no longer downloaded,APP_TECHNICAL,2,1659878,"<USER> Ok, tried and still nothing. Also my local files are no longer syncing.",0.20528177693298633
+182,992103,<USER> When I don't open the app in about 24 hours all my music are no longer downloaded,APP_TECHNICAL,3,2268678,<USER> Happens everywhere. Even when I open the app and don't have data signal.,0.2013735516070042
+182,992103,<USER> When I don't open the app in about 24 hours all my music are no longer downloaded,APP_TECHNICAL,4,289760,"<USER> It skips when I don’t want it to, and stops when I don’t even press the button. I have the IPhone 8",0.18482653970736573
+182,992103,<USER> When I don't open the app in about 24 hours all my music are no longer downloaded,APP_TECHNICAL,5,1464496,"<USER> But no longer want them downloaded, the the iPhone app insisting on downloading all 8000 tracks",0.18088460343091184
+183,1759294,<USER> iPhone 7 iOS 11.0.2 Spotify 8.4.22.515,APP_TECHNICAL,1,1861530,"<USER> iPhone 6, iOS 11.0.3, Spotify 8.4.22.515",1.0000000000000002
+183,1759294,<USER> iPhone 7 iOS 11.0.2 Spotify 8.4.22.515,APP_TECHNICAL,2,1864817,<USER> iPhone 7 iOS 11.0.2 Spotify version 8.4.22.515,0.8272509112584798
+183,1759294,<USER> iPhone 7 iOS 11.0.2 Spotify 8.4.22.515,APP_TECHNICAL,3,853069,<USER> iOS 11.0.3 Spotify 8.4.22.515,0.8183723599009308
+183,1759294,<USER> iPhone 7 iOS 11.0.2 Spotify 8.4.22.515,APP_TECHNICAL,4,864541,"<USER> iPhone 8, iOS 11.0.3, Spotify version 8.4.22.515. Thank you!",0.7229526817372977
+183,1759294,<USER> iPhone 7 iOS 11.0.2 Spotify 8.4.22.515,APP_TECHNICAL,5,875185,"<USER> Iphone 6, IOS 11.0.3 (15A432), Spotify versio 8.4.22.515. no devices",0.7025577698016726
+184,1356625,"<USER> <USER> Cmon, <USER> . She’s a prude. 😂",OTHER,1,345167,<USER> <USER> cmon man help us out,0.3436800635791657
+184,1356625,"<USER> <USER> Cmon, <USER> . She’s a prude. 😂",OTHER,2,1417887,<USER> She's upset that it was put under that jules not hers,0.325651231023133
+184,1356625,"<USER> <USER> Cmon, <USER> . She’s a prude. 😂",OTHER,3,2610022,<USER> She's having problems with repeating one song. In the middle of listening to Queen she gets Metallica.,0.29949671591797794
+184,1356625,"<USER> <USER> Cmon, <USER> . She’s a prude. 😂",OTHER,4,2610827,<USER> She's going to check the repeat function more carefully later ☺,0.2992567280680908
+184,1356625,"<USER> <USER> Cmon, <USER> . She’s a prude. 😂",OTHER,5,478117,<USER> <USER> SpotifyDoesn’tCare,0.26825801917983394
+185,637726,<USER> Okay Spotify,OTHER,1,2919340,<USER> okay kewl,0.9353966744600943
+185,637726,<USER> Okay Spotify,OTHER,2,1463022,<USER> Okay 😉,0.9353966744600943
+185,637726,<USER> Okay Spotify,OTHER,3,1197663,<USER> okay,0.9353966744600943
+185,637726,<USER> Okay Spotify,OTHER,4,1101588,<USER> okay y,0.9353966744600943
+185,637726,<USER> Okay Spotify,OTHER,5,1695034,<USER> Okay!,0.9353966744600943
+186,1261912,<USER> 1) follow me if you’re better than Apple Music 2) the US I live here,CONTENT_AVAILABILITY,1,617831,<USER> Can you follow me?,0.31601143941551363
+186,1261912,<USER> 1) follow me if you’re better than Apple Music 2) the US I live here,CONTENT_AVAILABILITY,2,2138963,<USER> the US,0.28841660554020127
+186,1261912,<USER> 1) follow me if you’re better than Apple Music 2) the US I live here,CONTENT_AVAILABILITY,3,1707180,<USER> I live in the US,0.27706909995232204
+186,1261912,<USER> 1) follow me if you’re better than Apple Music 2) the US I live here,CONTENT_AVAILABILITY,4,2552665,<USER> Can I get a follow whilst you’re here🤔😉,0.27228623905163024
+186,1261912,<USER> 1) follow me if you’re better than Apple Music 2) the US I live here,CONTENT_AVAILABILITY,5,2950627,"<USER> Uhmmm, the US I believe",0.26660665190002475
+187,2905931,<USER> Done! Sent!,OTHER,1,2246165,<USER> Done ✅,0.8377395328137747
+187,2905931,<USER> Done! Sent!,OTHER,2,402332,<USER> Done :),0.8377395328137747
+187,2905931,<USER> Done! Sent!,OTHER,3,2549584,<USER> Done <USER>,0.8377395328137747
+187,2905931,<USER> Done! Sent!,OTHER,4,674456,<USER> done :D,0.8377395328137747
+187,2905931,<USER> Done! Sent!,OTHER,5,187523,<USER> Done.,0.8377395328137747
+188,2337258,<USER> listen here buddy. this isnt fingers crossed. im paying 9.99 a month to listen to my thugger so i better get it,CONTENT_AVAILABILITY,1,2912430,<USER> <USER> Why am I paying $14.99/month and others are paying $9.99/month? I was given the runaround last time I inquired...,0.2975226776320608
+188,2337258,<USER> listen here buddy. this isnt fingers crossed. im paying 9.99 a month to listen to my thugger so i better get it,CONTENT_AVAILABILITY,2,1888575,<USER> Thank you very much fingers crossed it gains some traction 🤞,0.26174665902723593
+188,2337258,<USER> listen here buddy. this isnt fingers crossed. im paying 9.99 a month to listen to my thugger so i better get it,CONTENT_AVAILABILITY,3,2350989,<USER> Omg really excited! *fingers crossed*,0.24046323914503553
+188,2337258,<USER> listen here buddy. this isnt fingers crossed. im paying 9.99 a month to listen to my thugger so i better get it,CONTENT_AVAILABILITY,4,2366361,"<USER> You have the license, you don't post the pods as soon as they're available, so I'm paying $9.99 a month to wait hours for a podcast I could listen to immediately and for free on 4 other platforms. Podcasts are the main reason I use Spotify, so I need to know if I'm wasting my $$.",0.23882044365647628
+188,2337258,<USER> listen here buddy. this isnt fingers crossed. im paying 9.99 a month to listen to my thugger so i better get it,CONTENT_AVAILABILITY,5,2121310,<USER> Fingers crossed! Thanks for the quick response!,0.23366255803637553
+189,1931950,<USER> It doesn't help. Sort yourselves out,APP_TECHNICAL,1,508840,<USER> It doesn’t,0.578145431121529
+189,1931950,<USER> It doesn't help. Sort yourselves out,APP_TECHNICAL,2,1588996,<USER> iOS 11.1 and it doesn’t help!,0.5103079206344141
+189,1931950,<USER> It doesn't help. Sort yourselves out,APP_TECHNICAL,3,1949752,<USER> It doesn't work,0.42990415412943095
+189,1931950,<USER> It doesn't help. Sort yourselves out,APP_TECHNICAL,4,742589,<USER> Doesn’t help. <URL>,0.41181784520908987
+189,1931950,<USER> It doesn't help. Sort yourselves out,APP_TECHNICAL,5,620391,"<USER> I’ve done that many times, it doesn’t help",0.36487150852278644
+190,559987,"<USER> I actually just did that and now it’s working, just needed to restart rather then shut down, thanks",APP_TECHNICAL,1,1291277,"<USER> Was too lazy to do that, but it's working now. Just needed to restart computer i guess.",0.3716244628139176
+190,559987,"<USER> I actually just did that and now it’s working, just needed to restart rather then shut down, thanks",APP_TECHNICAL,2,2978414,<USER> turns out i just needed to restart my phone lmao thx 4 the help,0.3232861775614345
+190,559987,"<USER> I actually just did that and now it’s working, just needed to restart rather then shut down, thanks",APP_TECHNICAL,3,2061105,<USER> Just did :),0.2468290622806836
+190,559987,"<USER> I actually just did that and now it’s working, just needed to restart rather then shut down, thanks",APP_TECHNICAL,4,64347,<USER> Just did !,0.2468290622806836
+190,559987,"<USER> I actually just did that and now it’s working, just needed to restart rather then shut down, thanks",APP_TECHNICAL,5,1101286,<USER> Just did.,0.2468290622806836
+191,1187874,<USER> Still plays the same songs over and over despite shuffle. My iPhone (and years ago my iPod) has a true random shuffle.,PLAYBACK,1,2190885,<USER> <USER> Nah shuffle plays the same stuff over and over like the same song will pop up after 2 songs,0.3599945962071442
+191,1187874,<USER> Still plays the same songs over and over despite shuffle. My iPhone (and years ago my iPod) has a true random shuffle.,PLAYBACK,2,1250729,<USER> I just want to shuffle my songs in my playlist so I don't have to listen to the same order over and over...,0.325783475022438
+191,1187874,<USER> Still plays the same songs over and over despite shuffle. My iPhone (and years ago my iPod) has a true random shuffle.,PLAYBACK,3,2284919,<USER> still the same ):,0.21511984299509757
+191,1187874,<USER> Still plays the same songs over and over despite shuffle. My iPhone (and years ago my iPod) has a true random shuffle.,PLAYBACK,4,278109,<USER> Still the same.,0.21511984299509757
+191,1187874,<USER> Still plays the same songs over and over despite shuffle. My iPhone (and years ago my iPod) has a true random shuffle.,PLAYBACK,5,787484,"<USER> Spotify's shuffle feature STILL plays the same 10-15 songs. I have a 250 song playlist, have listened to 5 repeats in 2 hrs of listening",0.21103228908183172
+192,420490,<USER> No just albums.,PLAYLIST_LIBRARY,1,620397,<USER> No just my phone,0.6056612521313872
+192,420490,<USER> No just albums.,PLAYLIST_LIBRARY,2,1363399,<USER> No 🤷‍♂️,0.48975236531195954
+192,420490,<USER> No just albums.,PLAYLIST_LIBRARY,3,387327,<USER> No,0.48975236531195954
+192,420490,<USER> No just albums.,PLAYLIST_LIBRARY,4,206586,<USER> no.,0.48975236531195954
+192,420490,<USER> No just albums.,PLAYLIST_LIBRARY,5,856683,<USER> No :-(((((,0.48975236531195954
+193,1752902,<USER> majid jordan,CONTENT_AVAILABILITY,1,1430547,<USER> It's *their (majid Jordan is a duo),0.7682698022722012
+193,1752902,<USER> majid jordan,CONTENT_AVAILABILITY,2,1561166,<USER> Majid Jordan @ The Wiltern in LA on 2/7/18,0.7030312391135587
+193,1752902,<USER> majid jordan,CONTENT_AVAILABILITY,3,1340976,<USER> Majid Jordan’s “The Space Between” and Big KRIT’s “4Eva is a Might Long Day”,0.568376849371056
+193,1752902,<USER> majid jordan,CONTENT_AVAILABILITY,4,301477,"<USER> Thanx, I submitted the same complaint/suggestion before but there were no changes, improvement. With new UI finding music is so difficult",0.0
+193,1752902,<USER> majid jordan,CONTENT_AVAILABILITY,5,591463,<USER> what about my premium? the one i paid for…?,0.0
+194,2158579,<USER> my whole discover tab has been influenced by music i uhhhhhh definitely do not like or listen to under any circumstance. only get recommendations from one genre that i would prefer spotify to ignore.,PLAYLIST_LIBRARY,1,2846486,<USER> _manny24 is my username. I would prefer not disclosing my email details here,0.20703394764501523
+194,2158579,<USER> my whole discover tab has been influenced by music i uhhhhhh definitely do not like or listen to under any circumstance. only get recommendations from one genre that i would prefer spotify to ignore.,PLAYLIST_LIBRARY,2,1112857,<USER> i would but i don’t think that would fix my problem...i only want to listen to the music on my playlists and nothing else.,0.14321294520900008
+194,2158579,<USER> my whole discover tab has been influenced by music i uhhhhhh definitely do not like or listen to under any circumstance. only get recommendations from one genre that i would prefer spotify to ignore.,PLAYLIST_LIBRARY,3,2481132,<USER> That would be it,0.1391521006353887
+194,2158579,<USER> my whole discover tab has been influenced by music i uhhhhhh definitely do not like or listen to under any circumstance. only get recommendations from one genre that i would prefer spotify to ignore.,PLAYLIST_LIBRARY,4,1104897,<USER> My vote has been added :D - Would love to see this become a feature! :D,0.13444938214697502
+194,2158579,<USER> my whole discover tab has been influenced by music i uhhhhhh definitely do not like or listen to under any circumstance. only get recommendations from one genre that i would prefer spotify to ignore.,PLAYLIST_LIBRARY,5,128874,"<USER> I’m a “find music by genre” guy, and to have a solid set of genre categories- that would be awesome. It’s hard to go to the genres available without some form of hesitancy: two points: 1. Jazz next to Gaming 2. There’s no song lists in a genre, just playlists.",0.13429520646055165
+195,1133681,<USER> Thanks! I really hope to have it soon! My early running is not the same without your music playlist 😉,FEATURE_REQUEST,1,1719762,<USER> hope to hear from u soon...,0.22173644077710758
+195,1133681,<USER> Thanks! I really hope to have it soon! My early running is not the same without your music playlist 😉,FEATURE_REQUEST,2,902395,"<USER> The El-P one is not the same as <USER> and likewise with the Ghostface ones. They seem to have similar names, but are not the same.",0.20557090295931885
+195,1133681,<USER> Thanks! I really hope to have it soon! My early running is not the same without your music playlist 😉,FEATURE_REQUEST,3,37704,<USER> Thanks! I really hope you add the option to only view new releases from artist that we follow.,0.20531111978610705
+195,1133681,<USER> Thanks! I really hope to have it soon! My early running is not the same without your music playlist 😉,FEATURE_REQUEST,4,1257200,<USER> Thanks a lot! Hope to see it gets fixed soon,0.20492931242089113
+195,1133681,<USER> Thanks! I really hope to have it soon! My early running is not the same without your music playlist 😉,FEATURE_REQUEST,5,17964,<USER> I really hope it comes to the west soon. Thanks for answering.,0.20062900333393688
+196,969965,<USER> and i have to restart the whole app then i press shuffle play it said you need premium to play the music,SUBSCRIPTION_PREMIUM,1,2045307,<USER> it stops every 2/4 minutes and then I have to restart the whole browser :/,0.27667525645775326
+196,969965,<USER> and i have to restart the whole app then i press shuffle play it said you need premium to play the music,SUBSCRIPTION_PREMIUM,2,1355031,"<USER> i'm on an iphone ios10, when i play from albums it'll play 2 songs and then stop and i have to restart spotify and shuffle play again",0.21917375973028694
+196,969965,<USER> and i have to restart the whole app then i press shuffle play it said you need premium to play the music,SUBSCRIPTION_PREMIUM,3,1209343,<USER> No message comes up except when I try to press shuffle play <URL>,0.21398299132289422
+196,969965,<USER> and i have to restart the whole app then i press shuffle play it said you need premium to play the music,SUBSCRIPTION_PREMIUM,4,885120,<USER> it will play about 2 songs and cut off wont let me press shuffle play again i swipe the app away get the same thing two songs then cuts off,0.18783355915371003
+196,969965,<USER> and i have to restart the whole app then i press shuffle play it said you need premium to play the music,SUBSCRIPTION_PREMIUM,5,1814352,"<USER> No error, just when I press the shuffle play button to the Imagine Dragons album it does not want to play. The device is my iPhone 5SE",0.18709622198665968
+197,1240119,<USER> hope so. is it just me or others with this problem?,APP_TECHNICAL,1,1291284,<USER> I hope so ❤,0.4974746495807148
+197,1240119,<USER> hope so. is it just me or others with this problem?,APP_TECHNICAL,2,2150454,<USER> I hope so!,0.4974746495807148
+197,1240119,<USER> hope so. is it just me or others with this problem?,APP_TECHNICAL,3,2310892,<USER> I hope so...,0.4974746495807148
+197,1240119,<USER> hope so. is it just me or others with this problem?,APP_TECHNICAL,4,2291010,<USER> I hope so,0.4974746495807148
+197,1240119,<USER> hope so. is it just me or others with this problem?,APP_TECHNICAL,5,2368040,<USER> i hope so 😢,0.4974746495807148
+198,1642869,<USER> iOS 11.1 and Spotify Version 8.4.25.906,APP_TECHNICAL,1,1718813,<USER> iOS 11.0.3 and Spotify version 8.4.25.906,1.0000000000000002
+198,1642869,<USER> iOS 11.1 and Spotify Version 8.4.25.906,APP_TECHNICAL,2,1695260,<USER> iOS 11.1 and Spotify version 8.4.25,0.8741437484326795
+198,1642869,<USER> iOS 11.1 and Spotify Version 8.4.25.906,APP_TECHNICAL,3,2218932,"<USER> iOS 11.2, Spotify version 8.4.25.906",0.8523855588982076
+198,1642869,<USER> iOS 11.1 and Spotify Version 8.4.25.906,APP_TECHNICAL,4,370877,"<USER> iPhone 7, iOS 11.0.3, Spotify version 8.4.25.906",0.7103813202461284
+198,1642869,<USER> iOS 11.1 and Spotify Version 8.4.25.906,APP_TECHNICAL,5,265446,<USER> iOS 11.0.3 and Spotify 8.4.25,0.662122826652588
+199,228085,"<USER> you win, I went to your feedback site.have determined it’s not worth my time to complain about this anymore. ( it’s not like I pay for it)",FEATURE_REQUEST,1,1291280,<USER> Okay you win this round... <URL>,0.1996857751936006
+199,228085,"<USER> you win, I went to your feedback site.have determined it’s not worth my time to complain about this anymore. ( it’s not like I pay for it)",FEATURE_REQUEST,2,634331,"<USER> Ha ha, you win! Thanks again for your help. 👍",0.1587614695201449
+199,228085,"<USER> you win, I went to your feedback site.have determined it’s not worth my time to complain about this anymore. ( it’s not like I pay for it)",FEATURE_REQUEST,3,1215717,"<USER> It's not like a SUPER scary ad, but still unsettling. Appreciate the response!",0.1584562287337189
+199,228085,"<USER> you win, I went to your feedback site.have determined it’s not worth my time to complain about this anymore. ( it’s not like I pay for it)",FEATURE_REQUEST,4,2582042,<USER> You vanished???,0.14512033685377101
+199,228085,"<USER> you win, I went to your feedback site.have determined it’s not worth my time to complain about this anymore. ( it’s not like I pay for it)",FEATURE_REQUEST,5,881465,<USER> id love you to fix it for everyone and not just waste my time,0.13528468612846342
+200,2912402,<USER> Portugal,CONTENT_AVAILABILITY,1,409457,<USER> i'm in Portugal right now,0.5246314889742664
+200,2912402,<USER> Portugal,CONTENT_AVAILABILITY,2,1150437,<USER> I'm in Portugal. Does that album available here?,0.3765745953414288
+200,2912402,<USER> Portugal,CONTENT_AVAILABILITY,3,587518,"<USER> Thanks for the help but resetting my iPhone worked! Keep doing you, Spotify 💕",0.0
+200,2912402,<USER> Portugal,CONTENT_AVAILABILITY,4,301477,"<USER> Thanx, I submitted the same complaint/suggestion before but there were no changes, improvement. With new UI finding music is so difficult",0.0
+200,2912402,<USER> Portugal,CONTENT_AVAILABILITY,5,591463,<USER> what about my premium? the one i paid for…?,0.0

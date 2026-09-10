@@ -1,0 +1,10 @@
+metric,value
+raw_rows,57978
+clean_rows,57978
+duplicate_tweet_id_rows,0
+duplicate_text_rows,789
+empty_text_rows,0
+invalid_created_at_rows,0
+customer_inbound_rows,14713
+support_outbound_rows,43265
+missing_parent_references,57956

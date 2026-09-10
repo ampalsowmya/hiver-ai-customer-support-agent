@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Data
+data/
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+
+# Exploratory annotation helpers
+scripts/apply_batch*.py
+scripts/apply_ids1_2.py
+scripts/show_annotation_batch.py
+scripts/show_retrieval_batch.py
+scripts/reconstruct_spotify_full.py

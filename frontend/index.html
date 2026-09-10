@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hiver AI Support Agent</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Inter, Arial, sans-serif;
+            background: #f5f7fb;
+            color: #1f2937;
+        }
+
+        .header {
+            background: #ffffff;
+            border-bottom: 1px solid #e5e7eb;
+            padding: 18px 32px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .brand {
+            font-size: 21px;
+            font-weight: 700;
+        }
+
+        .status {
+            font-size: 13px;
+            color: #15803d;
+            display: flex;
+            align-items: center;
+            gap: 7px;
+        }
+
+        .dot {
+            width: 9px;
+            height: 9px;
+            background: #22c55e;
+            border-radius: 50%;
+        }
+
+        .container {
+            max-width: 1100px;
+            margin: 35px auto;
+            padding: 0 20px;
+        }
+
+        .title {
+            margin-bottom: 25px;
+        }
+
+        .title h1 {
+            margin: 0;
+            font-size: 30px;
+        }
+
+        .title p {
+            color: #6b7280;
+            margin-top: 8px;
+        }
+
+        .card {
+            background: white;
+            border: 1px solid #e5e7eb;
+            border-radius: 12px;
+            padding: 22px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+        }
+
+        label {
+            display: block;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+
+        textarea {
+            width: 100%;
+            min-height: 110px;
+            resize: vertical;
+            border: 1px solid #d1d5db;
+            border-radius: 8px;
+            padding: 14px;
+            font-size: 15px;
+            font-family: inherit;
+            outline: none;
+        }
+
+        textarea:focus {
+            border-color: #6366f1;
+        }
+
+        button {
+            margin-top: 14px;
+            background: #111827;
+            color: white;
+            border: none;
+            padding: 11px 20px;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background: #374151;
+        }
+
+        button:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+        }
+
+        .metrics {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 14px;
+        }
+
+        .metric {
+            border: 1px solid #e5e7eb;
+            border-radius: 10px;
+            padding: 16px;
+        }
+
+        .metric-label {
+            color: #6b7280;
+            font-size: 12px;
+            margin-bottom: 7px;
+        }
+
+        .metric-value {
+            font-size: 18px;
+            font-weight: 700;
+        }
+
+        .action {
+            display: inline-block;
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 13px;
+            font-weight: 700;
+        }
+
+        .ANSWER {
+            background: #dcfce7;
+            color: #166534;
+        }
+
+        .CLARIFY {
+            background: #fef3c7;
+            color: #92400e;
+        }
+
+        .ESCALATE {
+            background: #fee2e2;
+            color: #991b1b;
+        }
+
+        .response {
+            background: #f9fafb;
+            border-left: 4px solid #6366f1;
+            padding: 16px;
+            border-radius: 6px;
+            line-height: 1.6;
+        }
+
+        .case {
+            border: 1px solid #e5e7eb;
+            border-radius: 8px;
+            padding: 14px;
+            margin-top: 12px;
+        }
+
+        .case-header {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 8px;
+        }
+
+        .score {
+            font-weight: 700;
+            font-size: 13px;
+        }
+
+        .case-text {
+            color: #4b5563;
+            font-size: 14px;
+        }
+
+        .loading {
+            display: none;
+            color: #6b7280;
+            margin-top: 12px;
+        }
+
+        .error {
+            color: #b91c1c;
+            margin-top: 12px;
+        }
+
+        .pipeline {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            flex-wrap: wrap;
+            color: #4b5563;
+            font-size: 13px;
+        }
+
+        .pipeline span {
+            background: #f3f4f6;
+            padding: 9px 13px;
+            border-radius: 7px;
+        }
+
+        @media (max-width: 800px) {
+            .metrics {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<header class="header">
+    <div class="brand">Hiver AI Support Agent</div>
+
+    <div class="status">
+        <span class="dot"></span>
+        Backend Online
+    </div>
+</header>
+
+<main class="container">
+
+    <div class="title">
+        <h1>Support Agent Console</h1>
+        <p>
+            Intent classification → historical case retrieval → triage → grounded response
+        </p>
+    </div>
+
+    <section class="card">
+
+        <label for="message">Customer message</label>
+
+        <textarea id="message"
+            placeholder="Example: My Spotify app keeps crashing on Windows..."></textarea>
+
+        <button id="analyzeBtn" onclick="analyze()">Analyze Customer Issue</button>
+
+        <div id="loading" class="loading">
+            Analyzing customer issue...
+        </div>
+
+        <div id="error" class="error"></div>
+
+    </section>
+
+    <section id="results" style="display:none;">
+
+        <div class="card">
+
+            <h3>AI Triage</h3>
+
+            <div class="metrics">
+
+                <div class="metric">
+                    <div class="metric-label">Intent</div>
+                    <div class="metric-value" id="intent">-</div>
+                </div>
+
+                <div class="metric">
+                    <div class="metric-label">Classifier Confidence</div>
+                    <div class="metric-value" id="confidence">-</div>
+                </div>
+
+                <div class="metric">
+                    <div class="metric-label">Retrieval Similarity</div>
+                    <div class="metric-value" id="similarity">-</div>
+                </div>
+
+                <div class="metric">
+                    <div class="metric-label">Recommended Action</div>
+                    <div class="metric-value">
+                        <span id="action" class="action">-</span>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="card">
+
+            <h3>AI Response</h3>
+
+            <div id="response" class="response"></div>
+
+        </div>
+
+        <div class="card">
+
+            <h3>Decision Reason</h3>
+
+            <p id="reason"></p>
+
+            <p>
+                <strong>Grounded:</strong>
+                <span id="grounded"></span>
+            </p>
+
+            <p>
+                <strong>Needs escalation:</strong>
+                <span id="escalation"></span>
+            </p>
+
+        </div>
+
+        <div class="card">
+
+            <h3>Pipeline</h3>
+
+            <div class="pipeline">
+                <span>Customer Message</span>
+                →
+                <span>Intent Classifier</span>
+                →
+                <span>Historical Retrieval</span>
+                →
+                <span>Decision Engine</span>
+                →
+                <span>Response</span>
+            </div>
+
+        </div>
+
+    </section>
+
+</main>
+
+<script>
+
+async function analyze() {
+
+    const message = document.getElementById("message").value.trim();
+
+    if (!message) {
+        document.getElementById("error").textContent =
+            "Please enter a customer message.";
+        return;
+    }
+
+    const button = document.getElementById("analyzeBtn");
+    const loading = document.getElementById("loading");
+
+    button.disabled = true;
+    loading.style.display = "block";
+
+    document.getElementById("error").textContent = "";
+
+    try {
+
+        const response = await fetch("http://127.0.0.1:8000/triage", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({
+                message: message,
+                top_k: 3
+            })
+        });
+
+        if (!response.ok) {
+            throw new Error("Backend request failed.");
+        }
+
+        const data = await response.json();
+
+        document.getElementById("results").style.display = "block";
+
+        document.getElementById("intent").textContent =
+            data.intent;
+
+        document.getElementById("confidence").textContent =
+            (data.classifier_confidence * 100).toFixed(1) + "%";
+
+        document.getElementById("similarity").textContent =
+            (data.retrieval_similarity * 100).toFixed(1) + "%";
+
+        const action = document.getElementById("action");
+
+        action.textContent = data.action;
+        action.className = "action " + data.action;
+
+        document.getElementById("response").textContent =
+            data.response;
+
+        document.getElementById("reason").textContent =
+            data.decision_reason;
+
+        document.getElementById("grounded").textContent =
+            data.grounded ? "Yes" : "No";
+
+        document.getElementById("escalation").textContent =
+            data.needs_escalation ? "Yes" : "No";
+
+    } catch (error) {
+
+        document.getElementById("error").textContent =
+            "Could not connect to the AI backend. Make sure the FastAPI server is running.";
+
+    } finally {
+
+        button.disabled = false;
+        loading.style.display = "none";
+
+    }
+}
+
+</script>
+
+</body>
+</html>

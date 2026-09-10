@@ -1,0 +1,36 @@
+
+HIVER - SPOTIFYCARES DATA QUALITY REPORT
+=========================================
+
+Raw rows:
+57,978
+
+Clean rows:
+57,978
+
+Duplicate tweet IDs:
+0
+
+Duplicate tweet text:
+789
+
+Empty text:
+0
+
+Invalid timestamps:
+0
+
+Customer / inbound rows:
+14,713
+
+Support / outbound rows:
+43,265
+
+Parent references missing from selected dataset:
+57,956
+
+OUTPUTS
+=======
+
+data\spotifycares_clean.csv
+outputs\spotify_data_quality.csv
